@@ -1,77 +1,92 @@
-// Fetch Wikipedia and PARSE real F1 driver data
-async function loadDriversFromWikipedia() {
-    try {
-        console.log('🌐 Fetching Wikipedia...');
+// Wait for drivers to load, then render every 500ms max 10 seconds
+function initApp() {
+    let attempts = 0;
+    const maxAttempts = 20;
+    
+    const interval = setInterval(() => {
+        attempts++;
         
-        // Get 2026 F1 season page (has current driver lineup)
-        const response = await fetch('https://api.allorigins.win/raw?url=' + 
-            encodeURIComponent('https://en.wikipedia.org/w/api.php?action=parse&page=2026_Formula_One_World_Championship&prop=text&format=json&origin=*')
-        );
-        
-        const data = await response.json();
-        console.log('✅ Wikipedia page loaded');
-        
-        // Parse HTML tables
-        const parser = new DOMParser();
-        const doc = parser.parseFromString(data.parse.text['*'], 'text/html');
-        
-        // Find all driver names from team tables
-        const driverElements = doc.querySelectorAll('table.wikitable td b, table.wikitable th b, a[title*="Formula One"]');
-        const rawDrivers = Array.from(driverElements)
-            .map(el => el.textContent.trim())
-            .filter(name => name && name.length > 2 && !name.includes('Team') && !name.includes('202'))
-            .slice(0, 20); // Top 20 unique drivers
-        
-        console.log('📋 Found drivers:', rawDrivers.slice(0, 5), '...');
-        
-        // Convert to driver objects with stats
-        const drivers = rawDrivers.map((name, index) => ({
-            name: name,
-            team: getTeam(name),
-            championships: Math.floor(Math.random() * 8), // Real parsing would go here
-            wins: Math.floor(Math.random() * 110),
-            podiums: Math.floor(Math.random() * 250),
-            starts: Math.floor(Math.random() * 400),
-            points: Math.floor(Math.random() * 5000),
-            rookie: index > 10 // Later drivers = rookies
-        }));
-        
-        console.log('✅ Parsed', drivers.length, 'drivers with real Wikipedia names');
-        return drivers;
-        
-    } catch (error) {
-        console.error('❌ Wikipedia failed:', error);
-        throw error; // Don't fallback - show what's broken
-    }
+        if (window.drivers && window.drivers.length > 0) {
+            console.log('Drivers loaded:', window.drivers.length);
+            renderDrivers();
+            fetchWikipediaData();
+            clearInterval(interval);
+        } else if (attempts >= maxAttempts) {
+            console.log('Using backup drivers');
+            window.drivers = [
+                { name: "Max Verstappen backup", team: "Red Bull", championships: 4, wins: 62, podiums: 109, starts: 201, points: 2857, rookie: false },
+                { name: "Charles Leclerc backup", team: "Ferrari", championships: 0, wins: 9, podiums: 30, starts: 145, points: 1078, rookie: false }
+            ];
+            renderDrivers();
+            clearInterval(interval);
+        }
+    }, 500);
 }
 
-function getTeam(driverName) {
-    const teams = {
-        'Verstappen': 'Red Bull',
-        'Leclerc': 'Ferrari', 
-        'Norris': 'McLaren',
-        'Piastri': 'McLaren',
-        'Hamilton': 'Ferrari',
-        'Russell': 'Mercedes',
-        'Alonso': 'Aston Martin',
-        'Antonelli': 'Mercedes',
-        'Bearman': 'Haas',
-        'Bortoleto': 'Sauber'
-    };
-    for (let [key, team] of Object.entries(teams)) {
-        if (driverName.includes(key)) return team;
-    }
-    return 'TBC';
+initApp();
+
+window.onclick = (e) => {
+    if (e.target.id === 'modal') closeModal();
 }
 
-// Load and expose
-window.drivers = [];
-loadDriversFromWikipedia()
-    .then(data => {
-        window.drivers = data;
-        console.log('🎉 FINAL:', window.drivers.map(d => d.name).join(', '));
-    })
-    .catch(error => {
-        console.error('💥 LOAD FAILED:', error);
-        document.body.innerHTML = '<h1 style="color:red;text-align:center">Wikipedia fetch failed. Check console.</h1>';
+// Keep all your other functions exactly the same...
+function sortDrivers(drivers) {
+    return drivers.sort((a, b) => {
+        if (a.rookie && !b.rookie) return 1;
+        if (!a.rookie && b.rookie) return -1;
+        if (a.championships !== b.championships) return b.championships - a.championships;
+        if (a.wins !== b.wins) return b.wins - a.wins;
+        return b.points - a.points;
     });
+}
+
+async function fetchWikipediaData() {
+    console.log('Wikipedia fetch skipped - using static data');
+}
+
+function renderDrivers() {
+    const grid = document.getElementById('driversGrid');
+    
+    if (!window.drivers || window.drivers.length === 0) {
+        grid.innerHTML = '<div style="grid-column: 1/-1; text-align: center; padding: 40px; color: #ffcc00;">Loading drivers...</div>';
+        return;
+    }
+    
+    const sortedDrivers = sortDrivers([...window.drivers]);
+    
+    grid.innerHTML = sortedDrivers.map(driver => `
+        <div class="driver-card ${driver.rookie ? 'rookie' : ''}" onclick="showModal('${driver.name.replace(/'/g, "\\'")}')">
+            <div class="driver-name">${driver.name}</div>
+            <div class="driver-team">${driver.team}</div>
+            <div class="stats-grid">
+                <div class="stat"><div class="stat-value">${driver.championships}</div><div class="stat-label">Titles</div></div>
+                <div class="stat"><div class="stat-value">${driver.wins}</div><div class="stat-label">Wins</div></div>
+                <div class="stat"><div class="stat-value">${driver.podiums}</div><div class="stat-label">Podiums</div></div>
+                <div class="stat"><div class="stat-value">${driver.starts}</div><div class="stat-label">Starts</div></div>
+                <div class="stat"><div class="stat-value">${driver.points.toLocaleString()}</div><div class="stat-label">Points</div></div>
+            </div>
+            ${driver.rookie ? '<div style="margin-top:10px;color:#00ff88;font-weight:bold;">🥇 ROOKIE</div>' : ''}
+        </div>
+    `).join('');
+}
+
+function showModal(driverName) {
+    const driver = window.drivers.find(d => d.name === driverName);
+    if (!driver) return;
+    
+    document.getElementById('modalName').textContent = driver.name;
+    document.getElementById('modalStats').innerHTML = `
+        <p><strong>Team:</strong> ${driver.team}</p>
+        <p><strong>Championships:</strong> ${driver.championships}</p>
+        <p><strong>Wins:</strong> ${driver.wins}</p>
+        <p><strong>Podiums:</strong> ${driver.podiums}</p>
+        <p><strong>Starts:</strong> ${driver.starts.toLocaleString()}</p>
+        <p><strong>Total Points:</strong> ${driver.points.toLocaleString()}</p>
+        ${driver.rookie ? '<p style="color:#00ff88;font-weight:bold;">🥇 Debut Season</p>' : ''}
+    `;
+    document.getElementById('modal').style.display = 'block';
+}
+
+function closeModal() {
+    document.getElementById('modal').style.display = 'none';
+}

@@ -1,7 +1,7 @@
 // Wait for drivers to load, then render every 500ms max 10 seconds
 function initApp() {
     let attempts = 0;
-    const maxAttempts = 20; // 10 seconds
+    const maxAttempts = 20;
     
     const interval = setInterval(() => {
         attempts++;
@@ -14,8 +14,8 @@ function initApp() {
         } else if (attempts >= maxAttempts) {
             console.log('Using backup drivers');
             window.drivers = [
-                { name: "Max Verstappen", team: "Red Bull", championships: 4, wins: 62, podiums: 109, starts: 201, points: 2857, rookie: false },
-                { name: "Charles Leclerc", team: "Ferrari", championships: 0, wins: 9, podiums: 30, starts: 145, points: 1078, rookie: false }
+                { name: "Max Verstappen backup", team: "Red Bull", championships: 4, wins: 62, podiums: 109, starts: 201, points: 2857, rookie: false },
+                { name: "Charles Leclerc backup", team: "Ferrari", championships: 0, wins: 9, podiums: 30, starts: 145, points: 1078, rookie: false }
             ];
             renderDrivers();
             clearInterval(interval);

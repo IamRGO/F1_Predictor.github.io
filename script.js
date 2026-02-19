@@ -1,69 +1,60 @@
 const BASE_URL = "https://ergast.com/api/f1";
+const SEASON = "2025"; // Change to 2026 when available
 
-// 2026 season (change if needed)
-const SEASON = "2026";
+async function fetchStandings() {
+    const response = await fetch(`${BASE_URL}/${SEASON}/driverStandings.json`);
+    
+    if (!response.ok) {
+        throw new Error("Failed to fetch standings");
+    }
 
-async function fetchDrivers() {
-    const response = await fetch(`${BASE_URL}/${SEASON}/drivers.json`);
     const data = await response.json();
-    return data.MRData.DriverTable.Drivers;
+
+    return data.MRData.StandingsTable.StandingsLists[0].DriverStandings;
 }
 
-async function fetchCareerStats(driverId) {
-    let wins = 0;
-    let podiums = 0;
-
-    // Fetch all race results for driver
-    const response = await fetch(`${BASE_URL}/drivers/${driverId}/results.json?limit=1000`);
-    const data = await response.json();
-    const races = data.MRData.RaceTable.Races;
-
-    races.forEach(race => {
-        race.Results.forEach(result => {
-            const position = parseInt(result.position);
-
-            if (position === 1) wins++;
-            if (position <= 3) podiums++;
-        });
-    });
-
-    return { wins, podiums };
-}
-
-function createDriverCard(driver, stats) {
+function createDriverCard(driverStanding) {
     const container = document.getElementById("drivers-container");
+
+    const driver = driverStanding.Driver;
+    const constructor = driverStanding.Constructors[0];
 
     const card = document.createElement("div");
     card.classList.add("driver-card");
 
     card.innerHTML = `
-        <h2>${driver.givenName} ${driver.familyName}</h2>
-        <p class="stat"><strong>Nationality:</strong> ${driver.nationality}</p>
-        <p class="stat"><strong>Date of Birth:</strong> ${driver.dateOfBirth}</p>
-        <p class="stat"><strong>Career Wins:</strong> ${stats.wins}</p>
-        <p class="stat"><strong>Career Podiums:</strong> ${stats.podiums}</p>
+        <h2>#${driverStanding.position} ${driver.givenName} ${driver.familyName}</h2>
+        <p><strong>Team:</strong> ${constructor.name}</p>
+        <p><strong>Nationality:</strong> ${driver.nationality}</p>
+        <p><strong>Points:</strong> ${driverStanding.points}</p>
+        <p><strong>Wins:</strong> ${driverStanding.wins}</p>
     `;
 
     container.appendChild(card);
 }
 
-async function loadDrivers() {
+async function loadStandings() {
     const container = document.getElementById("drivers-container");
-    container.innerHTML = "<p>Loading 2026 drivers...</p>";
+    container.textContent = "Loading season standings...";
 
     try {
-        const drivers = await fetchDrivers();
+        const standings = await fetchStandings();
+
         container.innerHTML = "";
 
-        for (const driver of drivers) {
-            const stats = await fetchCareerStats(driver.driverId);
-            createDriverCard(driver, stats);
+        if (!standings || standings.length === 0) {
+            container.textContent = "No standings available for this season.";
+            return;
         }
 
+        standings.forEach(driverStanding => {
+            createDriverCard(driverStanding);
+        });
+
     } catch (error) {
-        container.innerHTML = "<p>Error loading data.</p>";
+        container.textContent = "Error loading standings.";
         console.error(error);
     }
 }
 
-loadDrivers();
+loadStandings();

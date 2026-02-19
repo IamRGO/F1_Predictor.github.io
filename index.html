@@ -3,11 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>F1 Predictor</title>
+    <title>F1 Driver Rankings 2026</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <h1>Hello, World 🌎 👋</h1>
+        <h1>🏎️ F1 Driver Rankings 2026</h1>
+        <p>Career stats | Updated from Wikipedia</p>
     </header>
+
+    <div class="drivers-grid" id="driversGrid"></div>
+
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <h2 id="modalName"></h2>
+            <div id="modalStats"></div>
+            <button onclick="closeModal()">Close</button>
+        </div>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>

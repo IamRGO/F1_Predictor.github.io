@@ -1,30 +1,10 @@
 // Fetch current 2026 F1 drivers from Wikipedia API
 async function loadDriversFromWikipedia() {
     try {
-        // Get current season drivers from Wikipedia's driver list
-        const response = await fetch('https://en.wikipedia.org/w/api.php?' + 
-            new URLSearchParams({
-                action: 'parse',
-                page: 'List_of_Formula_One_drivers',
-                prop: 'text',
-                format: 'json',
-                origin: '*'
-            })
-        );
-        
-        const data = await response.json();
-        const html = data.parse.text['*'];
-        
-        // Extract current drivers table (this parses the active drivers section)
-        const parser = new DOMParser();
-        const doc = parser.parseFromString(html, 'text/html');
-        const tables = doc.querySelectorAll('table');
-        
-        // Find current drivers (look for 2026 season table/rows)
-        let drivers = [];
+        // ... your existing fetch code ...
         
         // Fallback to official 2026 lineup + Wikipedia stats
-        drivers = [
+        const drivers = [
             { name: "Max Verstappen", team: "Red Bull", championships: 4, wins: 62, podiums: 109, starts: 201, points: 2857, rookie: false },
             { name: "Charles Leclerc", team: "Ferrari", championships: 0, wins: 9, podiums: 30, starts: 145, points: 1078, rookie: false },
             { name: "Lando Norris", team: "McLaren", championships: 0, wins: 2, podiums: 14, starts: 120, points: 695, rookie: false },
@@ -42,19 +22,14 @@ async function loadDriversFromWikipedia() {
         
     } catch (error) {
         console.log('Wikipedia fetch failed, using backup data');
-        // Backup data (real 2026 lineup)
         return [
-            { name: "Max Verstappen", team: "Red Bull", championships: 4, wins: 62, podiums: 109, starts: 201, points: 2857, rookie: false },
-            { name: "Charles Leclerc", team: "Ferrari", championships: 0, wins: 9, podiums: 30, starts: 145, points: 1078, rookie: false },
-            { name: "Lando Norris", team: "McLaren", championships: 0, wins: 2, podiums: 14, starts: 120, points: 695, rookie: false },
-            { name: "George Russell", team: "Mercedes", championships: 0, wins: 1, podiums: 9, starts: 100, points: 471, rookie: false },
-            { name: "Oliver Bearman", team: "Haas", championships: 0, wins: 0, podiums: 0, starts: 0, points: 0, rookie: true }
+            // ... your backup data ...
         ];
     }
 }
 
-// Export for script.js
-let drivers = [];
+// Load and expose globally
+window.drivers = []; // Make available to script.js
 loadDriversFromWikipedia().then(data => {
-    drivers = data;
+    window.drivers = data; // Expose to script.js
 });

@@ -11,21 +11,53 @@ function extractDriversFromEntries(html) {
     const parser = new DOMParser();
     const doc = parser.parseFromString(html, "text/html");
 
-    const tables = doc.querySelectorAll("table.wikitable");
+    // Find the "Entries" section header
+    const headlines = doc.querySelectorAll("span.mw-headline");
 
-    let drivers = [];
+    let entriesHeader = null;
 
-    tables.forEach(table => {
-        const rows = table.querySelectorAll("tr");
-        rows.forEach(row => {
-            const link = row.querySelector("a");
-            if (link && link.getAttribute("title")?.includes("Grand Prix")) {
-                drivers.push(link.getAttribute("title"));
-            }
-        });
+    headlines.forEach(headline => {
+        if (headline.textContent.trim() === "Entries") {
+            entriesHeader = headline;
+        }
     });
 
-    return [...new Set(drivers)];
+    if (!entriesHeader) {
+        console.error("Entries section not found.");
+        return [];
+    }
+
+    // The table should be after the header
+    let element = entriesHeader.parentElement.nextElementSibling;
+
+    while (element && !element.classList.contains("wikitable")) {
+        element = element.nextElementSibling;
+    }
+
+    if (!element) {
+        console.error("Entries table not found.");
+        return [];
+    }
+
+    const rows = element.querySelectorAll("tr");
+    let drivers = [];
+
+    rows.forEach((row, index) => {
+        if (index === 0) return; // skip header row
+
+        const cells = row.querySelectorAll("td");
+
+        // On Wikipedia F1 entries table,
+        // driver name is usually second column
+        if (cells.length > 1) {
+            const link = cells[1].querySelector("a");
+            if (link) {
+                drivers.push(link.getAttribute("title"));
+            }
+        }
+    });
+
+    return drivers;
 }
 
 async function getDriverWins(driverName) {

@@ -18,53 +18,42 @@ function extractDriversFromEntries(html) {
     const parser = new DOMParser();
     const doc = parser.parseFromString(html, "text/html");
 
-    // Find the "Entries" section header
-    const headlines = doc.querySelectorAll("span.mw-headline");
+    const tables = doc.querySelectorAll("table.wikitable");
 
-    let entriesHeader = null;
+    for (const table of tables) {
+        const headers = table.querySelectorAll("th");
 
-    headlines.forEach(headline => {
-        if (headline.textContent.toLowerCase().includes("entries")) {
-            entriesHeader = headline;
-        }
-    });
+        let hasDriverColumn = false;
 
-    if (!entriesHeader) {
-        console.error("Entries section not found.");
-        return [];
-    }
-
-    // The table should be after the header
-    let element = entriesHeader.parentElement.nextElementSibling;
-
-    while (element && !element.classList.contains("wikitable")) {
-        element = element.nextElementSibling;
-    }
-
-    if (!element) {
-        console.error("Entries table not found.");
-        return [];
-    }
-
-    const rows = element.querySelectorAll("tr");
-    let drivers = [];
-
-    rows.forEach((row, index) => {
-        if (index === 0) return; // skip header row
-
-        const cells = row.querySelectorAll("td");
-
-        // On Wikipedia F1 entries table,
-        // driver name is usually second column
-        if (cells.length > 1) {
-            const link = cells[1].querySelector("a");
-            if (link) {
-                drivers.push(link.getAttribute("title"));
+        headers.forEach(header => {
+            if (header.textContent.toLowerCase().includes("driver")) {
+                hasDriverColumn = true;
             }
-        }
-    });
+        });
 
-    return drivers;
+        if (hasDriverColumn) {
+            const rows = table.querySelectorAll("tr");
+            let drivers = [];
+
+            rows.forEach((row, index) => {
+                if (index === 0) return;
+
+                const cells = row.querySelectorAll("td");
+
+                if (cells.length > 0) {
+                    const link = cells[0].querySelector("a");
+                    if (link) {
+                        drivers.push(link.getAttribute("title"));
+                    }
+                }
+            });
+
+            return drivers;
+        }
+    }
+
+    console.error("Driver table not found.");
+    return [];
 }
 
 async function getDriverWins(driverName) {

@@ -48,7 +48,7 @@ async function getDriverWins(driverName) {
 }
 
 async function loadDrivers() {
-    const container = document.getElementById("drivers-container");
+    const container = document.getElementById("Entries");
     container.innerHTML = "Loading drivers...";
 
     const pageHTML = await getPageContent("2026_Formula_One_World_Championship");

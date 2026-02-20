@@ -21,30 +21,30 @@ function extractDriversFromEntries(html) {
     const tables = doc.querySelectorAll("table.wikitable");
 
     for (const table of tables) {
-        const headers = table.querySelectorAll("th");
+        const headerRow = table.querySelector("tr");
+        if (!headerRow) continue;
 
-        let hasDriverColumn = false;
+        const headers = Array.from(headerRow.querySelectorAll("th"))
+            .map(th => th.textContent.toLowerCase());
 
-        headers.forEach(header => {
-            if (header.textContent.toLowerCase().includes("driver")) {
-                hasDriverColumn = true;
-            }
-        });
+        // Identify the Entries table
+        if (headers.includes("entrant") && headers.includes("constructor")) {
 
-        if (hasDriverColumn) {
-            const rows = table.querySelectorAll("tr");
             let drivers = [];
+            const rows = table.querySelectorAll("tr");
 
             rows.forEach((row, index) => {
-                if (index === 0) return;
+                if (index === 0) return; // skip header
 
                 const cells = row.querySelectorAll("td");
 
-                if (cells.length > 0) {
-                    const link = cells[0].querySelector("a");
-                    if (link) {
-                        drivers.push(link.getAttribute("title"));
-                    }
+                // Drivers are usually in 3rd and 4th column
+                if (cells.length >= 4) {
+                    const driver1 = cells[2].querySelector("a");
+                    const driver2 = cells[3].querySelector("a");
+
+                    if (driver1) drivers.push(driver1.getAttribute("title"));
+                    if (driver2) drivers.push(driver2.getAttribute("title"));
                 }
             });
 
@@ -52,7 +52,7 @@ function extractDriversFromEntries(html) {
         }
     }
 
-    console.error("Driver table not found.");
+    console.error("Entries table not found.");
     return [];
 }
 

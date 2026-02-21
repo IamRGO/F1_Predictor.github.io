@@ -8,27 +8,43 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <div class="background-graphics">
+        <div class="graphic graphic-1"></div>
+        <div class="graphic graphic-2"></div>
+        <div class="graphic graphic-3"></div>
+    </div>
+
     <header class="header">
+        <div class="header-accent"></div>
         <div class="header-content">
-            <div class="hero-badge">Race Prediction</div>
-            <h1 class="title">Who wins the next race?</h1>
-            <p class="subtitle">Powered by Gemini AI</p>
+            <h1 class="title">🏎️ Who Wins the Next Race? 🏎️</h1>
+            <p class="subtitle">
+                <span class="ai-badge">🤖 AI Powered</span>
+                Gemini Predictions
+            </p>
         </div>
     </header>
 
     <main class="container">
         <section class="race-info-section">
             <div class="race-header">
+                <div class="race-flag">🏁</div>
                 <div class="race-details">
                     <h2 id="raceName" class="race-name">Loading...</h2>
                     <div class="race-meta">
                         <div class="meta-item">
-                            <span class="meta-label">Location</span>
-                            <span class="meta-value" id="raceLocation">—</span>
+                            <span class="meta-icon">📍</span>
+                            <div>
+                                <span class="meta-label">Location</span>
+                                <span class="meta-value" id="raceLocation">—</span>
+                            </div>
                         </div>
                         <div class="meta-item">
-                            <span class="meta-label">Date</span>
-                            <span class="meta-value" id="raceDate">—</span>
+                            <span class="meta-icon">🕐</span>
+                            <div>
+                                <span class="meta-label">Date</span>
+                                <span class="meta-value" id="raceDate">—</span>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -36,37 +52,52 @@
         </section>
 
         <section class="prediction-section">
-            <h2 class="section-title">Podium Prediction</h2>
+            <h2 class="section-title">
+                <span class="title-icon">🏆</span> Podium Prediction
+            </h2>
             <div class="podium">
-                <!-- 2nd Place -->
                 <div class="podium-slot second-place">
+                    <div class="medal-badge">🥈</div>
                     <div class="position-number">2</div>
                     <div class="podium-card">
+                        <div class="car-icon">🏎️</div>
                         <div class="driver-name" id="driver2">Oscar Piastri</div>
                     </div>
+                    <div class="position-bar"></div>
                 </div>
 
-                <!-- 1st Place (Center) -->
                 <div class="podium-slot first-place">
+                    <div class="medal-badge crown">👑</div>
                     <div class="position-number">1</div>
                     <div class="podium-card winner">
+                        <div class="car-icon">🏎️</div>
                         <div class="driver-name" id="driver1">Lando Norris</div>
+                        <div class="winner-badge">WINNER</div>
                     </div>
+                    <div class="position-bar"></div>
                 </div>
 
-                <!-- 3rd Place -->
                 <div class="podium-slot third-place">
+                    <div class="medal-badge">🥉</div>
                     <div class="position-number">3</div>
                     <div class="podium-card">
+                        <div class="car-icon">🏎️</div>
                         <div class="driver-name" id="driver3">Max Verstappen</div>
                     </div>
+                    <div class="position-bar"></div>
                 </div>
             </div>
         </section>
 
         <section class="reasoning-section">
-            <h2 class="section-title">Why?</h2>
+            <h2 class="section-title">
+                <span class="title-icon">💡</span> AI Analysis
+            </h2>
             <div class="reasoning-card">
+                <div class="analysis-header">
+                    <span class="analysis-icon">🤖</span>
+                    <span>Gemini Analysis</span>
+                </div>
                 <p id="reasoning">Loading prediction reasoning...</p>
                 <div class="prediction-time">
                     <small id="predictionTime">Prediction generated: —</small>
@@ -76,12 +107,22 @@
     </main>
 
     <footer class="footer">
+        <div class="footer-accent"></div>
         <div class="footer-content">
-            <p class="footer-text">Predictions powered by <strong>Gemini AI</strong></p>
+            <div class="footer-badge">
+                <span>🤖</span>
+                <span>Powered by Gemini AI</span>
+            </div>
             <div class="social-links">
-                <a href="https://github.com/IamRGO" target="_blank" rel="noopener noreferrer" class="social-link">GitHub</a>
-                <a href="https://www.linkedin.com/in/ricky-go-9240b12ab/" target="_blank" rel="noopener noreferrer" class="social-link">LinkedIn</a>
-                <a href="https://iamrgo.github.io/index.html" target="_blank" rel="noopener noreferrer" class="social-link">Portfolio</a>
+                <a href="https://github.com/IamRGO" target="_blank" rel="noopener noreferrer" class="social-link">
+                    <span>🐙</span> GitHub
+                </a>
+                <a href="https://www.linkedin.com/in/ricky-go-9240b12ab/" target="_blank" rel="noopener noreferrer" class="social-link">
+                    <span>💼</span> LinkedIn
+                </a>
+                <a href="https://iamrgo.github.io/index.html" target="_blank" rel="noopener noreferrer" class="social-link">
+                    <span>🌐</span> Portfolio
+                </a>
             </div>
             <p class="footer-copyright">© 2026 F1 Podium AI</p>
         </div>

@@ -1,3 +1,42 @@
+// Analytics loader function
+function loadAnalytics() {
+    const script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-2WB20LY88X';
+    document.head.appendChild(script);
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){ dataLayer.push(arguments); }
+    window.gtag = gtag;
+    gtag('js', new Date());
+    gtag('config', 'G-2WB20LY88X');
+}
+
+// Cookie consent initialization
+(function initConsent() {
+    const consent = localStorage.getItem('analytics-consent');
+    if (consent === 'true') {
+        loadAnalytics();
+        return;
+    }
+    if (consent === 'false') {
+        return;
+    }
+
+    const banner = document.getElementById('cookie-banner');
+    if (!banner) return;
+
+    document.getElementById('cookie-accept').addEventListener('click', () => {
+        localStorage.setItem('analytics-consent', 'true');
+        banner.classList.add('hidden');
+        loadAnalytics();
+    });
+
+    document.getElementById('cookie-reject').addEventListener('click', () => {
+        localStorage.setItem('analytics-consent', 'false');
+        banner.classList.add('hidden');
+    });
+})();
+
 async function loadPredictions() {
     try {
         const response = await fetch('./data/predictions.json');

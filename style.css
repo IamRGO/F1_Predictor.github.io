@@ -648,6 +648,35 @@ footer {
     box-shadow: 0 0 15px rgba(220, 20, 60, 0.2);
 }
 
+.footer-tagline {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    margin: 15px 0;
+    line-height: 1.6;
+}
+
+.footer-tagline p {
+    margin: 0;
+}
+
+.footer-tagline strong {
+    color: var(--primary-accent);
+    font-weight: 700;
+}
+
+.footer-tagline a {
+    color: var(--primary-accent);
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    border-bottom: 1px solid rgba(220, 20, 60, 0.5);
+}
+
+.footer-tagline a:hover {
+    color: var(--accent-gold);
+    border-bottom-color: var(--accent-gold);
+}
+
 .social-links {
     display: flex;
     justify-content: center;

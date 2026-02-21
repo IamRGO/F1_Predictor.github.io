@@ -8,14 +8,7 @@ from pathlib import Path
 import requests
 from google import genai
 
-try:
-    from fetch_news import format_news_for_prompt, fetch_f1_news
-except ImportError:
-    # Fallback if fetch_news is not available
-    def fetch_f1_news(*args, **kwargs):
-        return []
-    def format_news_for_prompt(*args, **kwargs):
-        return "(No news data available)"
+from fetch_news import format_news_for_prompt, fetch_f1_news
 
 # 1) Get the next race from OpenF1 API
 def get_next_race():

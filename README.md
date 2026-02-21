@@ -11,6 +11,7 @@
 ## ✨ Features
 
 - 🤖 **AI-Powered Predictions** — Uses Google Gemini to analyze historical race data and predict podium finishers
+- 📰 **Live News Integration** — Fetches latest F1 news from multiple RSS feeds to inform predictions
 - 📊 **Real-time Data** — Fetches latest F1 race schedules from OpenF1 API
 - 🔄 **Auto-Updates** — GitHub Actions runs predictions every 6 hours
 - 🎨 **Premium UI** — Apple-inspired minimalist design with smooth animations
@@ -25,9 +26,10 @@
 | Layer | Technology |
 |-------|-----------|
 | **Frontend** | HTML5, CSS3, Vanilla JavaScript |
-| **Backend** | Python 3.11 |
+| **Backend** | Python 3.11+ |
 | **AI/ML** | Google Gemini 3-Flash |
-| **Data** | OpenF1 API, Local JSON storage |
+| **Data Sources** | OpenF1 API, RSS Feeds (BBC Sport, Motorsport.com, Sky Sports) |
+| **Data Storage** | Local JSON storage |
 | **Automation** | GitHub Actions |
 | **Hosting** | GitHub Pages |
 
@@ -40,15 +42,17 @@
    ↓
 2. Fetches latest F1 race schedule & historical results 📊
    ↓
-3. Sends data to Gemini AI with race analysis prompt 🤖
+3. Fetches latest F1 news from RSS feeds 📰
    ↓
-4. Gemini predicts podium (1st, 2nd, 3rd) + reasoning 🏆
+4. Sends data to Gemini AI with race analysis + news context 🤖
    ↓
-5. Saves predictions.json to data/ folder 💾
+5. Gemini predicts podium (1st, 2nd, 3rd) + reasoning 🏆
    ↓
-6. Commits & pushes changes to repo 📤
+6. Saves predictions.json to data/ folder 💾
    ↓
-7. Website automatically displays latest predictions ✨
+7. Commits & pushes changes to repo 📤
+   ↓
+8. Website automatically displays latest predictions ✨
 ```
 
 ---
@@ -111,8 +115,9 @@ The AI generates JSON with the following structure:
 
 5. **Run predictions locally**
    ```bash
-   python scripts/fetch.py      # Fetch F1 data
-   python scripts/predict.py    # Generate predictions
+   python scripts/fetch.py      # Fetch F1 race data
+   python scripts/fetch_news.py # Fetch latest F1 news (optional)
+   python scripts/predict.py    # Generate predictions with AI
    ```
 
 6. **View the website**
@@ -139,34 +144,26 @@ The GitHub Action will now run automatically every 6 hours.
 
 ```
 f1-predictor/
-├── index.html              # Main website
-├── style.css               # Premium styling
-├── app.js                  # Frontend logic
-├── requirements.txt        # Python dependencies
+├── index.html                  # Main website
+├── style.css                   # Premium styling
+├── app.js                      # Frontend logic
+├── requirements.txt            # Python dependencies
 │
 ├── scripts/
-│   ├── fetch.py           # Fetches F1 data from OpenF1 API
-│   ├── predict.py         # Generates predictions with Gemini
-│   └── driver_info.py     # Driver utilities
+│   ├── fetch.py               # Fetches F1 data from OpenF1 API
+│   ├── fetch_news.py          # Fetches & condenses F1 news from RSS feeds
+│   ├── predict.py             # Generates predictions with Gemini + news context
+│   └── driver_info.py         # Driver utilities
 │
 ├── data/
-│   ├── predictions.json   # Latest predictions (auto-generated)
+│   ├── predictions.json       # Latest predictions (auto-generated)
+│   ├── f1_news_cache.json     # Latest F1 news articles (auto-generated)
 │   ├── f1_race_results.json
 │   └── 2026.json
 │
 └── .github/workflows/
-    └── update_f1.yml      # GitHub Actions automation
+    └── update_f1.yml          # GitHub Actions automation
 ```
-
----
-
-## 🎨 Design Highlights
-
-- **Dark Mode Premium Design** — Apple-inspired minimalism
-- **Smooth Animations** — Fade-ins, hover effects, glowing accents
-- **Responsive Layout** — Perfect on all screen sizes
-- **Interactive Elements** — Hover effects on cards and buttons
-- **Clean Typography** — System fonts for premium feel
 
 ---
 
@@ -175,6 +172,9 @@ f1-predictor/
 | Source | Purpose |
 |--------|---------|
 | [OpenF1 API](https://openf1.org/) | Race schedules, historical results |
+| [BBC Sport RSS](https://feeds.bbci.co.uk/sport/formula1/rss.xml) | Latest F1 news & updates |
+| [Motorsport.com RSS](https://feeds.motorsport.com/f1/news) | F1 coverage & analysis |
+| [Sky Sports RSS](https://feeds.news.sky.com/sports/f1) | Racing news & insights |
 | [Google Gemini](https://aistudio.google.com/) | AI predictions & analysis |
 
 ---

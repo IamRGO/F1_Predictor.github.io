@@ -48,5 +48,52 @@ async function loadPredictions() {
     }
 }
 
-// Load predictions when page loads
-document.addEventListener('DOMContentLoaded', loadPredictions);
+async function loadNews() {
+    try {
+        const response = await fetch('./data/f1_news_cache.json');
+        const data = await response.json();
+        const articles = data.articles || [];
+
+        const newsContainer = document.getElementById('newsContainer');
+        newsContainer.innerHTML = '';
+
+        if (articles.length === 0) {
+            newsContainer.innerHTML = '<div class="news-error">No news articles available at the moment.</div>';
+            return;
+        }
+
+        articles.forEach((article, index) => {
+            const newsCard = document.createElement('div');
+            newsCard.className = 'news-card';
+            newsCard.style.animation = `fadeInUp 0.8s ease-out ${0.5 + index * 0.1}s both`;
+
+            // Extract date from published_at
+            const pubDate = new Date(article.published_at);
+            const formattedDate = pubDate.toLocaleDateString('en-US', {
+                month: 'short',
+                day: 'numeric'
+            });
+
+            newsCard.innerHTML = `
+                <h3 class="news-title">${article.title}</h3>
+                <p class="news-summary">${article.summary}</p>
+                <div class="news-meta">
+                    <span class="news-source">${article.source}</span>
+                    <span class="news-date">${formattedDate}</span>
+                </div>
+            `;
+
+            newsContainer.appendChild(newsCard);
+        });
+    } catch (error) {
+        console.error('Error loading news:', error);
+        const newsContainer = document.getElementById('newsContainer');
+        newsContainer.innerHTML = '<div class="news-error">Error loading news articles. Please try again later.</div>';
+    }
+}
+
+// Load predictions and news when page loads
+document.addEventListener('DOMContentLoaded', () => {
+    loadPredictions();
+    loadNews();
+});

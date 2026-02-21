@@ -697,6 +697,17 @@ footer {
     margin: 0 auto;
 }
 
+.news-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    transition: all 0.3s ease;
+}
+
+.news-link:hover {
+    text-decoration: none;
+}
+
 .news-card {
     background: linear-gradient(135deg, rgba(220, 20, 60, 0.05), rgba(255, 215, 0, 0.02));
     border-radius: 12px;

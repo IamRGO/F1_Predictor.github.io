@@ -63,9 +63,12 @@ async function loadNews() {
         }
 
         articles.forEach((article, index) => {
-            const newsCard = document.createElement('div');
-            newsCard.className = 'news-card';
-            newsCard.style.animation = `fadeInUp 0.8s ease-out ${0.5 + index * 0.1}s both`;
+            const newsLink = document.createElement('a');
+            newsLink.href = article.url;
+            newsLink.target = '_blank';
+            newsLink.rel = 'noopener noreferrer';
+            newsLink.className = 'news-link';
+            newsLink.style.animation = `fadeInUp 0.8s ease-out ${0.5 + index * 0.1}s both`;
 
             // Extract date from published_at
             const pubDate = new Date(article.published_at);
@@ -74,16 +77,18 @@ async function loadNews() {
                 day: 'numeric'
             });
 
-            newsCard.innerHTML = `
-                <h3 class="news-title">${article.title}</h3>
-                <p class="news-summary">${article.summary}</p>
-                <div class="news-meta">
-                    <span class="news-source">${article.source}</span>
-                    <span class="news-date">${formattedDate}</span>
+            newsLink.innerHTML = `
+                <div class="news-card">
+                    <h3 class="news-title">${article.title}</h3>
+                    <p class="news-summary">${article.summary}</p>
+                    <div class="news-meta">
+                        <span class="news-source">${article.source}</span>
+                        <span class="news-date">${formattedDate}</span>
+                    </div>
                 </div>
             `;
 
-            newsContainer.appendChild(newsCard);
+            newsContainer.appendChild(newsLink);
         });
     } catch (error) {
         console.error('Error loading news:', error);

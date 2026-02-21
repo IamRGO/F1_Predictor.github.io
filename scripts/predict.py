@@ -133,7 +133,7 @@ def main():
 
     print("3) Fetching latest F1 news...")
     try:
-        news_articles = fetch_f1_news(limit=5)
+        news_articles = fetch_f1_news(limit=6)
         news_summary = format_news_for_prompt(news_articles) if news_articles else None
         if news_articles:
             print(f"   Fetched {len(news_articles)} articles.")

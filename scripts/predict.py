@@ -8,6 +8,15 @@ from pathlib import Path
 import requests
 from google import genai
 
+try:
+    from fetch_news import format_news_for_prompt, fetch_f1_news
+except ImportError:
+    # Fallback if fetch_news is not available
+    def fetch_f1_news(*args, **kwargs):
+        return []
+    def format_news_for_prompt(*args, **kwargs):
+        return "(No news data available)"
+
 # 1) Get the next race from OpenF1 API
 def get_next_race():
     """Fetch the next upcoming F1 race (main GP, not Sprint)."""
@@ -65,7 +74,7 @@ def load_historical_data():
 
 
 # 3) Predict with Gemini
-def predict_podium(next_race: dict, history: str):
+def predict_podium(next_race: dict, history: str, news_summary: str = None):
     """Use Gemini to predict the next race podium (1st, 2nd, 3rd)."""
     api_key = os.environ.get("GOOGLE_GEMINI_API_KEY") or os.environ.get("GEMINI_API_KEY")
     if not api_key:
@@ -75,7 +84,12 @@ def predict_podium(next_race: dict, history: str):
         )
     client = genai.Client(api_key=api_key)
 
-    prompt = f"""You are an F1 expert. Given the next race and recent historical podium results, predict the podium (top 3).
+    # Include news if available
+    news_section = ""
+    if news_summary:
+        news_section = f"\n\n**Recent F1 News:**\n{news_summary}"
+
+    prompt = f"""You are an F1 expert. Given the next race, recent historical podium results, and current F1 news, predict the podium (top 3).
 
 **Next race:**
 - {next_race.get('race_name', '?')} ({next_race.get('circuit', '?')})
@@ -83,7 +97,7 @@ def predict_podium(next_race: dict, history: str):
 - Date: {next_race.get('date_start', '?')}
 
 **Recent podiums (1st | 2nd | 3rd, most recent first):**
-{history}
+{history}{news_section}
 
 Predict the podium for the next race. Respond with ONLY valid JSON in this exact format, no other text:
 {{"podium": {{"1st": "Driver Name", "2nd": "Driver Name", "3rd": "Driver Name"}}, "reason": "Brief explanation"}}"""
@@ -121,8 +135,21 @@ def main():
     else:
         print("   Loaded.")
 
-    print("3) Asking Gemini for prediction...")
-    prediction = predict_podium(next_race, history)
+    print("3) Fetching latest F1 news...")
+    try:
+        news_articles = fetch_f1_news(limit=5)
+        news_summary = format_news_for_prompt(news_articles) if news_articles else None
+        if news_articles:
+            print(f"   Fetched {len(news_articles)} articles.")
+        else:
+            print("   No news articles fetched.")
+            news_summary = None
+    except Exception as e:
+        print(f"   Failed to fetch news: {e}")
+        news_summary = None
+
+    print("4) Asking Gemini for prediction...")
+    prediction = predict_podium(next_race, history, news_summary)
 
     result = {
         "next_race": next_race,

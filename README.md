@@ -125,48 +125,6 @@ The AI generates JSON with the following structure:
 
 ---
 
-## 🔐 Setting Up GitHub Secrets
-
-To enable automated predictions:
-
-1. Go to your GitHub repo **Settings** → **Secrets and variables** → **Actions**
-2. Click **New repository secret**
-3. Add:
-   - **Name:** `GOOGLE_GEMINI_API_KEY`
-   - **Value:** Your Gemini API key from [aistudio.google.com](https://aistudio.google.com/apikey)
-4. Save and you're done! 🎉
-
-The GitHub Action will now run automatically every 6 hours.
-
----
-
-## 📁 Project Structure
-
-```
-f1-predictor/
-├── index.html                  # Main website
-├── style.css                   # Premium styling
-├── app.js                      # Frontend logic
-├── requirements.txt            # Python dependencies
-│
-├── scripts/
-│   ├── fetch.py               # Fetches F1 data from OpenF1 API
-│   ├── fetch_news.py          # Fetches & condenses F1 news from RSS feeds
-│   ├── predict.py             # Generates predictions with Gemini + news context
-│   └── driver_info.py         # Driver utilities
-│
-├── data/
-│   ├── predictions.json       # Latest predictions (auto-generated)
-│   ├── f1_news_cache.json     # Latest F1 news articles (auto-generated)
-│   ├── f1_race_results.json
-│   └── 2026.json
-│
-└── .github/workflows/
-    └── update_f1.yml          # GitHub Actions automation
-```
-
----
-
 ## 📊 Data Sources
 
 | Source | Purpose |

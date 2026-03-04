@@ -9,10 +9,10 @@
   "prediction": {
     "podium": {
       "1st": "George Russell",
-      "2nd": "Max Verstappen",
-      "3rd": "Lando Norris"
+      "2nd": "Lando Norris",
+      "3rd": "Max Verstappen"
     },
-    "reason": "The 2026 regulation changes shift the focus to power unit performance, where pre-season reports of a technical row over Mercedes' engine suggest they have a significant advantage. George Russell is well-positioned to capitalize on this leap, while Max Verstappen's consistency and Lando Norris's momentum from a dominant 2025 season make them the strongest contenders to round out the podium in the new era."
+    "reason": "Pre-season technical controversies suggest Mercedes has developed the benchmark power unit for the 2026 regulations, favoring Russell. Norris remains a top contender following a dominant 2025, while Verstappen's consistency ensures he stays on the podium despite the massive rule changes."
   },
-  "predicted_at": "2026-03-03T01:02:24.305030Z"
+  "predicted_at": "2026-03-04T00:59:11.926801Z"
 }

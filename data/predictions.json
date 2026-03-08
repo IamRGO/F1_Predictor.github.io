@@ -1,18 +1,18 @@
 {
   "next_race": {
-    "race_name": "Melbourne",
-    "circuit": "Melbourne",
-    "country": "Australia",
-    "date_start": "2026-03-08T04:00:00+00:00",
-    "meeting_key": 1279
+    "race_name": "Shanghai",
+    "circuit": "Shanghai",
+    "country": "China",
+    "date_start": "2026-03-15T07:00:00+00:00",
+    "meeting_key": 1280
   },
   "prediction": {
     "podium": {
       "1st": "George Russell",
-      "2nd": "Lewis Hamilton",
-      "3rd": "Oscar Piastri"
+      "2nd": "Andrea Kimi Antonelli",
+      "3rd": "Charles Leclerc"
     },
-    "reason": "Mercedes has clearly mastered the 2026 regulation changes, securing a dominant front-row lockout in qualifying with Russell on pole. While Max Verstappen crashed out of qualifying, Oscar Piastri showed the fastest pace during Friday practice and carries strong momentum from his successful 2025 season into his home race."
+    "reason": "Mercedes has established itself as the dominant force in the new 2026 regulation era, securing a 1-2 finish at the season opener in Australia. George Russell appears to be the form driver, while rookie Andrea Kimi Antonelli has immediately adapted to the competitive W17. Ferrari remains the closest challenger with Charles Leclerc, as Red Bull and McLaren continue to struggle with car balance and power unit integration issues early in the season."
   },
-  "predicted_at": "2026-03-08T01:01:22.007087Z"
+  "predicted_at": "2026-03-08T22:26:10.599301Z"
 }

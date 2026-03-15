@@ -8,11 +8,11 @@
   },
   "prediction": {
     "podium": {
-      "1st": "George Russell",
-      "2nd": "Andrea Kimi Antonelli",
-      "3rd": "Lando Norris"
+      "1st": "Andrea Kimi Antonelli",
+      "2nd": "George Russell",
+      "3rd": "Lewis Hamilton"
     },
-    "reason": "Mercedes has dominated the 2026 Chinese Grand Prix weekend thus far, securing a front-row lockout in Sprint Qualifying and leading the sole practice session. While Lando Norris won the season opener in Australia, the Mercedes W17 appears to have a significant power unit advantage in Shanghai. Max Verstappen and Red Bull have struggled significantly with pace, describing their performance as a 'disaster,' leaving Norris as the most likely challenger to the Mercedes duo."
+    "reason": "Mercedes has established clear dominance at the start of the 2026 season, securing a front-row lockout with record-breaking polesitter Antonelli and George Russell. While Russell won the Sprint, Antonelli's qualifying pace suggests he is the favorite for the win. Lewis Hamilton, now at Ferrari, finished P2 in the Sprint and looks most likely to take the final podium spot given Red Bull's significant struggles and McLaren's self-admitted lack of pace."
   },
-  "predicted_at": "2026-03-14T00:59:21.496607Z"
+  "predicted_at": "2026-03-15T01:09:19.219079Z"
 }

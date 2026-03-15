@@ -46,9 +46,11 @@ async function loadPredictions() {
     try {
         const response = await fetch('./data/predictions.json');
         const data = await response.json();
+        // New format has latest + history; legacy is a single object
+        const current = data.latest || data;
 
         // Update race info
-        const nextRace = data.next_race;
+        const nextRace = current.next_race;
         document.getElementById('raceName').textContent = nextRace.race_name;
         document.getElementById('raceLocation').textContent = `🌍 ${nextRace.country} - ${nextRace.circuit}`;
 
@@ -63,7 +65,7 @@ async function loadPredictions() {
         document.getElementById('raceDate').textContent = `📅 ${formattedDate}`;
 
         // Update podium predictions
-        const prediction = data.prediction;
+        const prediction = current.prediction;
         document.getElementById('driver1').textContent = prediction.podium['1st'];
         document.getElementById('driver2').textContent = prediction.podium['2nd'];
         document.getElementById('driver3').textContent = prediction.podium['3rd'];
@@ -72,7 +74,7 @@ async function loadPredictions() {
         document.getElementById('reasoning').textContent = prediction.reason;
 
         // Update prediction time
-        const predictionDate = new Date(data.predicted_at);
+        const predictionDate = new Date(current.predicted_at);
         const formattedPredictionTime = predictionDate.toLocaleDateString('en-US', {
             year: 'numeric',
             month: 'long',

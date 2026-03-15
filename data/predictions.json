@@ -1,18 +1,76 @@
 {
-  "next_race": {
-    "race_name": "Shanghai",
-    "circuit": "Shanghai",
-    "country": "China",
-    "date_start": "2026-03-15T07:00:00+00:00",
-    "meeting_key": 1280
-  },
-  "prediction": {
-    "podium": {
-      "1st": "Andrea Kimi Antonelli",
-      "2nd": "George Russell",
-      "3rd": "Lewis Hamilton"
+  "latest": {
+    "next_race": {
+      "race_name": "Shanghai",
+      "circuit": "Shanghai",
+      "country": "China",
+      "date_start": "2026-03-15T07:00:00+00:00",
+      "meeting_key": 1280
     },
-    "reason": "Mercedes has established clear dominance at the start of the 2026 season, securing a front-row lockout with record-breaking polesitter Antonelli and George Russell. While Russell won the Sprint, Antonelli's qualifying pace suggests he is the favorite for the win. Lewis Hamilton, now at Ferrari, finished P2 in the Sprint and looks most likely to take the final podium spot given Red Bull's significant struggles and McLaren's self-admitted lack of pace."
+    "prediction": {
+      "podium": {
+        "1st": "Andrea Kimi Antonelli",
+        "2nd": "George Russell",
+        "3rd": "Lewis Hamilton"
+      },
+      "reason": "Mercedes has established clear dominance at the start of the 2026 season, securing a front-row lockout with record-breaking polesitter Antonelli and George Russell. While Russell won the Sprint, Antonelli's qualifying pace suggests he is the favorite for the win. Lewis Hamilton, now at Ferrari, finished P2 in the Sprint and looks most likely to take the final podium spot given Red Bull's significant struggles and McLaren's self-admitted lack of pace."
+    },
+    "predicted_at": "2026-03-15T01:09:19.219079Z"
   },
-  "predicted_at": "2026-03-15T01:09:19.219079Z"
+  "history": [
+    {
+      "next_race": {
+        "race_name": "Australian Grand Prix",
+        "circuit_name": "Melbourne",
+        "circuit": "Melbourne",
+        "country": "Australia",
+        "date_start": "2025-03-16T04:00:00+00:00",
+        "meeting_key": 1254
+      },
+      "prediction": null,
+      "predicted_at": null,
+      "actual_podium": {
+        "1st": "Lando NORRIS",
+        "2nd": "Max VERSTAPPEN",
+        "3rd": "George RUSSELL"
+      },
+      "accuracy": null
+    },
+    {
+      "next_race": {
+        "race_name": "Chinese Grand Prix",
+        "circuit_name": "Shanghai",
+        "circuit": "Shanghai",
+        "country": "China",
+        "date_start": "2025-03-23T07:00:00+00:00",
+        "meeting_key": 1255
+      },
+      "prediction": null,
+      "predicted_at": null,
+      "actual_podium": {
+        "1st": "Oscar PIASTRI",
+        "2nd": "Lando NORRIS",
+        "3rd": "George RUSSELL"
+      },
+      "accuracy": null
+    },
+    {
+      "next_race": {
+        "race_name": "Shanghai",
+        "circuit": "Shanghai",
+        "country": "China",
+        "date_start": "2026-03-15T07:00:00+00:00",
+        "meeting_key": 1280
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "George Russell",
+          "3rd": "Lewis Hamilton"
+        },
+        "reason": "Mercedes has established clear dominance at the start of the 2026 season, securing a front-row lockout with record-breaking polesitter Antonelli and George Russell. While Russell won the Sprint, Antonelli's qualifying pace suggests he is the favorite for the win. Lewis Hamilton, now at Ferrari, finished P2 in the Sprint and looks most likely to take the final podium spot given Red Bull's significant struggles and McLaren's self-admitted lack of pace."
+      },
+      "predicted_at": "2026-03-15T01:09:19.219079Z"
+    }
+  ]
 }

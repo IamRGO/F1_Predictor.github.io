@@ -8,14 +8,11 @@
       "meeting_key": 1281
     },
     "prediction": {
-      "podium": {
-        "1st": "Andrea Kimi Antonelli",
-        "2nd": "George Russell",
-        "3rd": "Lando Norris"
-      },
-      "reason": "Mercedes enters Suzuka with dominant momentum following their 1-2 finish in China and high-speed performance in the sprint. Andrea Kimi Antonelli is in peak form after his maiden win, while McLaren is expected to recover from the power unit issues that sidelined them in Shanghai to challenge for the podium on a circuit that historically suits their aerodynamic package."
+      "podium": {},
+      "reason": "{\n  \"podium\": {\n    \"1st\": \"George Russell\",\n    \"2nd\": \"Andrea Kimi Antonelli\",\n    \"3rd\": \"Lewis Hamilton\",\n  },\n  \"reason\": \"Mercedes has dominated the start of the 2026 regulations, securing consecutive 1-2 finishes in the opening rounds. While Antonelli took his maiden win in China, Russell's experience at a technical circuit like Suzuka gives him the edge. Lewis Hamilton has found his form at Ferrari, consistently challenging the top two as Red Bull struggles with an 'undriveable' car and McLaren faces power unit reliability issues.\"\n}",
+      "raw": true
     },
-    "predicted_at": "2026-03-16T01:09:49.599214Z"
+    "predicted_at": "2026-03-17T01:01:41.611010Z"
   },
   "history": [
     {
@@ -485,6 +482,21 @@
         "reason": "Mercedes enters Suzuka with dominant momentum following their 1-2 finish in China and high-speed performance in the sprint. Andrea Kimi Antonelli is in peak form after his maiden win, while McLaren is expected to recover from the power unit issues that sidelined them in Shanghai to challenge for the podium on a circuit that historically suits their aerodynamic package."
       },
       "predicted_at": "2026-03-16T01:09:49.599214Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Suzuka",
+        "circuit": "Suzuka",
+        "country": "Japan",
+        "date_start": "2026-03-29T05:00:00+00:00",
+        "meeting_key": 1281
+      },
+      "prediction": {
+        "podium": {},
+        "reason": "{\n  \"podium\": {\n    \"1st\": \"George Russell\",\n    \"2nd\": \"Andrea Kimi Antonelli\",\n    \"3rd\": \"Lewis Hamilton\",\n  },\n  \"reason\": \"Mercedes has dominated the start of the 2026 regulations, securing consecutive 1-2 finishes in the opening rounds. While Antonelli took his maiden win in China, Russell's experience at a technical circuit like Suzuka gives him the edge. Lewis Hamilton has found his form at Ferrari, consistently challenging the top two as Red Bull struggles with an 'undriveable' car and McLaren faces power unit reliability issues.\"\n}",
+        "raw": true
+      },
+      "predicted_at": "2026-03-17T01:01:41.611010Z"
     }
   ]
 }

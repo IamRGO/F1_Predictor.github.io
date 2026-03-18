@@ -8,11 +8,14 @@
       "meeting_key": 1281
     },
     "prediction": {
-      "podium": {},
-      "reason": "{\n  \"podium\": {\n    \"1st\": \"George Russell\",\n    \"2nd\": \"Andrea Kimi Antonelli\",\n    \"3rd\": \"Lewis Hamilton\",\n  },\n  \"reason\": \"Mercedes has dominated the start of the 2026 regulations, securing consecutive 1-2 finishes in the opening rounds. While Antonelli took his maiden win in China, Russell's experience at a technical circuit like Suzuka gives him the edge. Lewis Hamilton has found his form at Ferrari, consistently challenging the top two as Red Bull struggles with an 'undriveable' car and McLaren faces power unit reliability issues.\"\n}",
-      "raw": true
+      "podium": {
+        "1st": "George Russell",
+        "2nd": "Andrea Kimi Antonelli",
+        "3rd": "Lewis Hamilton"
+      },
+      "reason": "Mercedes has established clear dominance under the 2026 regulations, coming off a 1-2 finish in China. George Russell's consistency and experience at high-speed technical circuits like Suzuka give him the edge, while Antonelli maintains his momentum. Lewis Hamilton has shown resurgent form at Ferrari, and with Red Bull and McLaren currently struggling with reliability and regulation adaptation, he is the favorite for the final podium spot."
     },
-    "predicted_at": "2026-03-17T01:01:41.611010Z"
+    "predicted_at": "2026-03-18T00:28:45.621258Z"
   },
   "history": [
     {
@@ -497,6 +500,24 @@
         "raw": true
       },
       "predicted_at": "2026-03-17T01:01:41.611010Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Suzuka",
+        "circuit": "Suzuka",
+        "country": "Japan",
+        "date_start": "2026-03-29T05:00:00+00:00",
+        "meeting_key": 1281
+      },
+      "prediction": {
+        "podium": {
+          "1st": "George Russell",
+          "2nd": "Andrea Kimi Antonelli",
+          "3rd": "Lewis Hamilton"
+        },
+        "reason": "Mercedes has established clear dominance under the 2026 regulations, coming off a 1-2 finish in China. George Russell's consistency and experience at high-speed technical circuits like Suzuka give him the edge, while Antonelli maintains his momentum. Lewis Hamilton has shown resurgent form at Ferrari, and with Red Bull and McLaren currently struggling with reliability and regulation adaptation, he is the favorite for the final podium spot."
+      },
+      "predicted_at": "2026-03-18T00:28:45.621258Z"
     }
   ]
 }

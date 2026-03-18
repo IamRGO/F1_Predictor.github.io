@@ -9,13 +9,13 @@
     },
     "prediction": {
       "podium": {
-        "1st": "George Russell",
-        "2nd": "Andrea Kimi Antonelli",
+        "1st": "Andrea Kimi Antonelli",
+        "2nd": "George Russell",
         "3rd": "Lewis Hamilton"
       },
-      "reason": "Mercedes has established clear dominance under the 2026 regulations, coming off a 1-2 finish in China. George Russell's consistency and experience at high-speed technical circuits like Suzuka give him the edge, while Antonelli maintains his momentum. Lewis Hamilton has shown resurgent form at Ferrari, and with Red Bull and McLaren currently struggling with reliability and regulation adaptation, he is the favorite for the final podium spot."
+      "reason": "Mercedes has dominated the start of the 2026 season under the new regulations, maintaining a win streak with back-to-back 1-2 finishes for Antonelli and Russell. Antonelli is in peak form following his maiden pole and victory in China. Lewis Hamilton has shown a resurgence at Ferrari with a recent podium, while Max Verstappen and McLaren are currently hampered by reliability issues and dissatisfaction with the new car configurations."
     },
-    "predicted_at": "2026-03-18T00:28:45.621258Z"
+    "predicted_at": "2026-03-18T01:05:33.510608Z"
   },
   "history": [
     {
@@ -518,6 +518,24 @@
         "reason": "Mercedes has established clear dominance under the 2026 regulations, coming off a 1-2 finish in China. George Russell's consistency and experience at high-speed technical circuits like Suzuka give him the edge, while Antonelli maintains his momentum. Lewis Hamilton has shown resurgent form at Ferrari, and with Red Bull and McLaren currently struggling with reliability and regulation adaptation, he is the favorite for the final podium spot."
       },
       "predicted_at": "2026-03-18T00:28:45.621258Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Suzuka",
+        "circuit": "Suzuka",
+        "country": "Japan",
+        "date_start": "2026-03-29T05:00:00+00:00",
+        "meeting_key": 1281
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "George Russell",
+          "3rd": "Lewis Hamilton"
+        },
+        "reason": "Mercedes has dominated the start of the 2026 season under the new regulations, maintaining a win streak with back-to-back 1-2 finishes for Antonelli and Russell. Antonelli is in peak form following his maiden pole and victory in China. Lewis Hamilton has shown a resurgence at Ferrari with a recent podium, while Max Verstappen and McLaren are currently hampered by reliability issues and dissatisfaction with the new car configurations."
+      },
+      "predicted_at": "2026-03-18T01:05:33.510608Z"
     }
   ]
 }

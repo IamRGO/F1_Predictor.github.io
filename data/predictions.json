@@ -13,9 +13,9 @@
         "2nd": "George Russell",
         "3rd": "Lewis Hamilton"
       },
-      "reason": "Mercedes has dominated the start of the 2026 season under the new regulations, maintaining a win streak with back-to-back 1-2 finishes for Antonelli and Russell. Antonelli is in peak form following his maiden pole and victory in China. Lewis Hamilton has shown a resurgence at Ferrari with a recent podium, while Max Verstappen and McLaren are currently hampered by reliability issues and dissatisfaction with the new car configurations."
+      "reason": "Mercedes has emerged as the dominant team under the new 2026 regulations, securing a 1-2 finish at the previous race in China. Andrea Kimi Antonelli carries significant momentum from his maiden victory, while George Russell remains highly consistent. Lewis Hamilton has shown a resurgence in form following his move to Ferrari, securing a podium in China, whereas Red Bull and McLaren are currently struggling with reliability and power unit integration issues under the new formula."
     },
-    "predicted_at": "2026-03-18T01:05:33.510608Z"
+    "predicted_at": "2026-03-19T01:04:53.598431Z"
   },
   "history": [
     {
@@ -536,6 +536,24 @@
         "reason": "Mercedes has dominated the start of the 2026 season under the new regulations, maintaining a win streak with back-to-back 1-2 finishes for Antonelli and Russell. Antonelli is in peak form following his maiden pole and victory in China. Lewis Hamilton has shown a resurgence at Ferrari with a recent podium, while Max Verstappen and McLaren are currently hampered by reliability issues and dissatisfaction with the new car configurations."
       },
       "predicted_at": "2026-03-18T01:05:33.510608Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Suzuka",
+        "circuit": "Suzuka",
+        "country": "Japan",
+        "date_start": "2026-03-29T05:00:00+00:00",
+        "meeting_key": 1281
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "George Russell",
+          "3rd": "Lewis Hamilton"
+        },
+        "reason": "Mercedes has emerged as the dominant team under the new 2026 regulations, securing a 1-2 finish at the previous race in China. Andrea Kimi Antonelli carries significant momentum from his maiden victory, while George Russell remains highly consistent. Lewis Hamilton has shown a resurgence in form following his move to Ferrari, securing a podium in China, whereas Red Bull and McLaren are currently struggling with reliability and power unit integration issues under the new formula."
+      },
+      "predicted_at": "2026-03-19T01:04:53.598431Z"
     }
   ]
 }

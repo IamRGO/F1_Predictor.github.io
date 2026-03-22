@@ -9,13 +9,13 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Max Verstappen",
-        "2nd": "Lewis Hamilton",
-        "3rd": "Andrea Kimi Antonelli"
+        "1st": "Lewis Hamilton",
+        "2nd": "Andrea Kimi Antonelli",
+        "3rd": "Max Verstappen"
       },
-      "reason": "Despite Red Bull's 'significant shortcomings' and a DNF in China, Max Verstappen's historical dominance at the technical Suzuka circuit makes him the favorite to bounce back. Lewis Hamilton's resurgent form at Ferrari ('the Hamilton of old') and Andrea Kimi Antonelli's momentum following his maiden victory in China suggest Mercedes and Ferrari are currently the teams to beat, while McLaren is still searching for pace."
+      "reason": "Lewis Hamilton has shown a significant return to form at Ferrari, with reports indicating he is 'back to his best.' Andrea Kimi Antonelli carries immense momentum following his maiden victory in China. Despite Red Bull's early-season struggles and a retirement in the previous race, Max Verstappen's historical dominance at the technical Suzuka circuit makes him a high-probability podium finisher."
     },
-    "predicted_at": "2026-03-21T00:57:45.733633Z"
+    "predicted_at": "2026-03-22T01:04:51.727611Z"
   },
   "history": [
     {
@@ -590,6 +590,24 @@
         "reason": "Despite Red Bull's 'significant shortcomings' and a DNF in China, Max Verstappen's historical dominance at the technical Suzuka circuit makes him the favorite to bounce back. Lewis Hamilton's resurgent form at Ferrari ('the Hamilton of old') and Andrea Kimi Antonelli's momentum following his maiden victory in China suggest Mercedes and Ferrari are currently the teams to beat, while McLaren is still searching for pace."
       },
       "predicted_at": "2026-03-21T00:57:45.733633Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Suzuka",
+        "circuit": "Suzuka",
+        "country": "Japan",
+        "date_start": "2026-03-29T05:00:00+00:00",
+        "meeting_key": 1281
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Lewis Hamilton",
+          "2nd": "Andrea Kimi Antonelli",
+          "3rd": "Max Verstappen"
+        },
+        "reason": "Lewis Hamilton has shown a significant return to form at Ferrari, with reports indicating he is 'back to his best.' Andrea Kimi Antonelli carries immense momentum following his maiden victory in China. Despite Red Bull's early-season struggles and a retirement in the previous race, Max Verstappen's historical dominance at the technical Suzuka circuit makes him a high-probability podium finisher."
+      },
+      "predicted_at": "2026-03-22T01:04:51.727611Z"
     }
   ]
 }

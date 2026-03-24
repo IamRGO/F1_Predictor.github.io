@@ -10,12 +10,12 @@
     "prediction": {
       "podium": {
         "1st": "Lewis Hamilton",
-        "2nd": "Andrea Kimi Antonelli",
-        "3rd": "Lando Norris"
+        "2nd": "Max Verstappen",
+        "3rd": "Andrea Kimi Antonelli"
       },
-      "reason": "Recent news highlights a significant resurgence for Lewis Hamilton at Ferrari, describing him as 'back to his best' in 2026. Andrea Kimi Antonelli enters Japan with massive momentum following his maiden F1 victory in China. Lando Norris is selected for third based on his historical consistency at high-speed tracks like Suzuka and his strong 2025 form, especially as Red Bull faces 'significant shortcomings' and Max Verstappen struggles with the new 2026 regulations."
+      "reason": "Lewis Hamilton is in vintage form ('Hamilton of old') following a strong start to 2026 with Ferrari. While Max Verstappen's Red Bull has 'significant shortcomings,' his historical dominance at Suzuka makes him a top contender. Kimi Antonelli carries immense momentum into Japan following his breakthrough win in China for Mercedes."
     },
-    "predicted_at": "2026-03-23T01:06:12.537634Z"
+    "predicted_at": "2026-03-24T00:58:45.803399Z"
   },
   "history": [
     {
@@ -626,6 +626,24 @@
         "reason": "Recent news highlights a significant resurgence for Lewis Hamilton at Ferrari, describing him as 'back to his best' in 2026. Andrea Kimi Antonelli enters Japan with massive momentum following his maiden F1 victory in China. Lando Norris is selected for third based on his historical consistency at high-speed tracks like Suzuka and his strong 2025 form, especially as Red Bull faces 'significant shortcomings' and Max Verstappen struggles with the new 2026 regulations."
       },
       "predicted_at": "2026-03-23T01:06:12.537634Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Suzuka",
+        "circuit": "Suzuka",
+        "country": "Japan",
+        "date_start": "2026-03-29T05:00:00+00:00",
+        "meeting_key": 1281
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Lewis Hamilton",
+          "2nd": "Max Verstappen",
+          "3rd": "Andrea Kimi Antonelli"
+        },
+        "reason": "Lewis Hamilton is in vintage form ('Hamilton of old') following a strong start to 2026 with Ferrari. While Max Verstappen's Red Bull has 'significant shortcomings,' his historical dominance at Suzuka makes him a top contender. Kimi Antonelli carries immense momentum into Japan following his breakthrough win in China for Mercedes."
+      },
+      "predicted_at": "2026-03-24T00:58:45.803399Z"
     }
   ]
 }

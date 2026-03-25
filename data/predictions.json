@@ -9,13 +9,13 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Lewis Hamilton",
-        "2nd": "Max Verstappen",
-        "3rd": "Andrea Kimi Antonelli"
+        "1st": "George Russell",
+        "2nd": "Lewis Hamilton",
+        "3rd": "Max Verstappen"
       },
-      "reason": "Lewis Hamilton is in vintage form ('Hamilton of old') following a strong start to 2026 with Ferrari. While Max Verstappen's Red Bull has 'significant shortcomings,' his historical dominance at Suzuka makes him a top contender. Kimi Antonelli carries immense momentum into Japan following his breakthrough win in China for Mercedes."
+      "reason": "George Russell enters Suzuka as the 2026 championship leader with a competitive Mercedes, which historically performs well at high-speed technical circuits. Lewis Hamilton's 'mojo' has returned following his move to Ferrari, showing strong early-season pace. Despite Red Bull admitting to technical shortcomings with the new 2026 regulations, Max Verstappen's mastery of Suzuka makes him a favorite to secure a podium spot."
     },
-    "predicted_at": "2026-03-24T00:58:45.803399Z"
+    "predicted_at": "2026-03-25T01:03:56.090327Z"
   },
   "history": [
     {
@@ -644,6 +644,24 @@
         "reason": "Lewis Hamilton is in vintage form ('Hamilton of old') following a strong start to 2026 with Ferrari. While Max Verstappen's Red Bull has 'significant shortcomings,' his historical dominance at Suzuka makes him a top contender. Kimi Antonelli carries immense momentum into Japan following his breakthrough win in China for Mercedes."
       },
       "predicted_at": "2026-03-24T00:58:45.803399Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Suzuka",
+        "circuit": "Suzuka",
+        "country": "Japan",
+        "date_start": "2026-03-29T05:00:00+00:00",
+        "meeting_key": 1281
+      },
+      "prediction": {
+        "podium": {
+          "1st": "George Russell",
+          "2nd": "Lewis Hamilton",
+          "3rd": "Max Verstappen"
+        },
+        "reason": "George Russell enters Suzuka as the 2026 championship leader with a competitive Mercedes, which historically performs well at high-speed technical circuits. Lewis Hamilton's 'mojo' has returned following his move to Ferrari, showing strong early-season pace. Despite Red Bull admitting to technical shortcomings with the new 2026 regulations, Max Verstappen's mastery of Suzuka makes him a favorite to secure a podium spot."
+      },
+      "predicted_at": "2026-03-25T01:03:56.090327Z"
     }
   ]
 }

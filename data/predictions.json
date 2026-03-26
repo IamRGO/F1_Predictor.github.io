@@ -9,13 +9,13 @@
     },
     "prediction": {
       "podium": {
-        "1st": "George Russell",
-        "2nd": "Lewis Hamilton",
-        "3rd": "Max Verstappen"
+        "1st": "Max Verstappen",
+        "2nd": "Andrea Kimi Antonelli",
+        "3rd": "Lewis Hamilton"
       },
-      "reason": "George Russell enters Suzuka as the 2026 championship leader with a competitive Mercedes, which historically performs well at high-speed technical circuits. Lewis Hamilton's 'mojo' has returned following his move to Ferrari, showing strong early-season pace. Despite Red Bull admitting to technical shortcomings with the new 2026 regulations, Max Verstappen's mastery of Suzuka makes him a favorite to secure a podium spot."
+      "reason": "Max Verstappen is a Suzuka specialist and remains the benchmark at technical, high-speed circuits, having won here in 2025. However, Mercedes has shown a significant resurgence under the new 2026 regulations, with Andrea Kimi Antonelli coming off a maiden victory in China and Lewis Hamilton showing renewed 'spark' and podium consistency. While McLaren are the defending champions, recent news suggests they are struggling to maintain that form early in the 2026 season."
     },
-    "predicted_at": "2026-03-25T01:03:56.090327Z"
+    "predicted_at": "2026-03-26T01:09:19.590039Z"
   },
   "history": [
     {
@@ -662,6 +662,24 @@
         "reason": "George Russell enters Suzuka as the 2026 championship leader with a competitive Mercedes, which historically performs well at high-speed technical circuits. Lewis Hamilton's 'mojo' has returned following his move to Ferrari, showing strong early-season pace. Despite Red Bull admitting to technical shortcomings with the new 2026 regulations, Max Verstappen's mastery of Suzuka makes him a favorite to secure a podium spot."
       },
       "predicted_at": "2026-03-25T01:03:56.090327Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Suzuka",
+        "circuit": "Suzuka",
+        "country": "Japan",
+        "date_start": "2026-03-29T05:00:00+00:00",
+        "meeting_key": 1281
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Max Verstappen",
+          "2nd": "Andrea Kimi Antonelli",
+          "3rd": "Lewis Hamilton"
+        },
+        "reason": "Max Verstappen is a Suzuka specialist and remains the benchmark at technical, high-speed circuits, having won here in 2025. However, Mercedes has shown a significant resurgence under the new 2026 regulations, with Andrea Kimi Antonelli coming off a maiden victory in China and Lewis Hamilton showing renewed 'spark' and podium consistency. While McLaren are the defending champions, recent news suggests they are struggling to maintain that form early in the 2026 season."
+      },
+      "predicted_at": "2026-03-26T01:09:19.590039Z"
     }
   ]
 }

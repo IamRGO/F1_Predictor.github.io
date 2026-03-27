@@ -9,13 +9,13 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Max Verstappen",
-        "2nd": "Andrea Kimi Antonelli",
-        "3rd": "Lewis Hamilton"
+        "1st": "Lewis Hamilton",
+        "2nd": "George Russell",
+        "3rd": "Andrea Kimi Antonelli"
       },
-      "reason": "Max Verstappen is a Suzuka specialist and remains the benchmark at technical, high-speed circuits, having won here in 2025. However, Mercedes has shown a significant resurgence under the new 2026 regulations, with Andrea Kimi Antonelli coming off a maiden victory in China and Lewis Hamilton showing renewed 'spark' and podium consistency. While McLaren are the defending champions, recent news suggests they are struggling to maintain that form early in the 2026 season."
+      "reason": "Early 2026 form indicates a shift in power, with Mercedes and Ferrari surpassing Red Bull. News reports highlight Hamilton's victory in Australia and a Mercedes 1-2 finish in China (Antonelli leading Russell). Given Red Bull's admission of being 'nowhere near' the frontrunners and Mercedes' current dominance, these three drivers are the favorites. Hamilton\u2019s extensive experience and renewed confidence in the 2026 Ferrari package give him the edge at a technical track like Suzuka."
     },
-    "predicted_at": "2026-03-26T01:09:19.590039Z"
+    "predicted_at": "2026-03-27T01:09:09.594971Z"
   },
   "history": [
     {
@@ -680,6 +680,24 @@
         "reason": "Max Verstappen is a Suzuka specialist and remains the benchmark at technical, high-speed circuits, having won here in 2025. However, Mercedes has shown a significant resurgence under the new 2026 regulations, with Andrea Kimi Antonelli coming off a maiden victory in China and Lewis Hamilton showing renewed 'spark' and podium consistency. While McLaren are the defending champions, recent news suggests they are struggling to maintain that form early in the 2026 season."
       },
       "predicted_at": "2026-03-26T01:09:19.590039Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Suzuka",
+        "circuit": "Suzuka",
+        "country": "Japan",
+        "date_start": "2026-03-29T05:00:00+00:00",
+        "meeting_key": 1281
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Lewis Hamilton",
+          "2nd": "George Russell",
+          "3rd": "Andrea Kimi Antonelli"
+        },
+        "reason": "Early 2026 form indicates a shift in power, with Mercedes and Ferrari surpassing Red Bull. News reports highlight Hamilton's victory in Australia and a Mercedes 1-2 finish in China (Antonelli leading Russell). Given Red Bull's admission of being 'nowhere near' the frontrunners and Mercedes' current dominance, these three drivers are the favorites. Hamilton\u2019s extensive experience and renewed confidence in the 2026 Ferrari package give him the edge at a technical track like Suzuka."
+      },
+      "predicted_at": "2026-03-27T01:09:09.594971Z"
     }
   ]
 }

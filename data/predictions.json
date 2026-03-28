@@ -13,9 +13,9 @@
         "2nd": "George Russell",
         "3rd": "Oscar Piastri"
       },
-      "reason": "Mercedes has shown dominant form at the start of the 2026 season, with Antonelli and Russell topping FP3 and FP1 respectively. Antonelli carries momentum from a recent win in China, while McLaren remains the closest challenger with Piastri topping FP2. Red Bull continues to struggle with handling difficulties despite a new upgrade package."
+      "reason": "Mercedes has dominated the weekend with Kimi Antonelli taking pole and George Russell securing a front-row lockout. With Max Verstappen struggling with car handling and eliminated in Q2, the primary challenge comes from McLaren, where Oscar Piastri showed the strongest practice pace (FP2) among the chasing pack."
     },
-    "predicted_at": "2026-03-28T04:14:03.011678Z"
+    "predicted_at": "2026-03-28T08:46:40.188734Z"
   },
   "history": [
     {
@@ -734,6 +734,24 @@
         "reason": "Mercedes has shown dominant form at the start of the 2026 season, with Antonelli and Russell topping FP3 and FP1 respectively. Antonelli carries momentum from a recent win in China, while McLaren remains the closest challenger with Piastri topping FP2. Red Bull continues to struggle with handling difficulties despite a new upgrade package."
       },
       "predicted_at": "2026-03-28T04:14:03.011678Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Suzuka",
+        "circuit": "Suzuka",
+        "country": "Japan",
+        "date_start": "2026-03-29T05:00:00+00:00",
+        "meeting_key": 1281
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "George Russell",
+          "3rd": "Oscar Piastri"
+        },
+        "reason": "Mercedes has dominated the weekend with Kimi Antonelli taking pole and George Russell securing a front-row lockout. With Max Verstappen struggling with car handling and eliminated in Q2, the primary challenge comes from McLaren, where Oscar Piastri showed the strongest practice pace (FP2) among the chasing pack."
+      },
+      "predicted_at": "2026-03-28T08:46:40.188734Z"
     }
   ]
 }

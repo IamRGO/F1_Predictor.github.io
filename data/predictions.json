@@ -9,13 +9,13 @@
     },
     "prediction": {
       "podium": {
-        "1st": "George Russell",
-        "2nd": "Oscar Piastri",
-        "3rd": "Andrea Kimi Antonelli"
+        "1st": "Andrea Kimi Antonelli",
+        "2nd": "George Russell",
+        "3rd": "Oscar Piastri"
       },
-      "reason": "Mercedes and McLaren dominated Friday practice at Suzuka. George Russell topped FP1, while Oscar Piastri led FP2. Mercedes appears to be the form team of 2026 following Kimi Antonelli's win in China, while Max Verstappen and Red Bull are struggling with handling issues at this high-speed circuit."
+      "reason": "Mercedes has shown dominant form at the start of the 2026 season, with Antonelli and Russell topping FP3 and FP1 respectively. Antonelli carries momentum from a recent win in China, while McLaren remains the closest challenger with Piastri topping FP2. Red Bull continues to struggle with handling difficulties despite a new upgrade package."
     },
-    "predicted_at": "2026-03-28T01:02:52.685464Z"
+    "predicted_at": "2026-03-28T04:14:03.011678Z"
   },
   "history": [
     {
@@ -716,6 +716,24 @@
         "reason": "Mercedes and McLaren dominated Friday practice at Suzuka. George Russell topped FP1, while Oscar Piastri led FP2. Mercedes appears to be the form team of 2026 following Kimi Antonelli's win in China, while Max Verstappen and Red Bull are struggling with handling issues at this high-speed circuit."
       },
       "predicted_at": "2026-03-28T01:02:52.685464Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Suzuka",
+        "circuit": "Suzuka",
+        "country": "Japan",
+        "date_start": "2026-03-29T05:00:00+00:00",
+        "meeting_key": 1281
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "George Russell",
+          "3rd": "Oscar Piastri"
+        },
+        "reason": "Mercedes has shown dominant form at the start of the 2026 season, with Antonelli and Russell topping FP3 and FP1 respectively. Antonelli carries momentum from a recent win in China, while McLaren remains the closest challenger with Piastri topping FP2. Red Bull continues to struggle with handling difficulties despite a new upgrade package."
+      },
+      "predicted_at": "2026-03-28T04:14:03.011678Z"
     }
   ]
 }

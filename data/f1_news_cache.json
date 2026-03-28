@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-03-28T01:02:39.504101Z",
+  "fetched_at": "2026-03-28T04:13:50.919806Z",
   "articles": [
+    {
+      "title": "Antonelli beats team mate Russell in final Japan practice",
+      "summary": "Antonelli beats team mate Russell in final Japan practice. Kimi Antonelli finished fastest in Free Practice 3 ahead of the Japanese Grand Prix, beating team mate George Russell as Mercedes continued their strong start to 2026.",
+      "source": "F1 News",
+      "published_at": "",
+      "url": "https://www.formula1.com/en/latest/article/fp3-antonelli-beats-mercedes-team-mate-russell-to-fastest-time-in-final.NfWBOJEAaBCzWLWBDz81J"
+    },
+    {
+      "title": "LIVE COVERAGE: Follow the action from FP3 in Japan",
+      "summary": "LIVE COVERAGE: Follow the action from FP3 in Japan. Live coverage of Saturday's third practice session for the 2026 Japanese Grand Prix at Suzuka.",
+      "source": "F1 News",
+      "published_at": "",
+      "url": "https://www.formula1.com/en/latest/article/live-coverage-third-practice-in-japan-2026.4JxbrVaBSw10dupwtoDGZS"
+    },
     {
       "title": "A guide to in-race betting opportunities in Japan",
       "summary": "A guide to in-race betting opportunities in Japan. When the lights go out at Suzuka, the real betting opportunities begin.",
@@ -56,20 +70,6 @@
       "source": "F1 News",
       "published_at": "",
       "url": "https://www.formula1.com/en/latest/article/practice-debrief-are-mclaren-a-threat-to-mercedes-in-japan-after-setting-the.41692O94rtO0o0b8UMWPVC"
-    },
-    {
-      "title": "Verstappen not expecting \u2018miracles\u2019 for Red Bull in Japan",
-      "summary": "Verstappen not expecting \u2018miracles\u2019 for Red Bull in Japan. Max Verstappen was left disheartened by the performance of his Red Bull on the first day of running at the Japanese Grand Prix.",
-      "source": "F1 News",
-      "published_at": "",
-      "url": "https://www.formula1.com/en/latest/article/verstappen-not-expecting-miracles-after-suffering-big-problems-in-japan.1a75AoYU1QpAwbGPKjpugV"
-    },
-    {
-      "title": "Hamilton offers verdict on Japan Friday practice performance",
-      "summary": "Hamilton offers verdict on Japan Friday practice performance. Lewis Hamilton admits he 'feels like I've got a bit of a North Star' to aim for after struggling for confidence with his Ferrari during Friday practice ahead of the Japanese Grand Prix.",
-      "source": "F1 News",
-      "published_at": "",
-      "url": "https://www.formula1.com/en/latest/article/i-feel-like-ive-got-a-bit-of-a-north-star-hamilton-offers-verdict-on-friday.2Ega7aulS1toh6WtExk6YW"
     },
     {
       "title": "Suzuka FP1 outing \u2018pretty incredible\u2019 for Crawford despite limited running",
@@ -184,13 +184,6 @@
       "url": "https://www.bbc.com/sport/formula1/articles/cx2r4lxwglno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Has Aston Martin's Newey team principal project failed? F1 Q&A",
-      "summary": "Has Aston Martin's Newey team principal project failed? F1 Q&A. BBC Sport F1 correspondent Andrew Benson answers your questions before the Japanese Grand Prix.",
-      "source": "F1 News",
-      "published_at": "Tue, 24 Mar 2026 08:08:31 GMT",
-      "url": "https://www.bbc.com/sport/formula1/articles/c62k4g1dmz5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "title": "Antonelli celebrations 'lovely to see' - Benson",
       "summary": "Antonelli celebrations 'lovely to see' - Benson. On the latest episode of the The Chequered Flag Podcast, pundits Andrew Benson and Sam Bird say Kimi Antonelli's Chinese Grand Prix win at 19 years old \"is as big as it comes\" for a young driver, after the Italian was moved to tears following his win.",
       "source": "F1 News",
@@ -210,6 +203,13 @@
       "source": "F1 News",
       "published_at": "Sun, 15 Mar 2026 17:09:33 GMT",
       "url": "https://www.bbc.com/sport/formula1/videos/cwyg4eedjg9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "'The tide is turning back towards Hamilton' - Priestley",
+      "summary": "'The tide is turning back towards Hamilton' - Priestley. The Chequered Podcast's Harry Benjamin, Jennie Gow and Marc Priestly discuss Lewis Hamilton's strong performance in the Australian Grand Prix, plus his 'upbeat, positive' mood over race weekend.",
+      "source": "F1 News",
+      "published_at": "Sun, 08 Mar 2026 13:02:01 GMT",
+      "url": "https://www.bbc.com/sport/formula1/videos/ckg1p159ezpo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }

@@ -9,13 +9,13 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Lewis Hamilton",
-        "2nd": "George Russell",
+        "1st": "George Russell",
+        "2nd": "Oscar Piastri",
         "3rd": "Andrea Kimi Antonelli"
       },
-      "reason": "Early 2026 form indicates a shift in power, with Mercedes and Ferrari surpassing Red Bull. News reports highlight Hamilton's victory in Australia and a Mercedes 1-2 finish in China (Antonelli leading Russell). Given Red Bull's admission of being 'nowhere near' the frontrunners and Mercedes' current dominance, these three drivers are the favorites. Hamilton\u2019s extensive experience and renewed confidence in the 2026 Ferrari package give him the edge at a technical track like Suzuka."
+      "reason": "Mercedes and McLaren dominated Friday practice at Suzuka. George Russell topped FP1, while Oscar Piastri led FP2. Mercedes appears to be the form team of 2026 following Kimi Antonelli's win in China, while Max Verstappen and Red Bull are struggling with handling issues at this high-speed circuit."
     },
-    "predicted_at": "2026-03-27T01:09:09.594971Z"
+    "predicted_at": "2026-03-28T01:02:52.685464Z"
   },
   "history": [
     {
@@ -698,6 +698,24 @@
         "reason": "Early 2026 form indicates a shift in power, with Mercedes and Ferrari surpassing Red Bull. News reports highlight Hamilton's victory in Australia and a Mercedes 1-2 finish in China (Antonelli leading Russell). Given Red Bull's admission of being 'nowhere near' the frontrunners and Mercedes' current dominance, these three drivers are the favorites. Hamilton\u2019s extensive experience and renewed confidence in the 2026 Ferrari package give him the edge at a technical track like Suzuka."
       },
       "predicted_at": "2026-03-27T01:09:09.594971Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Suzuka",
+        "circuit": "Suzuka",
+        "country": "Japan",
+        "date_start": "2026-03-29T05:00:00+00:00",
+        "meeting_key": 1281
+      },
+      "prediction": {
+        "podium": {
+          "1st": "George Russell",
+          "2nd": "Oscar Piastri",
+          "3rd": "Andrea Kimi Antonelli"
+        },
+        "reason": "Mercedes and McLaren dominated Friday practice at Suzuka. George Russell topped FP1, while Oscar Piastri led FP2. Mercedes appears to be the form team of 2026 following Kimi Antonelli's win in China, while Max Verstappen and Red Bull are struggling with handling issues at this high-speed circuit."
+      },
+      "predicted_at": "2026-03-28T01:02:52.685464Z"
     }
   ]
 }

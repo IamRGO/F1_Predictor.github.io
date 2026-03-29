@@ -10,12 +10,12 @@
     "prediction": {
       "podium": {
         "1st": "Andrea Kimi Antonelli",
-        "2nd": "George Russell",
-        "3rd": "Oscar Piastri"
+        "2nd": "Oscar Piastri",
+        "3rd": "George Russell"
       },
-      "reason": "Mercedes has dominated the weekend with Kimi Antonelli taking pole and George Russell securing a front-row lockout. With Max Verstappen struggling with car handling and eliminated in Q2, the primary challenge comes from McLaren, where Oscar Piastri showed the strongest practice pace (FP2) among the chasing pack."
+      "reason": "Andrea Kimi Antonelli is on his second consecutive pole for a dominant Mercedes team that has been 'untouchable' in 2026. While George Russell secured P2, team boss Toto Wolff confirmed he will carry a technical 'disadvantage' into the race, allowing P3 qualifier Oscar Piastri, who has shown strong pace throughout practice, to move up. Max Verstappen and Ferrari are currently struggling with car performance and deployment issues."
     },
-    "predicted_at": "2026-03-28T08:46:40.188734Z"
+    "predicted_at": "2026-03-29T01:11:41.796174Z"
   },
   "history": [
     {
@@ -752,6 +752,24 @@
         "reason": "Mercedes has dominated the weekend with Kimi Antonelli taking pole and George Russell securing a front-row lockout. With Max Verstappen struggling with car handling and eliminated in Q2, the primary challenge comes from McLaren, where Oscar Piastri showed the strongest practice pace (FP2) among the chasing pack."
       },
       "predicted_at": "2026-03-28T08:46:40.188734Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Suzuka",
+        "circuit": "Suzuka",
+        "country": "Japan",
+        "date_start": "2026-03-29T05:00:00+00:00",
+        "meeting_key": 1281
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "Oscar Piastri",
+          "3rd": "George Russell"
+        },
+        "reason": "Andrea Kimi Antonelli is on his second consecutive pole for a dominant Mercedes team that has been 'untouchable' in 2026. While George Russell secured P2, team boss Toto Wolff confirmed he will carry a technical 'disadvantage' into the race, allowing P3 qualifier Oscar Piastri, who has shown strong pace throughout practice, to move up. Max Verstappen and Ferrari are currently struggling with car performance and deployment issues."
+      },
+      "predicted_at": "2026-03-29T01:11:41.796174Z"
     }
   ]
 }

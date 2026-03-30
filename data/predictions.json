@@ -1,21 +1,21 @@
 {
   "latest": {
     "next_race": {
-      "race_name": "Suzuka",
-      "circuit": "Suzuka",
-      "country": "Japan",
-      "date_start": "2026-03-29T05:00:00+00:00",
-      "meeting_key": 1281
+      "race_name": "Sakhir",
+      "circuit": "Sakhir",
+      "country": "Bahrain",
+      "date_start": "2026-04-12T15:00:00+00:00",
+      "meeting_key": 1282
     },
     "prediction": {
       "podium": {
-        "1st": "Andrea Kimi Antonelli",
+        "1st": "Kimi Antonelli",
         "2nd": "Oscar Piastri",
         "3rd": "George Russell"
       },
-      "reason": "Andrea Kimi Antonelli is on his second consecutive pole for a dominant Mercedes team that has been 'untouchable' in 2026. While George Russell secured P2, team boss Toto Wolff confirmed he will carry a technical 'disadvantage' into the race, allowing P3 qualifier Oscar Piastri, who has shown strong pace throughout practice, to move up. Max Verstappen and Ferrari are currently struggling with car performance and deployment issues."
+      "reason": "Mercedes is the dominant force in the 2026 regulations, with Antonelli winning the last two races and securing back-to-back poles. Piastri is the most consistent challenger and a previous winner at Sakhir, while Russell should benefit from Mercedes' power advantage on this track despite recent start struggles."
     },
-    "predicted_at": "2026-03-29T01:11:41.796174Z"
+    "predicted_at": "2026-03-30T01:12:51.781107Z"
   },
   "history": [
     {
@@ -770,6 +770,24 @@
         "reason": "Andrea Kimi Antonelli is on his second consecutive pole for a dominant Mercedes team that has been 'untouchable' in 2026. While George Russell secured P2, team boss Toto Wolff confirmed he will carry a technical 'disadvantage' into the race, allowing P3 qualifier Oscar Piastri, who has shown strong pace throughout practice, to move up. Max Verstappen and Ferrari are currently struggling with car performance and deployment issues."
       },
       "predicted_at": "2026-03-29T01:11:41.796174Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Sakhir",
+        "circuit": "Sakhir",
+        "country": "Bahrain",
+        "date_start": "2026-04-12T15:00:00+00:00",
+        "meeting_key": 1282
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Kimi Antonelli",
+          "2nd": "Oscar Piastri",
+          "3rd": "George Russell"
+        },
+        "reason": "Mercedes is the dominant force in the 2026 regulations, with Antonelli winning the last two races and securing back-to-back poles. Piastri is the most consistent challenger and a previous winner at Sakhir, while Russell should benefit from Mercedes' power advantage on this track despite recent start struggles."
+      },
+      "predicted_at": "2026-03-30T01:12:51.781107Z"
     }
   ]
 }

@@ -9,13 +9,13 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Kimi Antonelli",
+        "1st": "Andrea Kimi Antonelli",
         "2nd": "Oscar Piastri",
-        "3rd": "George Russell"
+        "3rd": "Lewis Hamilton"
       },
-      "reason": "Mercedes is the dominant force in the 2026 regulations, with Antonelli winning the last two races and securing back-to-back poles. Piastri is the most consistent challenger and a previous winner at Sakhir, while Russell should benefit from Mercedes' power advantage on this track despite recent start struggles."
+      "reason": "Andrea Kimi Antonelli is in peak form having won the first two races of the 2026 season (China and Japan) in a dominant Mercedes. Oscar Piastri won at this circuit in 2025 and has shown strong pace early in 2026, including a podium in China and a near-win in Japan. Lewis Hamilton is selected to continue Ferrari's 'third successive podium finish' streak mentioned in recent news, following his P3 in China."
     },
-    "predicted_at": "2026-03-30T01:12:51.781107Z"
+    "predicted_at": "2026-03-31T01:10:07.370971Z"
   },
   "history": [
     {
@@ -788,6 +788,24 @@
         "reason": "Mercedes is the dominant force in the 2026 regulations, with Antonelli winning the last two races and securing back-to-back poles. Piastri is the most consistent challenger and a previous winner at Sakhir, while Russell should benefit from Mercedes' power advantage on this track despite recent start struggles."
       },
       "predicted_at": "2026-03-30T01:12:51.781107Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Sakhir",
+        "circuit": "Sakhir",
+        "country": "Bahrain",
+        "date_start": "2026-04-12T15:00:00+00:00",
+        "meeting_key": 1282
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "Oscar Piastri",
+          "3rd": "Lewis Hamilton"
+        },
+        "reason": "Andrea Kimi Antonelli is in peak form having won the first two races of the 2026 season (China and Japan) in a dominant Mercedes. Oscar Piastri won at this circuit in 2025 and has shown strong pace early in 2026, including a podium in China and a near-win in Japan. Lewis Hamilton is selected to continue Ferrari's 'third successive podium finish' streak mentioned in recent news, following his P3 in China."
+      },
+      "predicted_at": "2026-03-31T01:10:07.370971Z"
     }
   ]
 }

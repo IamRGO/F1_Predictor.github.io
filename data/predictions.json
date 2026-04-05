@@ -10,12 +10,12 @@
     "prediction": {
       "podium": {
         "1st": "Andrea Kimi Antonelli",
-        "2nd": "Oscar Piastri",
-        "3rd": "Max Verstappen"
+        "2nd": "George Russell",
+        "3rd": "Lewis Hamilton"
       },
-      "reason": "Antonelli is the clear form driver of the 2026 season so far, leading the championship after back-to-back wins in China and Japan. Piastri is a specialist at the Sakhir circuit, having won the 2025 Bahrain Grand Prix, and continues to show strong pace. Despite his vocal frustration with the 2026 regulations, Verstappen's consistency ensures he remains a top contender for the final podium spot."
+      "reason": "Mercedes has emerged as the dominant force under the 2026 regulations, with Andrea Kimi Antonelli securing back-to-back wins in China and Japan. George Russell remains a consistent frontrunner in the superior Mercedes package. Lewis Hamilton's 'mojo' is reported to be back following his move to Ferrari, evidenced by his recent podium in China, while former leaders Red Bull and McLaren are currently struggling with car issues and development pace."
     },
-    "predicted_at": "2026-04-02T01:07:48.133446Z"
+    "predicted_at": "2026-04-05T01:13:21.348002Z"
   },
   "history": [
     {
@@ -842,6 +842,24 @@
         "reason": "Antonelli is the clear form driver of the 2026 season so far, leading the championship after back-to-back wins in China and Japan. Piastri is a specialist at the Sakhir circuit, having won the 2025 Bahrain Grand Prix, and continues to show strong pace. Despite his vocal frustration with the 2026 regulations, Verstappen's consistency ensures he remains a top contender for the final podium spot."
       },
       "predicted_at": "2026-04-02T01:07:48.133446Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Sakhir",
+        "circuit": "Sakhir",
+        "country": "Bahrain",
+        "date_start": "2026-04-12T15:00:00+00:00",
+        "meeting_key": 1282
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "George Russell",
+          "3rd": "Lewis Hamilton"
+        },
+        "reason": "Mercedes has emerged as the dominant force under the 2026 regulations, with Andrea Kimi Antonelli securing back-to-back wins in China and Japan. George Russell remains a consistent frontrunner in the superior Mercedes package. Lewis Hamilton's 'mojo' is reported to be back following his move to Ferrari, evidenced by his recent podium in China, while former leaders Red Bull and McLaren are currently struggling with car issues and development pace."
+      },
+      "predicted_at": "2026-04-05T01:13:21.348002Z"
     }
   ]
 }

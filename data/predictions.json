@@ -10,12 +10,12 @@
     "prediction": {
       "podium": {
         "1st": "Andrea Kimi Antonelli",
-        "2nd": "Lewis Hamilton",
-        "3rd": "Oscar Piastri"
+        "2nd": "George Russell",
+        "3rd": "Lewis Hamilton"
       },
-      "reason": "According to 2026 news reports, Antonelli is the clear driver to beat after securing back-to-back wins in China and Japan for Mercedes. Lewis Hamilton has shown resurgent form at Ferrari, finishing on the podium recently and regaining his 'mojo' under the new regulations. Oscar Piastri and McLaren remain strong contenders as Red Bull has fallen to fourth in the pecking order and Verstappen is struggling with the new car characteristics."
+      "reason": "Mercedes has emerged as the dominant team under the 2026 regulations, with rookie Andrea Kimi Antonelli winning the two most recent races in Japan and China. George Russell provides consistent support for a Mercedes 1-2, while Lewis Hamilton has shown resurgent form at Ferrari, securing a podium in the previous round."
     },
-    "predicted_at": "2026-04-06T01:13:00.247995Z"
+    "predicted_at": "2026-04-10T01:12:45.928321Z"
   },
   "history": [
     {
@@ -878,6 +878,24 @@
         "reason": "According to 2026 news reports, Antonelli is the clear driver to beat after securing back-to-back wins in China and Japan for Mercedes. Lewis Hamilton has shown resurgent form at Ferrari, finishing on the podium recently and regaining his 'mojo' under the new regulations. Oscar Piastri and McLaren remain strong contenders as Red Bull has fallen to fourth in the pecking order and Verstappen is struggling with the new car characteristics."
       },
       "predicted_at": "2026-04-06T01:13:00.247995Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Sakhir",
+        "circuit": "Sakhir",
+        "country": "Bahrain",
+        "date_start": "2026-04-12T15:00:00+00:00",
+        "meeting_key": 1282
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "George Russell",
+          "3rd": "Lewis Hamilton"
+        },
+        "reason": "Mercedes has emerged as the dominant team under the 2026 regulations, with rookie Andrea Kimi Antonelli winning the two most recent races in Japan and China. George Russell provides consistent support for a Mercedes 1-2, while Lewis Hamilton has shown resurgent form at Ferrari, securing a podium in the previous round."
+      },
+      "predicted_at": "2026-04-10T01:12:45.928321Z"
     }
   ]
 }

@@ -11,11 +11,11 @@
       "podium": {
         "1st": "Andrea Kimi Antonelli",
         "2nd": "George Russell",
-        "3rd": "Lewis Hamilton"
+        "3rd": "Lando Norris"
       },
-      "reason": "Mercedes has emerged as the dominant team under the 2026 regulations, with rookie Andrea Kimi Antonelli winning the two most recent races in Japan and China. George Russell provides consistent support for a Mercedes 1-2, while Lewis Hamilton has shown resurgent form at Ferrari, securing a podium in the previous round."
+      "reason": "Mercedes has emerged as the dominant force in early 2026, with Andrea Kimi Antonelli leading the championship after back-to-back wins. George Russell remains a consistent podium finisher for the team, while McLaren's Lando Norris maintains the strong form seen throughout the 2025 season as Red Bull has fallen to fourth in the performance pecking order."
     },
-    "predicted_at": "2026-04-10T01:12:45.928321Z"
+    "predicted_at": "2026-04-11T01:08:01.074489Z"
   },
   "history": [
     {
@@ -896,6 +896,24 @@
         "reason": "Mercedes has emerged as the dominant team under the 2026 regulations, with rookie Andrea Kimi Antonelli winning the two most recent races in Japan and China. George Russell provides consistent support for a Mercedes 1-2, while Lewis Hamilton has shown resurgent form at Ferrari, securing a podium in the previous round."
       },
       "predicted_at": "2026-04-10T01:12:45.928321Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Sakhir",
+        "circuit": "Sakhir",
+        "country": "Bahrain",
+        "date_start": "2026-04-12T15:00:00+00:00",
+        "meeting_key": 1282
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "George Russell",
+          "3rd": "Lando Norris"
+        },
+        "reason": "Mercedes has emerged as the dominant force in early 2026, with Andrea Kimi Antonelli leading the championship after back-to-back wins. George Russell remains a consistent podium finisher for the team, while McLaren's Lando Norris maintains the strong form seen throughout the 2025 season as Red Bull has fallen to fourth in the performance pecking order."
+      },
+      "predicted_at": "2026-04-11T01:08:01.074489Z"
     }
   ]
 }

@@ -11,31 +11,13 @@
       "podium": {
         "1st": "Andrea Kimi Antonelli",
         "2nd": "George Russell",
-        "3rd": "Lando Norris"
+        "3rd": "Lewis Hamilton"
       },
-      "reason": "Mercedes has emerged as the dominant force in early 2026, with Andrea Kimi Antonelli leading the championship after back-to-back wins. George Russell remains a consistent podium finisher for the team, while McLaren's Lando Norris maintains the strong form seen throughout the 2025 season as Red Bull has fallen to fourth in the performance pecking order."
+      "reason": "Mercedes has emerged as the dominant force under the 2026 regulations, with Antonelli currently leading the championship following back-to-back wins in Japan and China. While Red Bull has fallen to fourth in the pecking order, Lewis Hamilton's resurgent form at Ferrari suggests he is the primary challenger to a Mercedes 1-2."
     },
-    "predicted_at": "2026-04-11T01:08:01.074489Z"
+    "predicted_at": "2026-04-12T01:16:09.134306Z"
   },
   "history": [
-    {
-      "next_race": {
-        "meeting_key": 1256,
-        "race_name": "Japanese Grand Prix",
-        "circuit_name": "Suzuka",
-        "circuit": "Suzuka",
-        "country": "",
-        "date_start": "2025-01-01T00:00:00Z"
-      },
-      "prediction": null,
-      "predicted_at": null,
-      "actual_podium": {
-        "1st": "Max VERSTAPPEN",
-        "2nd": "Lando NORRIS",
-        "3rd": "Oscar PIASTRI"
-      },
-      "accuracy": null
-    },
     {
       "next_race": {
         "meeting_key": 1257,
@@ -914,6 +896,24 @@
         "reason": "Mercedes has emerged as the dominant force in early 2026, with Andrea Kimi Antonelli leading the championship after back-to-back wins. George Russell remains a consistent podium finisher for the team, while McLaren's Lando Norris maintains the strong form seen throughout the 2025 season as Red Bull has fallen to fourth in the performance pecking order."
       },
       "predicted_at": "2026-04-11T01:08:01.074489Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Sakhir",
+        "circuit": "Sakhir",
+        "country": "Bahrain",
+        "date_start": "2026-04-12T15:00:00+00:00",
+        "meeting_key": 1282
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "George Russell",
+          "3rd": "Lewis Hamilton"
+        },
+        "reason": "Mercedes has emerged as the dominant force under the 2026 regulations, with Antonelli currently leading the championship following back-to-back wins in Japan and China. While Red Bull has fallen to fourth in the pecking order, Lewis Hamilton's resurgent form at Ferrari suggests he is the primary challenger to a Mercedes 1-2."
+      },
+      "predicted_at": "2026-04-12T01:16:09.134306Z"
     }
   ]
 }

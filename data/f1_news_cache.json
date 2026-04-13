@@ -1,6 +1,27 @@
 {
-  "fetched_at": "2026-04-12T01:15:56.057945Z",
+  "fetched_at": "2026-04-13T01:18:09.862074Z",
   "articles": [
+    {
+      "title": "Patience vital for Albon betting fans",
+      "summary": "Patience vital for Albon betting fans. Albon and Wiliams have had a tough start to 2026, but points finishes may return later in the season.",
+      "source": "F1 News",
+      "published_at": "",
+      "url": "https://www.formula1.com/en/latest/article/alex-albon-still-one-to-watch-in-betting-markets-but-patience-will-be-needed.1CLwwDbFV80G9JkZAgwJD3"
+    },
+    {
+      "title": "Sainz can spark Williams revival in betting markets",
+      "summary": "Sainz can spark Williams revival in betting markets. He has already picked up points in the opening three races, but more is expected from Sainz this season.",
+      "source": "F1 News",
+      "published_at": "",
+      "url": "https://www.formula1.com/en/latest/article/carlos-sainz-can-help-spark-williams-revival-in-betting-markets.182DyD1DS11JSjGMAb1eo4"
+    },
+    {
+      "title": "The most iconic F1 driver-race engineer partnerships",
+      "summary": "The most iconic F1 driver-race engineer partnerships. The impending departure of Gianpiero Lambiase from Red Bull will bring to a close one of the most renowned partnerships between a race engineer and a driver in Formula 1.",
+      "source": "F1 News",
+      "published_at": "",
+      "url": "https://www.formula1.com/en/latest/article/the-most-iconic-driver-race-engineer-partnerships-in-f1-history.5ppIUajEtxd0lGRPwm2mC9"
+    },
     {
       "title": "Binotto on Audi's 'biggest challenge' and their journey so far",
       "summary": "Binotto on Audi's 'biggest challenge' and their journey so far. F1.com's Lawrence Barretto catches up with Mattia Binotto, Head of the Audi F1 project, to assess the team's journey so far and the challenge of building a brand-new power unit.",
@@ -9,8 +30,8 @@
       "url": "https://www.formula1.com/en/latest/article/exclusive-binotto-reflects-on-audis-biggest-challenge-as-he-assesses-the.2anmBYVV4VP8vZmeH1pPiZ"
     },
     {
-      "title": "9 drivers who shone in F1 after rapid rise through the ranks",
-      "summary": "9 drivers who shone in F1 after rapid rise through the ranks. From skipping a category to taking a more unusual route to the top, F1.com looks back at the rapid rises of nine drivers who went on to impress when they arrived in Formula 1.",
+      "title": "9 drivers who shone in F1 after a rapid rise through the ranks",
+      "summary": "9 drivers who shone in F1 after a rapid rise through the ranks. From skipping a category to taking a more unusual route to the top, F1.com looks back at the rapid rises of nine drivers who went on to impress when they arrived in Formula 1.",
       "source": "F1 News",
       "published_at": "",
       "url": "https://www.formula1.com/en/latest/article/9-drivers-who-shone-in-f1-after-a-rapid-rise-through-the-ranks.7adDMwJyDPSVdns5NOoxdw"
@@ -49,27 +70,6 @@
       "source": "F1 News",
       "published_at": "",
       "url": "https://www.formula1.com/en/latest/article/explained-what-is-the-f1-cost-cap-and-why-has-it-gone-up.2tYtDIe5SbE5utjThctBT3"
-    },
-    {
-      "title": "12 of F1's weirdest and most amazing records",
-      "summary": "12 of F1's weirdest and most amazing records. F1.com takes a closer look at some of the most incredible \u2013 and unusual \u2013 records from across the sport's history.",
-      "source": "F1 News",
-      "published_at": "",
-      "url": "https://www.formula1.com/en/latest/article/from-a-qualifying-dead-heat-to-the-lowest-ever-finish-12-of-f1s-weirdest-and.7xNY7kgbMdw2mJZcgCLeey"
-    },
-    {
-      "title": "Ricciardo \u2018grateful\u2019 Red Bull made F1 exit decision for him",
-      "summary": "Ricciardo \u2018grateful\u2019 Red Bull made F1 exit decision for him. Daniel Ricciardo has reflected on the decision to remove him from his Racing Bulls seat in 2024, as his F1 career came to an abrupt end.",
-      "source": "F1 News",
-      "published_at": "",
-      "url": "https://www.formula1.com/en/latest/article/ricciardo-opens-up-on-f1-career-coming-to-an-end-as-he-reveals-hes-grateful.2VwZO1mTyZKNR9SxlLeHmi"
-    },
-    {
-      "title": "What we know about Lambiase's move from Red Bull to McLaren",
-      "summary": "What we know about Lambiase's move from Red Bull to McLaren. Lawrence Barretto delves into Gianpiero Lambiase's confirmed move from Red Bull to McLaren, and what it means for Max Verstappen.",
-      "source": "F1 News",
-      "published_at": "",
-      "url": "https://www.formula1.com/en/latest/article/analysis-gianpiero-lambiase-red-bull-mclaren-max-verstappen.4ri5jhgqUGtZf0xSd22sNm"
     },
     {
       "title": "Doohan eager to get his career reset started with Nielsen in ELMS LMP2",
@@ -164,7 +164,7 @@
     },
     {
       "title": "F1: Chequered Flag",
-      "summary": "F1: Chequered Flag. Harry Benjamin, Alice Powell & Andrew Benson\u00a0answer your questions.",
+      "summary": "F1: Chequered Flag. Harry Benjamin, Alice Powell & Andrew Benson answer your questions.",
       "source": "F1 News",
       "published_at": "Thu, 09 Apr 2026 05:00:00 GMT",
       "url": "https://www.bbc.co.uk/sounds/play/p0nc89vd?at_medium=RSS&at_campaign=rss"

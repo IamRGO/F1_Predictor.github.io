@@ -1,41 +1,23 @@
 {
   "latest": {
     "next_race": {
-      "race_name": "Sakhir",
-      "circuit": "Sakhir",
-      "country": "Bahrain",
-      "date_start": "2026-04-12T15:00:00+00:00",
-      "meeting_key": 1282
+      "race_name": "Jeddah",
+      "circuit": "Jeddah",
+      "country": "Saudi Arabia",
+      "date_start": "2026-04-19T17:00:00+00:00",
+      "meeting_key": 1283
     },
     "prediction": {
       "podium": {
         "1st": "Andrea Kimi Antonelli",
         "2nd": "George Russell",
-        "3rd": "Lewis Hamilton"
+        "3rd": "Oscar Piastri"
       },
-      "reason": "Mercedes has emerged as the dominant force under the 2026 regulations, with Antonelli currently leading the championship following back-to-back wins in Japan and China. While Red Bull has fallen to fourth in the pecking order, Lewis Hamilton's resurgent form at Ferrari suggests he is the primary challenger to a Mercedes 1-2."
+      "reason": "Mercedes has emerged as the dominant force in the early 2026 season, with Kimi Antonelli securing back-to-back victories in Japan and China. While Ferrari and McLaren remain competitive, Red Bull has reportedly fallen to the fourth-fastest team. Piastri is a specialist at the Jeddah circuit, having won there in 2025, making him the favorite to challenge the Mercedes duo."
     },
-    "predicted_at": "2026-04-12T01:16:09.134306Z"
+    "predicted_at": "2026-04-13T01:18:28.643484Z"
   },
   "history": [
-    {
-      "next_race": {
-        "meeting_key": 1257,
-        "race_name": "Bahrain Grand Prix",
-        "circuit_name": "Sakhir",
-        "circuit": "Sakhir",
-        "country": "",
-        "date_start": "2025-01-01T00:00:00Z"
-      },
-      "prediction": null,
-      "predicted_at": null,
-      "actual_podium": {
-        "1st": "Oscar PIASTRI",
-        "2nd": "George RUSSELL",
-        "3rd": "Lando NORRIS"
-      },
-      "accuracy": null
-    },
     {
       "next_race": {
         "meeting_key": 1258,
@@ -914,6 +896,24 @@
         "reason": "Mercedes has emerged as the dominant force under the 2026 regulations, with Antonelli currently leading the championship following back-to-back wins in Japan and China. While Red Bull has fallen to fourth in the pecking order, Lewis Hamilton's resurgent form at Ferrari suggests he is the primary challenger to a Mercedes 1-2."
       },
       "predicted_at": "2026-04-12T01:16:09.134306Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Jeddah",
+        "circuit": "Jeddah",
+        "country": "Saudi Arabia",
+        "date_start": "2026-04-19T17:00:00+00:00",
+        "meeting_key": 1283
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "George Russell",
+          "3rd": "Oscar Piastri"
+        },
+        "reason": "Mercedes has emerged as the dominant force in the early 2026 season, with Kimi Antonelli securing back-to-back victories in Japan and China. While Ferrari and McLaren remain competitive, Red Bull has reportedly fallen to the fourth-fastest team. Piastri is a specialist at the Jeddah circuit, having won there in 2025, making him the favorite to challenge the Mercedes duo."
+      },
+      "predicted_at": "2026-04-13T01:18:28.643484Z"
     }
   ]
 }

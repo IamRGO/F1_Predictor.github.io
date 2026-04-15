@@ -10,32 +10,14 @@
     "prediction": {
       "podium": {
         "1st": "Andrea Kimi Antonelli",
-        "2nd": "Oscar Piastri",
-        "3rd": "Lewis Hamilton"
+        "2nd": "Max Verstappen",
+        "3rd": "Oscar Piastri"
       },
-      "reason": "Andrea Kimi Antonelli is the clear form driver of 2026, coming off consecutive victories in Japan and China. Oscar Piastri won at this circuit in 2025 and McLaren is expected to bounce back following focused development during the April break. Lewis Hamilton rounds out the podium, showing a 'resurgent spark' and consistent performance in his new Ferrari seat, including a recent podium in Shanghai."
+      "reason": "Andrea Kimi Antonelli is the driver in peak form having won the two most recent races in Japan and China. Verstappen remains a constant threat at high-speed circuits like Jeddah where he finished 2nd last year. Piastri won the Saudi Arabian Grand Prix in 2025, demonstrating his strength at this specific track."
     },
-    "predicted_at": "2026-04-14T01:16:53.257315Z"
+    "predicted_at": "2026-04-15T01:14:39.725795Z"
   },
   "history": [
-    {
-      "next_race": {
-        "meeting_key": 1259,
-        "race_name": "Miami Grand Prix",
-        "circuit_name": "Miami",
-        "circuit": "Miami",
-        "country": "",
-        "date_start": "2025-01-01T00:00:00Z"
-      },
-      "prediction": null,
-      "predicted_at": null,
-      "actual_podium": {
-        "1st": "Oscar PIASTRI",
-        "2nd": "Lando NORRIS",
-        "3rd": "George RUSSELL"
-      },
-      "accuracy": null
-    },
     {
       "next_race": {
         "meeting_key": 1260,
@@ -914,6 +896,24 @@
         "reason": "Andrea Kimi Antonelli is the clear form driver of 2026, coming off consecutive victories in Japan and China. Oscar Piastri won at this circuit in 2025 and McLaren is expected to bounce back following focused development during the April break. Lewis Hamilton rounds out the podium, showing a 'resurgent spark' and consistent performance in his new Ferrari seat, including a recent podium in Shanghai."
       },
       "predicted_at": "2026-04-14T01:16:53.257315Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Jeddah",
+        "circuit": "Jeddah",
+        "country": "Saudi Arabia",
+        "date_start": "2026-04-19T17:00:00+00:00",
+        "meeting_key": 1283
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "Max Verstappen",
+          "3rd": "Oscar Piastri"
+        },
+        "reason": "Andrea Kimi Antonelli is the driver in peak form having won the two most recent races in Japan and China. Verstappen remains a constant threat at high-speed circuits like Jeddah where he finished 2nd last year. Piastri won the Saudi Arabian Grand Prix in 2025, demonstrating his strength at this specific track."
+      },
+      "predicted_at": "2026-04-15T01:14:39.725795Z"
     }
   ]
 }

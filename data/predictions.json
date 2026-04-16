@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Andrea Kimi Antonelli",
+        "1st": "Oscar Piastri",
         "2nd": "Max Verstappen",
-        "3rd": "Oscar Piastri"
+        "3rd": "Kimi Antonelli"
       },
-      "reason": "Andrea Kimi Antonelli is the driver in peak form having won the two most recent races in Japan and China. Verstappen remains a constant threat at high-speed circuits like Jeddah where he finished 2nd last year. Piastri won the Saudi Arabian Grand Prix in 2025, demonstrating his strength at this specific track."
+      "reason": "Piastri is the defending winner at the Jeddah circuit and enters the weekend with momentum from a podium in Japan. Verstappen remains the primary threat following significant upgrades to the RB22, while championship leader Antonelli is predicted to continue his streak of podium finishes for Mercedes."
     },
-    "predicted_at": "2026-04-15T01:14:39.725795Z"
+    "predicted_at": "2026-04-16T01:19:14.300418Z"
   },
   "history": [
-    {
-      "next_race": {
-        "meeting_key": 1260,
-        "race_name": "Emilia Romagna Grand Prix",
-        "circuit_name": "Imola",
-        "circuit": "Imola",
-        "country": "",
-        "date_start": "2025-01-01T00:00:00Z"
-      },
-      "prediction": null,
-      "predicted_at": null,
-      "actual_podium": {
-        "1st": "Max VERSTAPPEN",
-        "2nd": "Lando NORRIS",
-        "3rd": "Oscar PIASTRI"
-      },
-      "accuracy": null
-    },
     {
       "next_race": {
         "meeting_key": 1261,
@@ -914,6 +896,24 @@
         "reason": "Andrea Kimi Antonelli is the driver in peak form having won the two most recent races in Japan and China. Verstappen remains a constant threat at high-speed circuits like Jeddah where he finished 2nd last year. Piastri won the Saudi Arabian Grand Prix in 2025, demonstrating his strength at this specific track."
       },
       "predicted_at": "2026-04-15T01:14:39.725795Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Jeddah",
+        "circuit": "Jeddah",
+        "country": "Saudi Arabia",
+        "date_start": "2026-04-19T17:00:00+00:00",
+        "meeting_key": 1283
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Oscar Piastri",
+          "2nd": "Max Verstappen",
+          "3rd": "Kimi Antonelli"
+        },
+        "reason": "Piastri is the defending winner at the Jeddah circuit and enters the weekend with momentum from a podium in Japan. Verstappen remains the primary threat following significant upgrades to the RB22, while championship leader Antonelli is predicted to continue his streak of podium finishes for Mercedes."
+      },
+      "predicted_at": "2026-04-16T01:19:14.300418Z"
     }
   ]
 }

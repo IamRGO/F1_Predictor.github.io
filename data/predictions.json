@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Oscar Piastri",
-        "2nd": "Max Verstappen",
-        "3rd": "Kimi Antonelli"
+        "1st": "Andrea Kimi Antonelli",
+        "2nd": "George Russell",
+        "3rd": "Oscar Piastri"
       },
-      "reason": "Piastri is the defending winner at the Jeddah circuit and enters the weekend with momentum from a podium in Japan. Verstappen remains the primary threat following significant upgrades to the RB22, while championship leader Antonelli is predicted to continue his streak of podium finishes for Mercedes."
+      "reason": "Mercedes is currently the dominant team in the 2026 season, with championship leader Antonelli coming off recent wins in Japan and China. Russell is his primary title rival, while Piastri has a strong track record at Jeddah, having won there in 2025."
     },
-    "predicted_at": "2026-04-16T01:19:14.300418Z"
+    "predicted_at": "2026-04-19T01:19:19.521274Z"
   },
   "history": [
-    {
-      "next_race": {
-        "meeting_key": 1261,
-        "race_name": "Monaco Grand Prix",
-        "circuit_name": "Monte Carlo",
-        "circuit": "Monte Carlo",
-        "country": "",
-        "date_start": "2025-01-01T00:00:00Z"
-      },
-      "prediction": null,
-      "predicted_at": null,
-      "actual_podium": {
-        "1st": "Lando NORRIS",
-        "2nd": "Charles LECLERC",
-        "3rd": "Oscar PIASTRI"
-      },
-      "accuracy": null
-    },
     {
       "next_race": {
         "meeting_key": 1262,
@@ -914,6 +896,24 @@
         "reason": "Piastri is the defending winner at the Jeddah circuit and enters the weekend with momentum from a podium in Japan. Verstappen remains the primary threat following significant upgrades to the RB22, while championship leader Antonelli is predicted to continue his streak of podium finishes for Mercedes."
       },
       "predicted_at": "2026-04-16T01:19:14.300418Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Jeddah",
+        "circuit": "Jeddah",
+        "country": "Saudi Arabia",
+        "date_start": "2026-04-19T17:00:00+00:00",
+        "meeting_key": 1283
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "George Russell",
+          "3rd": "Oscar Piastri"
+        },
+        "reason": "Mercedes is currently the dominant team in the 2026 season, with championship leader Antonelli coming off recent wins in Japan and China. Russell is his primary title rival, while Piastri has a strong track record at Jeddah, having won there in 2025."
+      },
+      "predicted_at": "2026-04-19T01:19:19.521274Z"
     }
   ]
 }

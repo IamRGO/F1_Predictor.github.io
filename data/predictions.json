@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Andrea Kimi Antonelli",
-        "2nd": "George Russell",
-        "3rd": "Lando Norris"
+        "1st": "Lando Norris",
+        "2nd": "Andrea Kimi Antonelli",
+        "3rd": "George Russell"
       },
-      "reason": "Mercedes has dominated the start of the 2026 season with three consecutive wins, and championship leader Andrea Kimi Antonelli is in peak form following victories in Japan and China. While Mercedes holds the technical advantage, McLaren has a strong historical record in Miami, making Lando Norris the most likely candidate to challenge the Mercedes duo for a podium spot as Red Bull continues to struggle with the new regulations."
+      "reason": "McLaren is introducing a 'completely new car' for Miami, a track where they dominated in 2025. While Andrea Kimi Antonelli is the current 2026 championship leader and Mercedes has the strongest start to the new regulations, McLaren's major upgrade is expected to bridge the gap. George Russell remains highly consistent as a title contender, while Verstappen and Red Bull are reportedly struggling with the 2026 engine regulations."
     },
-    "predicted_at": "2026-04-22T01:15:30.286377Z"
+    "predicted_at": "2026-04-24T01:19:35.227435Z"
   },
   "history": [
-    {
-      "next_race": {
-        "meeting_key": 1277,
-        "race_name": "British Grand Prix",
-        "circuit_name": "Silverstone",
-        "circuit": "Silverstone",
-        "country": "",
-        "date_start": "2025-01-01T00:00:00Z"
-      },
-      "prediction": null,
-      "predicted_at": null,
-      "actual_podium": {
-        "1st": "Lando NORRIS",
-        "2nd": "Oscar PIASTRI",
-        "3rd": "Nico HULKENBERG"
-      },
-      "accuracy": null
-    },
     {
       "next_race": {
         "meeting_key": 1265,
@@ -914,6 +896,24 @@
         "reason": "Mercedes has dominated the start of the 2026 season with three consecutive wins, and championship leader Andrea Kimi Antonelli is in peak form following victories in Japan and China. While Mercedes holds the technical advantage, McLaren has a strong historical record in Miami, making Lando Norris the most likely candidate to challenge the Mercedes duo for a podium spot as Red Bull continues to struggle with the new regulations."
       },
       "predicted_at": "2026-04-22T01:15:30.286377Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Miami",
+        "circuit": "Miami",
+        "country": "United States",
+        "date_start": "2026-05-03T20:00:00+00:00",
+        "meeting_key": 1284
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Lando Norris",
+          "2nd": "Andrea Kimi Antonelli",
+          "3rd": "George Russell"
+        },
+        "reason": "McLaren is introducing a 'completely new car' for Miami, a track where they dominated in 2025. While Andrea Kimi Antonelli is the current 2026 championship leader and Mercedes has the strongest start to the new regulations, McLaren's major upgrade is expected to bridge the gap. George Russell remains highly consistent as a title contender, while Verstappen and Red Bull are reportedly struggling with the 2026 engine regulations."
+      },
+      "predicted_at": "2026-04-24T01:19:35.227435Z"
     }
   ]
 }

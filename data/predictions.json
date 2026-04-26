@@ -13,29 +13,11 @@
         "2nd": "Lando Norris",
         "3rd": "Andrea Kimi Antonelli"
       },
-      "reason": "Mercedes has emerged as the dominant force under the 2026 regulations with Russell leading the championship and Antonelli coming off a win in Japan. While McLaren is introducing a 'completely new car' to bridge the gap, Mercedes' current form remains the benchmark, though Norris's historical success in Miami should see him challenge for the top spot."
+      "reason": "Mercedes has dominated the 2026 season so far with Russell and Japan-winner Antonelli. However, McLaren is introducing a 'completely new car' in Miami, a track where they achieved 1-2 finishes in 2025, which should propel Norris into the top three to challenge the Mercedes duo while Red Bull continues to struggle."
     },
-    "predicted_at": "2026-04-25T01:13:45.512632Z"
+    "predicted_at": "2026-04-26T01:21:58.640930Z"
   },
   "history": [
-    {
-      "next_race": {
-        "meeting_key": 1266,
-        "race_name": "Hungarian Grand Prix",
-        "circuit_name": "Hungaroring",
-        "circuit": "Hungaroring",
-        "country": "",
-        "date_start": "2025-01-01T00:00:00Z"
-      },
-      "prediction": null,
-      "predicted_at": null,
-      "actual_podium": {
-        "1st": "Lando NORRIS",
-        "2nd": "Oscar PIASTRI",
-        "3rd": "George RUSSELL"
-      },
-      "accuracy": null
-    },
     {
       "next_race": {
         "meeting_key": 1267,
@@ -914,6 +896,24 @@
         "reason": "Mercedes has emerged as the dominant force under the 2026 regulations with Russell leading the championship and Antonelli coming off a win in Japan. While McLaren is introducing a 'completely new car' to bridge the gap, Mercedes' current form remains the benchmark, though Norris's historical success in Miami should see him challenge for the top spot."
       },
       "predicted_at": "2026-04-25T01:13:45.512632Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Miami",
+        "circuit": "Miami",
+        "country": "United States",
+        "date_start": "2026-05-03T20:00:00+00:00",
+        "meeting_key": 1284
+      },
+      "prediction": {
+        "podium": {
+          "1st": "George Russell",
+          "2nd": "Lando Norris",
+          "3rd": "Andrea Kimi Antonelli"
+        },
+        "reason": "Mercedes has dominated the 2026 season so far with Russell and Japan-winner Antonelli. However, McLaren is introducing a 'completely new car' in Miami, a track where they achieved 1-2 finishes in 2025, which should propel Norris into the top three to challenge the Mercedes duo while Red Bull continues to struggle."
+      },
+      "predicted_at": "2026-04-26T01:21:58.640930Z"
     }
   ]
 }

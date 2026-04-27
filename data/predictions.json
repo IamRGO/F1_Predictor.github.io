@@ -10,32 +10,14 @@
     "prediction": {
       "podium": {
         "1st": "George Russell",
-        "2nd": "Lando Norris",
-        "3rd": "Andrea Kimi Antonelli"
+        "2nd": "Oscar Piastri",
+        "3rd": "Lando Norris"
       },
-      "reason": "Mercedes has dominated the 2026 season so far with Russell and Japan-winner Antonelli. However, McLaren is introducing a 'completely new car' in Miami, a track where they achieved 1-2 finishes in 2025, which should propel Norris into the top three to challenge the Mercedes duo while Red Bull continues to struggle."
+      "reason": "George Russell enters Miami as the 2026 title favorite with Mercedes showing dominant form. While McLaren is introducing a 'completely new car' to bridge the gap, their historical strength at the Miami circuit suggests Piastri and Norris will secure the remaining podium spots ahead of a struggling Verstappen."
     },
-    "predicted_at": "2026-04-26T01:21:58.640930Z"
+    "predicted_at": "2026-04-27T01:23:05.991223Z"
   },
   "history": [
-    {
-      "next_race": {
-        "meeting_key": 1267,
-        "race_name": "Dutch Grand Prix",
-        "circuit_name": "Zandvoort",
-        "circuit": "Zandvoort",
-        "country": "",
-        "date_start": "2025-01-01T00:00:00Z"
-      },
-      "prediction": null,
-      "predicted_at": null,
-      "actual_podium": {
-        "1st": "Oscar PIASTRI",
-        "2nd": "Max VERSTAPPEN",
-        "3rd": "Isack HADJAR"
-      },
-      "accuracy": null
-    },
     {
       "next_race": {
         "meeting_key": 1268,
@@ -914,6 +896,24 @@
         "reason": "Mercedes has dominated the 2026 season so far with Russell and Japan-winner Antonelli. However, McLaren is introducing a 'completely new car' in Miami, a track where they achieved 1-2 finishes in 2025, which should propel Norris into the top three to challenge the Mercedes duo while Red Bull continues to struggle."
       },
       "predicted_at": "2026-04-26T01:21:58.640930Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Miami",
+        "circuit": "Miami",
+        "country": "United States",
+        "date_start": "2026-05-03T20:00:00+00:00",
+        "meeting_key": 1284
+      },
+      "prediction": {
+        "podium": {
+          "1st": "George Russell",
+          "2nd": "Oscar Piastri",
+          "3rd": "Lando Norris"
+        },
+        "reason": "George Russell enters Miami as the 2026 title favorite with Mercedes showing dominant form. While McLaren is introducing a 'completely new car' to bridge the gap, their historical strength at the Miami circuit suggests Piastri and Norris will secure the remaining podium spots ahead of a struggling Verstappen."
+      },
+      "predicted_at": "2026-04-27T01:23:05.991223Z"
     }
   ]
 }

@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Kimi Antonelli",
+        "1st": "Andrea Kimi Antonelli",
         "2nd": "George Russell",
         "3rd": "Lando Norris"
       },
-      "reason": "Mercedes has emerged as the dominant team in the 2026 regulation shift, with championship leader Kimi Antonelli and George Russell consistently finishing at the front. McLaren's introduction of a 'completely new car' for the Miami GP is expected to help Lando Norris reclaim a podium spot at a track where he has historically performed well."
+      "reason": "Mercedes enters Miami as the dominant force in 2026 with championship leader Antonelli and teammate Russell leading the field. While Ferrari has been consistent, McLaren is introducing a 'completely new car' for this race, and Norris has a strong historical record in Miami, including a win in 2025, making him the favorite to secure third over the Ferrari drivers."
     },
-    "predicted_at": "2026-04-28T01:29:23.690190Z"
+    "predicted_at": "2026-04-29T01:45:21.098535Z"
   },
   "history": [
-    {
-      "next_race": {
-        "meeting_key": 1269,
-        "race_name": "Azerbaijan Grand Prix",
-        "circuit_name": "Baku",
-        "circuit": "Baku",
-        "country": "",
-        "date_start": "2025-01-01T00:00:00Z"
-      },
-      "prediction": null,
-      "predicted_at": null,
-      "actual_podium": {
-        "1st": "Max VERSTAPPEN",
-        "2nd": "George RUSSELL",
-        "3rd": "Carlos SAINZ"
-      },
-      "accuracy": null
-    },
     {
       "next_race": {
         "meeting_key": 1270,
@@ -914,6 +896,24 @@
         "reason": "Mercedes has emerged as the dominant team in the 2026 regulation shift, with championship leader Kimi Antonelli and George Russell consistently finishing at the front. McLaren's introduction of a 'completely new car' for the Miami GP is expected to help Lando Norris reclaim a podium spot at a track where he has historically performed well."
       },
       "predicted_at": "2026-04-28T01:29:23.690190Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Miami",
+        "circuit": "Miami",
+        "country": "United States",
+        "date_start": "2026-05-03T20:00:00+00:00",
+        "meeting_key": 1284
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "George Russell",
+          "3rd": "Lando Norris"
+        },
+        "reason": "Mercedes enters Miami as the dominant force in 2026 with championship leader Antonelli and teammate Russell leading the field. While Ferrari has been consistent, McLaren is introducing a 'completely new car' for this race, and Norris has a strong historical record in Miami, including a win in 2025, making him the favorite to secure third over the Ferrari drivers."
+      },
+      "predicted_at": "2026-04-29T01:45:21.098535Z"
     }
   ]
 }

@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "George Russell",
-        "2nd": "Andrea Kimi Antonelli",
+        "1st": "Andrea Kimi Antonelli",
+        "2nd": "George Russell",
         "3rd": "Lando Norris"
       },
-      "reason": "Mercedes has emerged as the dominant team to beat in the 2026 season, with Russell and Antonelli already established as the championship frontrunners. While Red Bull struggles with development and reliability, Norris remains highly competitive and has a strong historical track record in Miami, having won there in 2025."
+      "reason": "Mercedes enters Miami as the team to beat in the 2026 season, with Antonelli seeking his third consecutive victory. While McLaren and Ferrari are bringing upgrades to bridge the gap, the Silver Arrows' current dominance and Antonelli's momentum make them favorites, with Miami historically favoring Norris's driving style for the final podium spot."
     },
-    "predicted_at": "2026-04-30T01:31:03.844721Z"
+    "predicted_at": "2026-05-01T01:46:32.018929Z"
   },
   "history": [
-    {
-      "next_race": {
-        "meeting_key": 1271,
-        "race_name": "United States Grand Prix",
-        "circuit_name": "Austin",
-        "circuit": "Austin",
-        "country": "",
-        "date_start": "2025-01-01T00:00:00Z"
-      },
-      "prediction": null,
-      "predicted_at": null,
-      "actual_podium": {
-        "1st": "Max VERSTAPPEN",
-        "2nd": "Lando NORRIS",
-        "3rd": "Charles LECLERC"
-      },
-      "accuracy": null
-    },
     {
       "next_race": {
         "meeting_key": 1272,
@@ -914,6 +896,24 @@
         "reason": "Mercedes has emerged as the dominant team to beat in the 2026 season, with Russell and Antonelli already established as the championship frontrunners. While Red Bull struggles with development and reliability, Norris remains highly competitive and has a strong historical track record in Miami, having won there in 2025."
       },
       "predicted_at": "2026-04-30T01:31:03.844721Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Miami",
+        "circuit": "Miami",
+        "country": "United States",
+        "date_start": "2026-05-03T20:00:00+00:00",
+        "meeting_key": 1284
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "George Russell",
+          "3rd": "Lando Norris"
+        },
+        "reason": "Mercedes enters Miami as the team to beat in the 2026 season, with Antonelli seeking his third consecutive victory. While McLaren and Ferrari are bringing upgrades to bridge the gap, the Silver Arrows' current dominance and Antonelli's momentum make them favorites, with Miami historically favoring Norris's driving style for the final podium spot."
+      },
+      "predicted_at": "2026-05-01T01:46:32.018929Z"
     }
   ]
 }

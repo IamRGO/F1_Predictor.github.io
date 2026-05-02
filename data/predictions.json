@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Andrea Kimi Antonelli",
-        "2nd": "George Russell",
-        "3rd": "Lando Norris"
+        "1st": "Lando Norris",
+        "2nd": "Andrea Kimi Antonelli",
+        "3rd": "Charles Leclerc"
       },
-      "reason": "Mercedes enters Miami as the team to beat in the 2026 season, with Antonelli seeking his third consecutive victory. While McLaren and Ferrari are bringing upgrades to bridge the gap, the Silver Arrows' current dominance and Antonelli's momentum make them favorites, with Miami historically favoring Norris's driving style for the final podium spot."
+      "reason": "Lando Norris broke Mercedes' 2026 pole streak with a dominant Sprint Qualifying performance fueled by effective McLaren upgrades. Championship leader Kimi Antonelli remains the strongest Mercedes threat starting from the front row, while Charles Leclerc's practice-topping pace and Ferrari's upgrades suggest they have overtaken a struggling Red Bull and George Russell this weekend."
     },
-    "predicted_at": "2026-05-01T01:46:32.018929Z"
+    "predicted_at": "2026-05-02T01:24:40.414464Z"
   },
   "history": [
-    {
-      "next_race": {
-        "meeting_key": 1272,
-        "race_name": "Mexico City Grand Prix",
-        "circuit_name": "Mexico City",
-        "circuit": "Mexico City",
-        "country": "",
-        "date_start": "2025-01-01T00:00:00Z"
-      },
-      "prediction": null,
-      "predicted_at": null,
-      "actual_podium": {
-        "1st": "Lando NORRIS",
-        "2nd": "Charles LECLERC",
-        "3rd": "Max VERSTAPPEN"
-      },
-      "accuracy": null
-    },
     {
       "next_race": {
         "meeting_key": 1273,
@@ -914,6 +896,24 @@
         "reason": "Mercedes enters Miami as the team to beat in the 2026 season, with Antonelli seeking his third consecutive victory. While McLaren and Ferrari are bringing upgrades to bridge the gap, the Silver Arrows' current dominance and Antonelli's momentum make them favorites, with Miami historically favoring Norris's driving style for the final podium spot."
       },
       "predicted_at": "2026-05-01T01:46:32.018929Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Miami",
+        "circuit": "Miami",
+        "country": "United States",
+        "date_start": "2026-05-03T20:00:00+00:00",
+        "meeting_key": 1284
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Lando Norris",
+          "2nd": "Andrea Kimi Antonelli",
+          "3rd": "Charles Leclerc"
+        },
+        "reason": "Lando Norris broke Mercedes' 2026 pole streak with a dominant Sprint Qualifying performance fueled by effective McLaren upgrades. Championship leader Kimi Antonelli remains the strongest Mercedes threat starting from the front row, while Charles Leclerc's practice-topping pace and Ferrari's upgrades suggest they have overtaken a struggling Red Bull and George Russell this weekend."
+      },
+      "predicted_at": "2026-05-02T01:24:40.414464Z"
     }
   ]
 }

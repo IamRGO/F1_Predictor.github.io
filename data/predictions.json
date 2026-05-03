@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Lando Norris",
-        "2nd": "Andrea Kimi Antonelli",
-        "3rd": "Charles Leclerc"
+        "1st": "Andrea Kimi Antonelli",
+        "2nd": "Max Verstappen",
+        "3rd": "Lando Norris"
       },
-      "reason": "Lando Norris broke Mercedes' 2026 pole streak with a dominant Sprint Qualifying performance fueled by effective McLaren upgrades. Championship leader Kimi Antonelli remains the strongest Mercedes threat starting from the front row, while Charles Leclerc's practice-topping pace and Ferrari's upgrades suggest they have overtaken a struggling Red Bull and George Russell this weekend."
+      "reason": "Championship leader Antonelli starts from pole and looks to convert his qualifying pace into a win. Verstappen starts P2 and has shown resurgent form, while Norris, despite a difficult qualifying, demonstrated the field's best race pace by dominantly winning the Sprint earlier in the weekend."
     },
-    "predicted_at": "2026-05-02T01:24:40.414464Z"
+    "predicted_at": "2026-05-03T01:28:26.891215Z"
   },
   "history": [
-    {
-      "next_race": {
-        "meeting_key": 1273,
-        "race_name": "S\u00e3o Paulo Grand Prix",
-        "circuit_name": "Interlagos",
-        "circuit": "Interlagos",
-        "country": "",
-        "date_start": "2025-01-01T00:00:00Z"
-      },
-      "prediction": null,
-      "predicted_at": null,
-      "actual_podium": {
-        "1st": "Lando NORRIS",
-        "2nd": "Andrea Kimi ANTONELLI",
-        "3rd": "Max VERSTAPPEN"
-      },
-      "accuracy": null
-    },
     {
       "next_race": {
         "meeting_key": 1274,
@@ -914,6 +896,24 @@
         "reason": "Lando Norris broke Mercedes' 2026 pole streak with a dominant Sprint Qualifying performance fueled by effective McLaren upgrades. Championship leader Kimi Antonelli remains the strongest Mercedes threat starting from the front row, while Charles Leclerc's practice-topping pace and Ferrari's upgrades suggest they have overtaken a struggling Red Bull and George Russell this weekend."
       },
       "predicted_at": "2026-05-02T01:24:40.414464Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Miami",
+        "circuit": "Miami",
+        "country": "United States",
+        "date_start": "2026-05-03T20:00:00+00:00",
+        "meeting_key": 1284
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "Max Verstappen",
+          "3rd": "Lando Norris"
+        },
+        "reason": "Championship leader Antonelli starts from pole and looks to convert his qualifying pace into a win. Verstappen starts P2 and has shown resurgent form, while Norris, despite a difficult qualifying, demonstrated the field's best race pace by dominantly winning the Sprint earlier in the weekend."
+      },
+      "predicted_at": "2026-05-03T01:28:26.891215Z"
     }
   ]
 }

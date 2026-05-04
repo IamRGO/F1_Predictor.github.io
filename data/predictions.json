@@ -1,41 +1,23 @@
 {
   "latest": {
     "next_race": {
-      "race_name": "Miami",
-      "circuit": "Miami",
-      "country": "United States",
-      "date_start": "2026-05-03T20:00:00+00:00",
-      "meeting_key": 1284
+      "race_name": "Montreal",
+      "circuit": "Montreal",
+      "country": "Canada",
+      "date_start": "2026-05-24T20:00:00+00:00",
+      "meeting_key": 1285
     },
     "prediction": {
       "podium": {
-        "1st": "Andrea Kimi Antonelli",
-        "2nd": "Max Verstappen",
+        "1st": "Kimi Antonelli",
+        "2nd": "George Russell",
         "3rd": "Lando Norris"
       },
-      "reason": "Championship leader Antonelli starts from pole and looks to convert his qualifying pace into a win. Verstappen starts P2 and has shown resurgent form, while Norris, despite a difficult qualifying, demonstrated the field's best race pace by dominantly winning the Sprint earlier in the weekend."
+      "reason": "Mercedes is currently dominating the 2026 season with Kimi Antonelli on a three-race winning streak from pole. George Russell won in Montreal in 2025 and remains a top contender, while Lando Norris and McLaren are consistently the closest challengers to the Mercedes pair."
     },
-    "predicted_at": "2026-05-03T01:28:26.891215Z"
+    "predicted_at": "2026-05-04T01:27:03.042573Z"
   },
   "history": [
-    {
-      "next_race": {
-        "meeting_key": 1274,
-        "race_name": "Las Vegas Grand Prix",
-        "circuit_name": "Las Vegas",
-        "circuit": "Las Vegas",
-        "country": "",
-        "date_start": "2025-01-01T00:00:00Z"
-      },
-      "prediction": null,
-      "predicted_at": null,
-      "actual_podium": {
-        "1st": "Max VERSTAPPEN",
-        "2nd": "George RUSSELL",
-        "3rd": "Andrea Kimi ANTONELLI"
-      },
-      "accuracy": null
-    },
     {
       "next_race": {
         "meeting_key": 1275,
@@ -914,6 +896,24 @@
         "reason": "Championship leader Antonelli starts from pole and looks to convert his qualifying pace into a win. Verstappen starts P2 and has shown resurgent form, while Norris, despite a difficult qualifying, demonstrated the field's best race pace by dominantly winning the Sprint earlier in the weekend."
       },
       "predicted_at": "2026-05-03T01:28:26.891215Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Montreal",
+        "circuit": "Montreal",
+        "country": "Canada",
+        "date_start": "2026-05-24T20:00:00+00:00",
+        "meeting_key": 1285
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Kimi Antonelli",
+          "2nd": "George Russell",
+          "3rd": "Lando Norris"
+        },
+        "reason": "Mercedes is currently dominating the 2026 season with Kimi Antonelli on a three-race winning streak from pole. George Russell won in Montreal in 2025 and remains a top contender, while Lando Norris and McLaren are consistently the closest challengers to the Mercedes pair."
+      },
+      "predicted_at": "2026-05-04T01:27:03.042573Z"
     }
   ]
 }

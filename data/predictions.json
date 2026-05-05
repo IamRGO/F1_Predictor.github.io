@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Kimi Antonelli",
-        "2nd": "George Russell",
-        "3rd": "Lando Norris"
+        "1st": "Andrea Kimi Antonelli",
+        "2nd": "Lando Norris",
+        "3rd": "Max Verstappen"
       },
-      "reason": "Mercedes is currently dominating the 2026 season with Kimi Antonelli on a three-race winning streak from pole. George Russell won in Montreal in 2025 and remains a top contender, while Lando Norris and McLaren are consistently the closest challengers to the Mercedes pair."
+      "reason": "Andrea Kimi Antonelli is in dominant form with three consecutive victories and the championship lead heading into Montreal, a track where Mercedes won last year. Lando Norris remains the most consistent challenger to the lead, while Max Verstappen, despite a recent spin in Miami, showed 'revived' pace by qualifying on the front row and is expected to bounce back to the podium."
     },
-    "predicted_at": "2026-05-04T01:27:03.042573Z"
+    "predicted_at": "2026-05-05T01:27:07.854950Z"
   },
   "history": [
-    {
-      "next_race": {
-        "meeting_key": 1275,
-        "race_name": "Qatar Grand Prix",
-        "circuit_name": "Lusail",
-        "circuit": "Lusail",
-        "country": "",
-        "date_start": "2025-01-01T00:00:00Z"
-      },
-      "prediction": null,
-      "predicted_at": null,
-      "actual_podium": {
-        "1st": "Max VERSTAPPEN",
-        "2nd": "Oscar PIASTRI",
-        "3rd": "Carlos SAINZ"
-      },
-      "accuracy": null
-    },
     {
       "next_race": {
         "meeting_key": 1276,
@@ -914,6 +896,24 @@
         "reason": "Mercedes is currently dominating the 2026 season with Kimi Antonelli on a three-race winning streak from pole. George Russell won in Montreal in 2025 and remains a top contender, while Lando Norris and McLaren are consistently the closest challengers to the Mercedes pair."
       },
       "predicted_at": "2026-05-04T01:27:03.042573Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Montreal",
+        "circuit": "Montreal",
+        "country": "Canada",
+        "date_start": "2026-05-24T20:00:00+00:00",
+        "meeting_key": 1285
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "Lando Norris",
+          "3rd": "Max Verstappen"
+        },
+        "reason": "Andrea Kimi Antonelli is in dominant form with three consecutive victories and the championship lead heading into Montreal, a track where Mercedes won last year. Lando Norris remains the most consistent challenger to the lead, while Max Verstappen, despite a recent spin in Miami, showed 'revived' pace by qualifying on the front row and is expected to bounce back to the podium."
+      },
+      "predicted_at": "2026-05-05T01:27:07.854950Z"
     }
   ]
 }

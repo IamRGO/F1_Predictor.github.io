@@ -11,31 +11,13 @@
       "podium": {
         "1st": "Andrea Kimi Antonelli",
         "2nd": "Lando Norris",
-        "3rd": "Max Verstappen"
+        "3rd": "George Russell"
       },
-      "reason": "Andrea Kimi Antonelli is in dominant form with three consecutive victories and the championship lead heading into Montreal, a track where Mercedes won last year. Lando Norris remains the most consistent challenger to the lead, while Max Verstappen, despite a recent spin in Miami, showed 'revived' pace by qualifying on the front row and is expected to bounce back to the podium."
+      "reason": "Andrea Kimi Antonelli is the clear form driver with three consecutive wins and the championship lead. Lando Norris has been his most consistent challenger throughout the 2026 season. George Russell is predicted to round out the podium, seeking redemption after a poor Miami weekend at a circuit where he secured victory in 2025."
     },
-    "predicted_at": "2026-05-05T01:27:07.854950Z"
+    "predicted_at": "2026-05-06T01:25:04.635352Z"
   },
   "history": [
-    {
-      "next_race": {
-        "meeting_key": 1276,
-        "race_name": "Abu Dhabi Grand Prix",
-        "circuit_name": "Yas Marina Circuit",
-        "circuit": "Yas Marina Circuit",
-        "country": "",
-        "date_start": "2025-01-01T00:00:00Z"
-      },
-      "prediction": null,
-      "predicted_at": null,
-      "actual_podium": {
-        "1st": "Max VERSTAPPEN",
-        "2nd": "Oscar PIASTRI",
-        "3rd": "Lando NORRIS"
-      },
-      "accuracy": null
-    },
     {
       "next_race": {
         "race_name": "Australian Grand Prix",
@@ -914,6 +896,24 @@
         "reason": "Andrea Kimi Antonelli is in dominant form with three consecutive victories and the championship lead heading into Montreal, a track where Mercedes won last year. Lando Norris remains the most consistent challenger to the lead, while Max Verstappen, despite a recent spin in Miami, showed 'revived' pace by qualifying on the front row and is expected to bounce back to the podium."
       },
       "predicted_at": "2026-05-05T01:27:07.854950Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Montreal",
+        "circuit": "Montreal",
+        "country": "Canada",
+        "date_start": "2026-05-24T20:00:00+00:00",
+        "meeting_key": 1285
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "Lando Norris",
+          "3rd": "George Russell"
+        },
+        "reason": "Andrea Kimi Antonelli is the clear form driver with three consecutive wins and the championship lead. Lando Norris has been his most consistent challenger throughout the 2026 season. George Russell is predicted to round out the podium, seeking redemption after a poor Miami weekend at a circuit where he secured victory in 2025."
+      },
+      "predicted_at": "2026-05-06T01:25:04.635352Z"
     }
   ]
 }

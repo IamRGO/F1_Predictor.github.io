@@ -10,32 +10,14 @@
     "prediction": {
       "podium": {
         "1st": "Andrea Kimi Antonelli",
-        "2nd": "Lando Norris",
-        "3rd": "George Russell"
+        "2nd": "Max Verstappen",
+        "3rd": "Lando Norris"
       },
-      "reason": "Andrea Kimi Antonelli is the clear form driver with three consecutive wins and the championship lead. Lando Norris has been his most consistent challenger throughout the 2026 season. George Russell is predicted to round out the podium, seeking redemption after a poor Miami weekend at a circuit where he secured victory in 2025."
+      "reason": "Andrea Kimi Antonelli enters Montreal on a three-race winning streak and previously secured a podium here in 2025. Max Verstappen is expected to bounce back following Red Bull's 'transformative' RB22 upgrades and a recovery drive in Miami, while Lando Norris maintains his consistent podium form for McLaren."
     },
-    "predicted_at": "2026-05-06T01:25:04.635352Z"
+    "predicted_at": "2026-05-07T01:30:20.552498Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Australian Grand Prix",
-        "circuit_name": "Melbourne",
-        "circuit": "Melbourne",
-        "country": "Australia",
-        "date_start": "2025-03-16T04:00:00+00:00",
-        "meeting_key": 1254
-      },
-      "prediction": null,
-      "predicted_at": null,
-      "actual_podium": {
-        "1st": "Lando NORRIS",
-        "2nd": "Max VERSTAPPEN",
-        "3rd": "George RUSSELL"
-      },
-      "accuracy": null
-    },
     {
       "next_race": {
         "race_name": "Chinese Grand Prix",
@@ -914,6 +896,24 @@
         "reason": "Andrea Kimi Antonelli is the clear form driver with three consecutive wins and the championship lead. Lando Norris has been his most consistent challenger throughout the 2026 season. George Russell is predicted to round out the podium, seeking redemption after a poor Miami weekend at a circuit where he secured victory in 2025."
       },
       "predicted_at": "2026-05-06T01:25:04.635352Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Montreal",
+        "circuit": "Montreal",
+        "country": "Canada",
+        "date_start": "2026-05-24T20:00:00+00:00",
+        "meeting_key": 1285
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "Max Verstappen",
+          "3rd": "Lando Norris"
+        },
+        "reason": "Andrea Kimi Antonelli enters Montreal on a three-race winning streak and previously secured a podium here in 2025. Max Verstappen is expected to bounce back following Red Bull's 'transformative' RB22 upgrades and a recovery drive in Miami, while Lando Norris maintains his consistent podium form for McLaren."
+      },
+      "predicted_at": "2026-05-07T01:30:20.552498Z"
     }
   ]
 }

@@ -13,29 +13,11 @@
         "2nd": "Max Verstappen",
         "3rd": "Lando Norris"
       },
-      "reason": "Andrea Kimi Antonelli enters Montreal on a three-race winning streak and previously secured a podium here in 2025. Max Verstappen is expected to bounce back following Red Bull's 'transformative' RB22 upgrades and a recovery drive in Miami, while Lando Norris maintains his consistent podium form for McLaren."
+      "reason": "Andrea Kimi Antonelli is currently dominating the 2026 season, leading the championship and coming off a commanding win in Miami. Max Verstappen remains the primary threat following 'transformative' upgrades to the Red Bull RB22, while Lando Norris continues his consistent podium streak for McLaren, having finished 2nd in the most recent round."
     },
-    "predicted_at": "2026-05-07T01:30:20.552498Z"
+    "predicted_at": "2026-05-08T01:46:34.501943Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Chinese Grand Prix",
-        "circuit_name": "Shanghai",
-        "circuit": "Shanghai",
-        "country": "China",
-        "date_start": "2025-03-23T07:00:00+00:00",
-        "meeting_key": 1255
-      },
-      "prediction": null,
-      "predicted_at": null,
-      "actual_podium": {
-        "1st": "Oscar PIASTRI",
-        "2nd": "Lando NORRIS",
-        "3rd": "George RUSSELL"
-      },
-      "accuracy": null
-    },
     {
       "next_race": {
         "race_name": "Shanghai",
@@ -914,6 +896,24 @@
         "reason": "Andrea Kimi Antonelli enters Montreal on a three-race winning streak and previously secured a podium here in 2025. Max Verstappen is expected to bounce back following Red Bull's 'transformative' RB22 upgrades and a recovery drive in Miami, while Lando Norris maintains his consistent podium form for McLaren."
       },
       "predicted_at": "2026-05-07T01:30:20.552498Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Montreal",
+        "circuit": "Montreal",
+        "country": "Canada",
+        "date_start": "2026-05-24T20:00:00+00:00",
+        "meeting_key": 1285
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "Max Verstappen",
+          "3rd": "Lando Norris"
+        },
+        "reason": "Andrea Kimi Antonelli is currently dominating the 2026 season, leading the championship and coming off a commanding win in Miami. Max Verstappen remains the primary threat following 'transformative' upgrades to the Red Bull RB22, while Lando Norris continues his consistent podium streak for McLaren, having finished 2nd in the most recent round."
+      },
+      "predicted_at": "2026-05-08T01:46:34.501943Z"
     }
   ]
 }

@@ -10,32 +10,14 @@
     "prediction": {
       "podium": {
         "1st": "Andrea Kimi Antonelli",
-        "2nd": "Max Verstappen",
-        "3rd": "Lando Norris"
+        "2nd": "George Russell",
+        "3rd": "Max Verstappen"
       },
-      "reason": "Kimi Antonelli carries significant momentum into Montreal following a dominant pole-to-win performance in Miami. Mercedes historically performs well at this circuit, having won here in 2025. Red Bull's transformative RB22 upgrades have improved their pace to challenge for the top spots, while 2025 World Champion Lando Norris remains the most consistent performer for McLaren."
+      "reason": "Kimi Antonelli is currently dominant, having won three consecutive races (China, Japan, and Miami) under the 2026 regulations. George Russell is the defending winner at Montreal (2025), and Max Verstappen remains a consistent podium finisher who took second place at this circuit last year."
     },
-    "predicted_at": "2026-05-09T01:30:24.920210Z"
+    "predicted_at": "2026-05-10T01:43:23.408567Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Suzuka",
-        "circuit": "Suzuka",
-        "country": "Japan",
-        "date_start": "2026-03-29T05:00:00+00:00",
-        "meeting_key": 1281
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Andrea Kimi Antonelli",
-          "2nd": "George Russell",
-          "3rd": "Lando Norris"
-        },
-        "reason": "Mercedes enters Suzuka with dominant momentum following their 1-2 finish in China and high-speed performance in the sprint. Andrea Kimi Antonelli is in peak form after his maiden win, while McLaren is expected to recover from the power unit issues that sidelined them in Shanghai to challenge for the podium on a circuit that historically suits their aerodynamic package."
-      },
-      "predicted_at": "2026-03-16T01:09:49.599214Z"
-    },
     {
       "next_race": {
         "race_name": "Suzuka",
@@ -914,6 +896,24 @@
         "reason": "Kimi Antonelli carries significant momentum into Montreal following a dominant pole-to-win performance in Miami. Mercedes historically performs well at this circuit, having won here in 2025. Red Bull's transformative RB22 upgrades have improved their pace to challenge for the top spots, while 2025 World Champion Lando Norris remains the most consistent performer for McLaren."
       },
       "predicted_at": "2026-05-09T01:30:24.920210Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Montreal",
+        "circuit": "Montreal",
+        "country": "Canada",
+        "date_start": "2026-05-24T20:00:00+00:00",
+        "meeting_key": 1285
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "George Russell",
+          "3rd": "Max Verstappen"
+        },
+        "reason": "Kimi Antonelli is currently dominant, having won three consecutive races (China, Japan, and Miami) under the 2026 regulations. George Russell is the defending winner at Montreal (2025), and Max Verstappen remains a consistent podium finisher who took second place at this circuit last year."
+      },
+      "predicted_at": "2026-05-10T01:43:23.408567Z"
     }
   ]
 }

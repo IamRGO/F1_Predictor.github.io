@@ -13,29 +13,11 @@
         "2nd": "Lando Norris",
         "3rd": "Max Verstappen"
       },
-      "reason": "Kimi Antonelli is on a historic points run for Mercedes in 2026, outperforming teammate George Russell, while defending champion Lando Norris and Max Verstappen remain the most consistent threats at the front of the grid."
+      "reason": "Andrea Kimi Antonelli is the form driver of 2026, recording the best start to a season for a Mercedes driver in a decade and overshadowing teammate George Russell, who won here in 2025. Defending champion Norris and four-time champion Verstappen remain the most consistent challengers at power-sensitive circuits like Montreal."
     },
-    "predicted_at": "2026-05-13T01:50:41.028527Z"
+    "predicted_at": "2026-05-14T01:53:30.512644Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Suzuka",
-        "circuit": "Suzuka",
-        "country": "Japan",
-        "date_start": "2026-03-29T05:00:00+00:00",
-        "meeting_key": 1281
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Andrea Kimi Antonelli",
-          "2nd": "George Russell",
-          "3rd": "Lewis Hamilton"
-        },
-        "reason": "Mercedes has emerged as the dominant team under the new 2026 regulations, securing a 1-2 finish at the previous race in China. Andrea Kimi Antonelli carries significant momentum from his maiden victory, while George Russell remains highly consistent. Lewis Hamilton has shown a resurgence in form following his move to Ferrari, securing a podium in China, whereas Red Bull and McLaren are currently struggling with reliability and power unit integration issues under the new formula."
-      },
-      "predicted_at": "2026-03-19T01:04:53.598431Z"
-    },
     {
       "next_race": {
         "race_name": "Suzuka",
@@ -917,6 +899,24 @@
         "reason": "Kimi Antonelli is on a historic points run for Mercedes in 2026, outperforming teammate George Russell, while defending champion Lando Norris and Max Verstappen remain the most consistent threats at the front of the grid."
       },
       "predicted_at": "2026-05-13T01:50:41.028527Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Montreal",
+        "circuit": "Montreal",
+        "country": "Canada",
+        "date_start": "2026-05-24T20:00:00+00:00",
+        "meeting_key": 1285
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "Lando Norris",
+          "3rd": "Max Verstappen"
+        },
+        "reason": "Andrea Kimi Antonelli is the form driver of 2026, recording the best start to a season for a Mercedes driver in a decade and overshadowing teammate George Russell, who won here in 2025. Defending champion Norris and four-time champion Verstappen remain the most consistent challengers at power-sensitive circuits like Montreal."
+      },
+      "predicted_at": "2026-05-14T01:53:30.512644Z"
     }
   ]
 }

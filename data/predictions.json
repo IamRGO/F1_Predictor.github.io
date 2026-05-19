@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Max Verstappen",
-        "2nd": "Lando Norris",
+        "1st": "Lando Norris",
+        "2nd": "Max Verstappen",
         "3rd": "Oscar Piastri"
       },
-      "reason": "Max Verstappen enters Montreal with significant momentum after winning the final three races of the 2025 season. While George Russell won in Canada last year, recent 2026 news indicates he has struggled with performance and mindset, making the highly consistent McLaren duo of Norris and Piastri the strongest contenders to challenge Verstappen for the top spots."
+      "reason": "Lando Norris, the 2025 World Champion, remains the driver to beat with McLaren's continued dominance. Max Verstappen is a perennial threat in Montreal despite his recent endurance racing activities, and Oscar Piastri rounds out the top three as the McLaren duo maintains their pace over a Mercedes team still looking to fully unlock their new upgrade package."
     },
-    "predicted_at": "2026-05-18T01:58:17.626143Z"
+    "predicted_at": "2026-05-19T01:57:48.050626Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Suzuka",
-        "circuit": "Suzuka",
-        "country": "Japan",
-        "date_start": "2026-03-29T05:00:00+00:00",
-        "meeting_key": 1281
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Lewis Hamilton",
-          "2nd": "Andrea Kimi Antonelli",
-          "3rd": "Lando Norris"
-        },
-        "reason": "Recent news highlights a significant resurgence for Lewis Hamilton at Ferrari, describing him as 'back to his best' in 2026. Andrea Kimi Antonelli enters Japan with massive momentum following his maiden F1 victory in China. Lando Norris is selected for third based on his historical consistency at high-speed tracks like Suzuka and his strong 2025 form, especially as Red Bull faces 'significant shortcomings' and Max Verstappen struggles with the new 2026 regulations."
-      },
-      "predicted_at": "2026-03-23T01:06:12.537634Z"
-    },
     {
       "next_race": {
         "race_name": "Suzuka",
@@ -917,6 +899,24 @@
         "reason": "Max Verstappen enters Montreal with significant momentum after winning the final three races of the 2025 season. While George Russell won in Canada last year, recent 2026 news indicates he has struggled with performance and mindset, making the highly consistent McLaren duo of Norris and Piastri the strongest contenders to challenge Verstappen for the top spots."
       },
       "predicted_at": "2026-05-18T01:58:17.626143Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Montreal",
+        "circuit": "Montreal",
+        "country": "Canada",
+        "date_start": "2026-05-24T20:00:00+00:00",
+        "meeting_key": 1285
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Lando Norris",
+          "2nd": "Max Verstappen",
+          "3rd": "Oscar Piastri"
+        },
+        "reason": "Lando Norris, the 2025 World Champion, remains the driver to beat with McLaren's continued dominance. Max Verstappen is a perennial threat in Montreal despite his recent endurance racing activities, and Oscar Piastri rounds out the top three as the McLaren duo maintains their pace over a Mercedes team still looking to fully unlock their new upgrade package."
+      },
+      "predicted_at": "2026-05-19T01:57:48.050626Z"
     }
   ]
 }

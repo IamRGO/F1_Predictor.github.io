@@ -13,29 +13,11 @@
         "2nd": "Lando Norris",
         "3rd": "George Russell"
       },
-      "reason": "Verstappen remains the dominant force heading into Montreal, while reigning champion Norris continues his consistent form. Russell is a strong contender to round out the podium, having won this race in 2025 and with Mercedes introducing a significant upgrade package."
+      "reason": "Verstappen carries momentum from winning the 2025 season finale and several late-season races. Norris has specifically identified Montreal as a track that suits the McLaren package, while Russell is the defending winner of the Canadian Grand Prix and Mercedes is introducing a significant upgrade package for this event."
     },
-    "predicted_at": "2026-05-20T01:57:30.438959Z"
+    "predicted_at": "2026-05-21T01:56:47.092418Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Suzuka",
-        "circuit": "Suzuka",
-        "country": "Japan",
-        "date_start": "2026-03-29T05:00:00+00:00",
-        "meeting_key": 1281
-      },
-      "prediction": {
-        "podium": {
-          "1st": "George Russell",
-          "2nd": "Lewis Hamilton",
-          "3rd": "Max Verstappen"
-        },
-        "reason": "George Russell enters Suzuka as the 2026 championship leader with a competitive Mercedes, which historically performs well at high-speed technical circuits. Lewis Hamilton's 'mojo' has returned following his move to Ferrari, showing strong early-season pace. Despite Red Bull admitting to technical shortcomings with the new 2026 regulations, Max Verstappen's mastery of Suzuka makes him a favorite to secure a podium spot."
-      },
-      "predicted_at": "2026-03-25T01:03:56.090327Z"
-    },
     {
       "next_race": {
         "race_name": "Suzuka",
@@ -917,6 +899,24 @@
         "reason": "Verstappen remains the dominant force heading into Montreal, while reigning champion Norris continues his consistent form. Russell is a strong contender to round out the podium, having won this race in 2025 and with Mercedes introducing a significant upgrade package."
       },
       "predicted_at": "2026-05-20T01:57:30.438959Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Montreal",
+        "circuit": "Montreal",
+        "country": "Canada",
+        "date_start": "2026-05-24T20:00:00+00:00",
+        "meeting_key": 1285
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Max Verstappen",
+          "2nd": "Lando Norris",
+          "3rd": "George Russell"
+        },
+        "reason": "Verstappen carries momentum from winning the 2025 season finale and several late-season races. Norris has specifically identified Montreal as a track that suits the McLaren package, while Russell is the defending winner of the Canadian Grand Prix and Mercedes is introducing a significant upgrade package for this event."
+      },
+      "predicted_at": "2026-05-21T01:56:47.092418Z"
     }
   ]
 }

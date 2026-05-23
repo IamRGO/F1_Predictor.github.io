@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Andrea Kimi Antonelli",
-        "2nd": "George Russell",
-        "3rd": "Max Verstappen"
+        "1st": "George Russell",
+        "2nd": "Andrea Kimi Antonelli",
+        "3rd": "Lando Norris"
       },
-      "reason": "Mercedes historically performs well at the Circuit Gilles-Villeneuve, having secured 1st and 3rd places here in 2025. With a significant upgrade package being introduced and Kimi Antonelli currently leading the drivers' standings, the team is favored to dominate. Max Verstappen is predicted to round out the podium as McLaren traditionally found this circuit to be one of their weaker tracks in previous seasons."
+      "reason": "Mercedes has dominated the weekend so far with a front-row lockout in Sprint Qualifying and a 1-2 in practice. Russell won this race in 2025, and Norris remains the most consistent challenger while Red Bull struggles with significant ride and bouncing issues on the Montreal curbs."
     },
-    "predicted_at": "2026-05-22T01:58:05.743766Z"
+    "predicted_at": "2026-05-23T01:48:51.000297Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Suzuka",
-        "circuit": "Suzuka",
-        "country": "Japan",
-        "date_start": "2026-03-29T05:00:00+00:00",
-        "meeting_key": 1281
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Lewis Hamilton",
-          "2nd": "George Russell",
-          "3rd": "Andrea Kimi Antonelli"
-        },
-        "reason": "Early 2026 form indicates a shift in power, with Mercedes and Ferrari surpassing Red Bull. News reports highlight Hamilton's victory in Australia and a Mercedes 1-2 finish in China (Antonelli leading Russell). Given Red Bull's admission of being 'nowhere near' the frontrunners and Mercedes' current dominance, these three drivers are the favorites. Hamilton\u2019s extensive experience and renewed confidence in the 2026 Ferrari package give him the edge at a technical track like Suzuka."
-      },
-      "predicted_at": "2026-03-27T01:09:09.594971Z"
-    },
     {
       "next_race": {
         "race_name": "Suzuka",
@@ -917,6 +899,24 @@
         "reason": "Mercedes historically performs well at the Circuit Gilles-Villeneuve, having secured 1st and 3rd places here in 2025. With a significant upgrade package being introduced and Kimi Antonelli currently leading the drivers' standings, the team is favored to dominate. Max Verstappen is predicted to round out the podium as McLaren traditionally found this circuit to be one of their weaker tracks in previous seasons."
       },
       "predicted_at": "2026-05-22T01:58:05.743766Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Montreal",
+        "circuit": "Montreal",
+        "country": "Canada",
+        "date_start": "2026-05-24T20:00:00+00:00",
+        "meeting_key": 1285
+      },
+      "prediction": {
+        "podium": {
+          "1st": "George Russell",
+          "2nd": "Andrea Kimi Antonelli",
+          "3rd": "Lando Norris"
+        },
+        "reason": "Mercedes has dominated the weekend so far with a front-row lockout in Sprint Qualifying and a 1-2 in practice. Russell won this race in 2025, and Norris remains the most consistent challenger while Red Bull struggles with significant ride and bouncing issues on the Montreal curbs."
+      },
+      "predicted_at": "2026-05-23T01:48:51.000297Z"
     }
   ]
 }

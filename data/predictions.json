@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Andrea Kimi Antonelli",
-        "2nd": "George Russell",
-        "3rd": "Charles Leclerc"
+        "1st": "Kimi Antonelli",
+        "2nd": "Charles Leclerc",
+        "3rd": "George Russell"
       },
-      "reason": "Mercedes has become the dominant force in 2026, with Antonelli and Russell recently locking out the front row in Canada and winning both the sprint and main race. While Leclerc is a Monaco specialist and Ferrari's form is improving as evidenced by Hamilton's recent P2, the Mercedes W17's qualifying pace makes them the favorites for the streets of Monte Carlo."
+      "reason": "Kimi Antonelli is the dominant driver of 2026 with four wins, including the most recent race in Canada. Mercedes currently has the fastest car in qualifying trim, which is critical for Monaco. Leclerc is a perennial pole-threat at his home circuit and remains highly competitive, while Russell's strong Saturday pace should secure him a top-three start on a track where track position is everything."
     },
-    "predicted_at": "2026-05-25T02:02:07.591303Z"
+    "predicted_at": "2026-05-26T01:53:44.669828Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Suzuka",
-        "circuit": "Suzuka",
-        "country": "Japan",
-        "date_start": "2026-03-29T05:00:00+00:00",
-        "meeting_key": 1281
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Andrea Kimi Antonelli",
-          "2nd": "George Russell",
-          "3rd": "Oscar Piastri"
-        },
-        "reason": "Mercedes has dominated the weekend with Kimi Antonelli taking pole and George Russell securing a front-row lockout. With Max Verstappen struggling with car handling and eliminated in Q2, the primary challenge comes from McLaren, where Oscar Piastri showed the strongest practice pace (FP2) among the chasing pack."
-      },
-      "predicted_at": "2026-03-28T08:46:40.188734Z"
-    },
     {
       "next_race": {
         "race_name": "Suzuka",
@@ -917,6 +899,24 @@
         "reason": "Mercedes has become the dominant force in 2026, with Antonelli and Russell recently locking out the front row in Canada and winning both the sprint and main race. While Leclerc is a Monaco specialist and Ferrari's form is improving as evidenced by Hamilton's recent P2, the Mercedes W17's qualifying pace makes them the favorites for the streets of Monte Carlo."
       },
       "predicted_at": "2026-05-25T02:02:07.591303Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Monte Carlo",
+        "circuit": "Monte Carlo",
+        "country": "Monaco",
+        "date_start": "2026-06-07T13:00:00+00:00",
+        "meeting_key": 1286
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Kimi Antonelli",
+          "2nd": "Charles Leclerc",
+          "3rd": "George Russell"
+        },
+        "reason": "Kimi Antonelli is the dominant driver of 2026 with four wins, including the most recent race in Canada. Mercedes currently has the fastest car in qualifying trim, which is critical for Monaco. Leclerc is a perennial pole-threat at his home circuit and remains highly competitive, while Russell's strong Saturday pace should secure him a top-three start on a track where track position is everything."
+      },
+      "predicted_at": "2026-05-26T01:53:44.669828Z"
     }
   ]
 }

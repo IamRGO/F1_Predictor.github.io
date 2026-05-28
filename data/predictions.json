@@ -10,32 +10,14 @@
     "prediction": {
       "podium": {
         "1st": "Andrea Kimi Antonelli",
-        "2nd": "Charles Leclerc",
-        "3rd": "George Russell"
+        "2nd": "George Russell",
+        "3rd": "Charles Leclerc"
       },
-      "reason": "Andrea Kimi Antonelli is on a dominant four-race winning streak and Mercedes appears to have the fastest package currently. Charles Leclerc is a qualifying specialist at his home circuit and Ferrari showed strong podium pace in Canada, while George Russell's pole position in the previous round suggests he will be a primary contender for the podium in Monaco."
+      "reason": "Mercedes has established a clear performance advantage with their W17 upgrades, as evidenced by Antonelli's recent victory in Canada and the team's 'increased performance advantage' reported in the news. While the Mercedes pair are the title favorites, Leclerc's historical qualifying strength at his home circuit in Monte Carlo should secure him a podium spot."
     },
-    "predicted_at": "2026-05-27T02:01:46.796271Z"
+    "predicted_at": "2026-05-28T01:45:40.551525Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Sakhir",
-        "circuit": "Sakhir",
-        "country": "Bahrain",
-        "date_start": "2026-04-12T15:00:00+00:00",
-        "meeting_key": 1282
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Kimi Antonelli",
-          "2nd": "Oscar Piastri",
-          "3rd": "George Russell"
-        },
-        "reason": "Mercedes is the dominant force in the 2026 regulations, with Antonelli winning the last two races and securing back-to-back poles. Piastri is the most consistent challenger and a previous winner at Sakhir, while Russell should benefit from Mercedes' power advantage on this track despite recent start struggles."
-      },
-      "predicted_at": "2026-03-30T01:12:51.781107Z"
-    },
     {
       "next_race": {
         "race_name": "Sakhir",
@@ -917,6 +899,24 @@
         "reason": "Andrea Kimi Antonelli is on a dominant four-race winning streak and Mercedes appears to have the fastest package currently. Charles Leclerc is a qualifying specialist at his home circuit and Ferrari showed strong podium pace in Canada, while George Russell's pole position in the previous round suggests he will be a primary contender for the podium in Monaco."
       },
       "predicted_at": "2026-05-27T02:01:46.796271Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Monte Carlo",
+        "circuit": "Monte Carlo",
+        "country": "Monaco",
+        "date_start": "2026-06-07T13:00:00+00:00",
+        "meeting_key": 1286
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "George Russell",
+          "3rd": "Charles Leclerc"
+        },
+        "reason": "Mercedes has established a clear performance advantage with their W17 upgrades, as evidenced by Antonelli's recent victory in Canada and the team's 'increased performance advantage' reported in the news. While the Mercedes pair are the title favorites, Leclerc's historical qualifying strength at his home circuit in Monte Carlo should secure him a podium spot."
+      },
+      "predicted_at": "2026-05-28T01:45:40.551525Z"
     }
   ]
 }

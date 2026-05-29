@@ -10,32 +10,14 @@
     "prediction": {
       "podium": {
         "1st": "Andrea Kimi Antonelli",
-        "2nd": "George Russell",
-        "3rd": "Charles Leclerc"
+        "2nd": "Charles Leclerc",
+        "3rd": "George Russell"
       },
-      "reason": "Mercedes has established a clear performance advantage with their W17 upgrades, as evidenced by Antonelli's recent victory in Canada and the team's 'increased performance advantage' reported in the news. While the Mercedes pair are the title favorites, Leclerc's historical qualifying strength at his home circuit in Monte Carlo should secure him a podium spot."
+      "reason": "Kimi Antonelli is the form driver of 2026, entering Monaco with momentum from his Canadian GP victory and a 'winning habit.' Local favorite Charles Leclerc historically excels in Monte Carlo qualifying, and George Russell is expected to bounce back from his Canada retirement to secure a podium for the dominant Mercedes team."
     },
-    "predicted_at": "2026-05-28T01:45:40.551525Z"
+    "predicted_at": "2026-05-29T01:55:34.769951Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Sakhir",
-        "circuit": "Sakhir",
-        "country": "Bahrain",
-        "date_start": "2026-04-12T15:00:00+00:00",
-        "meeting_key": 1282
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Andrea Kimi Antonelli",
-          "2nd": "Oscar Piastri",
-          "3rd": "Lewis Hamilton"
-        },
-        "reason": "Andrea Kimi Antonelli is in peak form having won the first two races of the 2026 season (China and Japan) in a dominant Mercedes. Oscar Piastri won at this circuit in 2025 and has shown strong pace early in 2026, including a podium in China and a near-win in Japan. Lewis Hamilton is selected to continue Ferrari's 'third successive podium finish' streak mentioned in recent news, following his P3 in China."
-      },
-      "predicted_at": "2026-03-31T01:10:07.370971Z"
-    },
     {
       "next_race": {
         "race_name": "Sakhir",
@@ -917,6 +899,24 @@
         "reason": "Mercedes has established a clear performance advantage with their W17 upgrades, as evidenced by Antonelli's recent victory in Canada and the team's 'increased performance advantage' reported in the news. While the Mercedes pair are the title favorites, Leclerc's historical qualifying strength at his home circuit in Monte Carlo should secure him a podium spot."
       },
       "predicted_at": "2026-05-28T01:45:40.551525Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Monte Carlo",
+        "circuit": "Monte Carlo",
+        "country": "Monaco",
+        "date_start": "2026-06-07T13:00:00+00:00",
+        "meeting_key": 1286
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "Charles Leclerc",
+          "3rd": "George Russell"
+        },
+        "reason": "Kimi Antonelli is the form driver of 2026, entering Monaco with momentum from his Canadian GP victory and a 'winning habit.' Local favorite Charles Leclerc historically excels in Monte Carlo qualifying, and George Russell is expected to bounce back from his Canada retirement to secure a podium for the dominant Mercedes team."
+      },
+      "predicted_at": "2026-05-29T01:55:34.769951Z"
     }
   ]
 }

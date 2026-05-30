@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Andrea Kimi Antonelli",
-        "2nd": "Charles Leclerc",
-        "3rd": "George Russell"
+        "1st": "Charles Leclerc",
+        "2nd": "Andrea Kimi Antonelli",
+        "3rd": "Lando Norris"
       },
-      "reason": "Kimi Antonelli is the form driver of 2026, entering Monaco with momentum from his Canadian GP victory and a 'winning habit.' Local favorite Charles Leclerc historically excels in Monte Carlo qualifying, and George Russell is expected to bounce back from his Canada retirement to secure a podium for the dominant Mercedes team."
+      "reason": "Leclerc is the local favorite and was the runner-up here in 2025, with Ferrari showing strong competitive form in the 2026 season. Antonelli is the current 2026 championship leader and enters Monaco with immense momentum following his win in Canada. Reigning champion Lando Norris, the 2025 Monaco winner, remains a top contender despite McLaren's slight early-season struggles compared to the surging Mercedes."
     },
-    "predicted_at": "2026-05-29T01:55:34.769951Z"
+    "predicted_at": "2026-05-30T01:50:29.552758Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Sakhir",
-        "circuit": "Sakhir",
-        "country": "Bahrain",
-        "date_start": "2026-04-12T15:00:00+00:00",
-        "meeting_key": 1282
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Andrea Kimi Antonelli",
-          "2nd": "George Russell",
-          "3rd": "Oscar Piastri"
-        },
-        "reason": "Mercedes has emerged as the dominant force under the new 2026 regulations, with Antonelli winning the first two races of the season in China and Japan. George Russell provides a strong backup for a Mercedes 1-2, while Oscar Piastri has shown superior pace compared to the struggling Red Bulls, who are currently grappling with the new aero concepts and driver dissatisfaction."
-      },
-      "predicted_at": "2026-04-01T01:17:21.915206Z"
-    },
     {
       "next_race": {
         "race_name": "Sakhir",
@@ -917,6 +899,24 @@
         "reason": "Kimi Antonelli is the form driver of 2026, entering Monaco with momentum from his Canadian GP victory and a 'winning habit.' Local favorite Charles Leclerc historically excels in Monte Carlo qualifying, and George Russell is expected to bounce back from his Canada retirement to secure a podium for the dominant Mercedes team."
       },
       "predicted_at": "2026-05-29T01:55:34.769951Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Monte Carlo",
+        "circuit": "Monte Carlo",
+        "country": "Monaco",
+        "date_start": "2026-06-07T13:00:00+00:00",
+        "meeting_key": 1286
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Charles Leclerc",
+          "2nd": "Andrea Kimi Antonelli",
+          "3rd": "Lando Norris"
+        },
+        "reason": "Leclerc is the local favorite and was the runner-up here in 2025, with Ferrari showing strong competitive form in the 2026 season. Antonelli is the current 2026 championship leader and enters Monaco with immense momentum following his win in Canada. Reigning champion Lando Norris, the 2025 Monaco winner, remains a top contender despite McLaren's slight early-season struggles compared to the surging Mercedes."
+      },
+      "predicted_at": "2026-05-30T01:50:29.552758Z"
     }
   ]
 }

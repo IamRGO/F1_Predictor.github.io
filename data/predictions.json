@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Charles Leclerc",
-        "2nd": "Andrea Kimi Antonelli",
-        "3rd": "Lewis Hamilton"
+        "1st": "Kimi Antonelli",
+        "2nd": "Lando Norris",
+        "3rd": "Charles Leclerc"
       },
-      "reason": "Leclerc is the home favorite and Monaco qualifying specialist, and news indicates Ferrari has 'moved mountains' to become highly competitive. Antonelli is the current 2026 championship leader in peak form, while Hamilton is coming off his strongest weekend with Ferrari, making a double-Ferrari podium likely on a track where driver experience and mechanical grip are crucial."
+      "reason": "Kimi Antonelli is the form driver of 2026, recently extending his championship lead with a win in Canada and showing a 'winning habit' that has put his rivals on the back foot. Lando Norris, the reigning champion and 2025 Monaco winner, remains highly consistent on street circuits. Charles Leclerc is favored for a podium on home soil as Ferrari has 'moved mountains' to improve their car's performance, as evidenced by their strong showing in Canada."
     },
-    "predicted_at": "2026-05-31T02:02:58.315208Z"
+    "predicted_at": "2026-06-01T02:11:46.378075Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Sakhir",
-        "circuit": "Sakhir",
-        "country": "Bahrain",
-        "date_start": "2026-04-12T15:00:00+00:00",
-        "meeting_key": 1282
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Andrea Kimi Antonelli",
-          "2nd": "George Russell",
-          "3rd": "Lewis Hamilton"
-        },
-        "reason": "Mercedes has emerged as the dominant force under the 2026 regulations, with Andrea Kimi Antonelli securing back-to-back wins in China and Japan. George Russell remains a consistent frontrunner in the superior Mercedes package. Lewis Hamilton's 'mojo' is reported to be back following his move to Ferrari, evidenced by his recent podium in China, while former leaders Red Bull and McLaren are currently struggling with car issues and development pace."
-      },
-      "predicted_at": "2026-04-05T01:13:21.348002Z"
-    },
     {
       "next_race": {
         "race_name": "Sakhir",
@@ -917,6 +899,24 @@
         "reason": "Leclerc is the home favorite and Monaco qualifying specialist, and news indicates Ferrari has 'moved mountains' to become highly competitive. Antonelli is the current 2026 championship leader in peak form, while Hamilton is coming off his strongest weekend with Ferrari, making a double-Ferrari podium likely on a track where driver experience and mechanical grip are crucial."
       },
       "predicted_at": "2026-05-31T02:02:58.315208Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Monte Carlo",
+        "circuit": "Monte Carlo",
+        "country": "Monaco",
+        "date_start": "2026-06-07T13:00:00+00:00",
+        "meeting_key": 1286
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Kimi Antonelli",
+          "2nd": "Lando Norris",
+          "3rd": "Charles Leclerc"
+        },
+        "reason": "Kimi Antonelli is the form driver of 2026, recently extending his championship lead with a win in Canada and showing a 'winning habit' that has put his rivals on the back foot. Lando Norris, the reigning champion and 2025 Monaco winner, remains highly consistent on street circuits. Charles Leclerc is favored for a podium on home soil as Ferrari has 'moved mountains' to improve their car's performance, as evidenced by their strong showing in Canada."
+      },
+      "predicted_at": "2026-06-01T02:11:46.378075Z"
     }
   ]
 }

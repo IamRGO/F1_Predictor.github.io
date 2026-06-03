@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Andrea Kimi Antonelli",
-        "2nd": "Charles Leclerc",
-        "3rd": "Lewis Hamilton"
+        "1st": "Charles Leclerc",
+        "2nd": "Lando Norris",
+        "3rd": "Andrea Kimi Antonelli"
       },
-      "reason": "Antonelli enters Monaco on a winning streak and has taken control of the 2026 championship. While he identifies Ferrari as the 'team to beat' in Monte Carlo, his current momentum makes him the favorite. Leclerc remains a qualifying specialist at his home track, and Hamilton's recent breakthrough with Ferrari in Canada suggests the Scuderia will be Mercedes' closest challengers."
+      "reason": "Ferrari's low-speed mechanical grip is predicted to be the class of the field, making home favorite Leclerc the top choice for pole and victory. Norris, the 2025 winner, will be highly motivated by McLaren's 1000th GP milestone, while championship leader Antonelli's consistent 2026 form makes him a near-certainty for the podium."
     },
-    "predicted_at": "2026-06-02T02:12:15.799489Z"
+    "predicted_at": "2026-06-03T02:30:18.821775Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Sakhir",
-        "circuit": "Sakhir",
-        "country": "Bahrain",
-        "date_start": "2026-04-12T15:00:00+00:00",
-        "meeting_key": 1282
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Andrea Kimi Antonelli",
-          "2nd": "George Russell",
-          "3rd": "Lewis Hamilton"
-        },
-        "reason": "Mercedes has emerged as the dominant team under the 2026 regulations, with rookie Andrea Kimi Antonelli winning the two most recent races in Japan and China. George Russell provides consistent support for a Mercedes 1-2, while Lewis Hamilton has shown resurgent form at Ferrari, securing a podium in the previous round."
-      },
-      "predicted_at": "2026-04-10T01:12:45.928321Z"
-    },
     {
       "next_race": {
         "race_name": "Sakhir",
@@ -917,6 +899,24 @@
         "reason": "Antonelli enters Monaco on a winning streak and has taken control of the 2026 championship. While he identifies Ferrari as the 'team to beat' in Monte Carlo, his current momentum makes him the favorite. Leclerc remains a qualifying specialist at his home track, and Hamilton's recent breakthrough with Ferrari in Canada suggests the Scuderia will be Mercedes' closest challengers."
       },
       "predicted_at": "2026-06-02T02:12:15.799489Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Monte Carlo",
+        "circuit": "Monte Carlo",
+        "country": "Monaco",
+        "date_start": "2026-06-07T13:00:00+00:00",
+        "meeting_key": 1286
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Charles Leclerc",
+          "2nd": "Lando Norris",
+          "3rd": "Andrea Kimi Antonelli"
+        },
+        "reason": "Ferrari's low-speed mechanical grip is predicted to be the class of the field, making home favorite Leclerc the top choice for pole and victory. Norris, the 2025 winner, will be highly motivated by McLaren's 1000th GP milestone, while championship leader Antonelli's consistent 2026 form makes him a near-certainty for the podium."
+      },
+      "predicted_at": "2026-06-03T02:30:18.821775Z"
     }
   ]
 }

@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Charles Leclerc",
-        "2nd": "Andrea Kimi Antonelli",
-        "3rd": "Lando Norris"
+        "1st": "Lewis Hamilton",
+        "2nd": "Charles Leclerc",
+        "3rd": "Max Verstappen"
       },
-      "reason": "Ferrari's low-speed performance is expected to excel in Monaco, positioning Leclerc as the favorite for a home win following his contract extension. Championship leader Antonelli continues his dominant form for Mercedes, while 2025 Monaco winner and world champion Norris completes the podium."
+      "reason": "Ferrari dominated Friday practice with Hamilton and Leclerc looking significantly faster than the field. Given Monaco's reliance on qualifying and track position, and Lando Norris's reliability issues in FP2, a Ferrari front-row lockout is likely, with Hamilton carrying more momentum into the race."
     },
-    "predicted_at": "2026-06-05T02:01:43.471738Z"
+    "predicted_at": "2026-06-06T01:53:19.074201Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Jeddah",
-        "circuit": "Jeddah",
-        "country": "Saudi Arabia",
-        "date_start": "2026-04-19T17:00:00+00:00",
-        "meeting_key": 1283
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Andrea Kimi Antonelli",
-          "2nd": "George Russell",
-          "3rd": "Oscar Piastri"
-        },
-        "reason": "Mercedes has emerged as the dominant force in the early 2026 season, with Kimi Antonelli securing back-to-back victories in Japan and China. While Ferrari and McLaren remain competitive, Red Bull has reportedly fallen to the fourth-fastest team. Piastri is a specialist at the Jeddah circuit, having won there in 2025, making him the favorite to challenge the Mercedes duo."
-      },
-      "predicted_at": "2026-04-13T01:18:28.643484Z"
-    },
     {
       "next_race": {
         "race_name": "Jeddah",
@@ -917,6 +899,24 @@
         "reason": "Ferrari's low-speed performance is expected to excel in Monaco, positioning Leclerc as the favorite for a home win following his contract extension. Championship leader Antonelli continues his dominant form for Mercedes, while 2025 Monaco winner and world champion Norris completes the podium."
       },
       "predicted_at": "2026-06-05T02:01:43.471738Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Monte Carlo",
+        "circuit": "Monte Carlo",
+        "country": "Monaco",
+        "date_start": "2026-06-07T13:00:00+00:00",
+        "meeting_key": 1286
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Lewis Hamilton",
+          "2nd": "Charles Leclerc",
+          "3rd": "Max Verstappen"
+        },
+        "reason": "Ferrari dominated Friday practice with Hamilton and Leclerc looking significantly faster than the field. Given Monaco's reliance on qualifying and track position, and Lando Norris's reliability issues in FP2, a Ferrari front-row lockout is likely, with Hamilton carrying more momentum into the race."
+      },
+      "predicted_at": "2026-06-06T01:53:19.074201Z"
     }
   ]
 }

@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Lewis Hamilton",
-        "2nd": "Charles Leclerc",
-        "3rd": "Max Verstappen"
+        "1st": "Andrea Kimi Antonelli",
+        "2nd": "Max Verstappen",
+        "3rd": "Lewis Hamilton"
       },
-      "reason": "Ferrari dominated Friday practice with Hamilton and Leclerc looking significantly faster than the field. Given Monaco's reliance on qualifying and track position, and Lando Norris's reliability issues in FP2, a Ferrari front-row lockout is likely, with Hamilton carrying more momentum into the race."
+      "reason": "Track position is paramount in Monaco; Antonelli starts on pole after a record-breaking qualifying performance. Verstappen and Hamilton occupy the remaining top starting spots on a circuit where overtaking is notoriously difficult and McLaren drivers have admitted to struggling for pace."
     },
-    "predicted_at": "2026-06-06T01:53:19.074201Z"
+    "predicted_at": "2026-06-07T02:07:45.255519Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Jeddah",
-        "circuit": "Jeddah",
-        "country": "Saudi Arabia",
-        "date_start": "2026-04-19T17:00:00+00:00",
-        "meeting_key": 1283
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Andrea Kimi Antonelli",
-          "2nd": "Oscar Piastri",
-          "3rd": "Lewis Hamilton"
-        },
-        "reason": "Andrea Kimi Antonelli is the clear form driver of 2026, coming off consecutive victories in Japan and China. Oscar Piastri won at this circuit in 2025 and McLaren is expected to bounce back following focused development during the April break. Lewis Hamilton rounds out the podium, showing a 'resurgent spark' and consistent performance in his new Ferrari seat, including a recent podium in Shanghai."
-      },
-      "predicted_at": "2026-04-14T01:16:53.257315Z"
-    },
     {
       "next_race": {
         "race_name": "Jeddah",
@@ -917,6 +899,24 @@
         "reason": "Ferrari dominated Friday practice with Hamilton and Leclerc looking significantly faster than the field. Given Monaco's reliance on qualifying and track position, and Lando Norris's reliability issues in FP2, a Ferrari front-row lockout is likely, with Hamilton carrying more momentum into the race."
       },
       "predicted_at": "2026-06-06T01:53:19.074201Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Monte Carlo",
+        "circuit": "Monte Carlo",
+        "country": "Monaco",
+        "date_start": "2026-06-07T13:00:00+00:00",
+        "meeting_key": 1286
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "Max Verstappen",
+          "3rd": "Lewis Hamilton"
+        },
+        "reason": "Track position is paramount in Monaco; Antonelli starts on pole after a record-breaking qualifying performance. Verstappen and Hamilton occupy the remaining top starting spots on a circuit where overtaking is notoriously difficult and McLaren drivers have admitted to struggling for pace."
+      },
+      "predicted_at": "2026-06-07T02:07:45.255519Z"
     }
   ]
 }

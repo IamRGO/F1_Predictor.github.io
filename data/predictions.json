@@ -1,41 +1,23 @@
 {
   "latest": {
     "next_race": {
-      "race_name": "Monte Carlo",
-      "circuit": "Monte Carlo",
-      "country": "Monaco",
-      "date_start": "2026-06-07T13:00:00+00:00",
-      "meeting_key": 1286
+      "race_name": "Catalunya",
+      "circuit": "Catalunya",
+      "country": "Spain",
+      "date_start": "2026-06-14T13:00:00+00:00",
+      "meeting_key": 1287
     },
     "prediction": {
       "podium": {
-        "1st": "Andrea Kimi Antonelli",
-        "2nd": "Max Verstappen",
+        "1st": "Kimi Antonelli",
+        "2nd": "Lando Norris",
         "3rd": "Lewis Hamilton"
       },
-      "reason": "Track position is paramount in Monaco; Antonelli starts on pole after a record-breaking qualifying performance. Verstappen and Hamilton occupy the remaining top starting spots on a circuit where overtaking is notoriously difficult and McLaren drivers have admitted to struggling for pace."
+      "reason": "Kimi Antonelli is in dominant form with five consecutive victories heading into Catalunya. Lando Norris is expected to bounce back at a high-downforce circuit that suits the McLaren after his Monaco DNF, while Lewis Hamilton's recent surge to P2 in the championship and his historical success in Spain make him a top contender."
     },
-    "predicted_at": "2026-06-07T02:07:45.255519Z"
+    "predicted_at": "2026-06-08T02:12:49.231813Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Jeddah",
-        "circuit": "Jeddah",
-        "country": "Saudi Arabia",
-        "date_start": "2026-04-19T17:00:00+00:00",
-        "meeting_key": 1283
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Andrea Kimi Antonelli",
-          "2nd": "Max Verstappen",
-          "3rd": "Oscar Piastri"
-        },
-        "reason": "Andrea Kimi Antonelli is the driver in peak form having won the two most recent races in Japan and China. Verstappen remains a constant threat at high-speed circuits like Jeddah where he finished 2nd last year. Piastri won the Saudi Arabian Grand Prix in 2025, demonstrating his strength at this specific track."
-      },
-      "predicted_at": "2026-04-15T01:14:39.725795Z"
-    },
     {
       "next_race": {
         "race_name": "Jeddah",
@@ -917,6 +899,24 @@
         "reason": "Track position is paramount in Monaco; Antonelli starts on pole after a record-breaking qualifying performance. Verstappen and Hamilton occupy the remaining top starting spots on a circuit where overtaking is notoriously difficult and McLaren drivers have admitted to struggling for pace."
       },
       "predicted_at": "2026-06-07T02:07:45.255519Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Catalunya",
+        "circuit": "Catalunya",
+        "country": "Spain",
+        "date_start": "2026-06-14T13:00:00+00:00",
+        "meeting_key": 1287
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Kimi Antonelli",
+          "2nd": "Lando Norris",
+          "3rd": "Lewis Hamilton"
+        },
+        "reason": "Kimi Antonelli is in dominant form with five consecutive victories heading into Catalunya. Lando Norris is expected to bounce back at a high-downforce circuit that suits the McLaren after his Monaco DNF, while Lewis Hamilton's recent surge to P2 in the championship and his historical success in Spain make him a top contender."
+      },
+      "predicted_at": "2026-06-08T02:12:49.231813Z"
     }
   ]
 }

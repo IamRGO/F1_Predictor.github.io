@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Kimi Antonelli",
-        "2nd": "Lando Norris",
-        "3rd": "Lewis Hamilton"
+        "1st": "Andrea Kimi Antonelli",
+        "2nd": "Lewis Hamilton",
+        "3rd": "Max Verstappen"
       },
-      "reason": "Kimi Antonelli is in dominant form with five consecutive victories heading into Catalunya. Lando Norris is expected to bounce back at a high-downforce circuit that suits the McLaren after his Monaco DNF, while Lewis Hamilton's recent surge to P2 in the championship and his historical success in Spain make him a top contender."
+      "reason": "Kimi Antonelli is currently dominating the 2026 season with five consecutive wins and a massive championship lead. Lewis Hamilton has found strong form with Ferrari, securing multiple P2 finishes recently. Max Verstappen remains the primary challenger for the top spots and historically performs well at the high-downforce Catalunya circuit."
     },
-    "predicted_at": "2026-06-08T02:12:49.231813Z"
+    "predicted_at": "2026-06-09T01:50:48.103714Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Jeddah",
-        "circuit": "Jeddah",
-        "country": "Saudi Arabia",
-        "date_start": "2026-04-19T17:00:00+00:00",
-        "meeting_key": 1283
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Oscar Piastri",
-          "2nd": "Max Verstappen",
-          "3rd": "Kimi Antonelli"
-        },
-        "reason": "Piastri is the defending winner at the Jeddah circuit and enters the weekend with momentum from a podium in Japan. Verstappen remains the primary threat following significant upgrades to the RB22, while championship leader Antonelli is predicted to continue his streak of podium finishes for Mercedes."
-      },
-      "predicted_at": "2026-04-16T01:19:14.300418Z"
-    },
     {
       "next_race": {
         "race_name": "Jeddah",
@@ -917,6 +899,24 @@
         "reason": "Kimi Antonelli is in dominant form with five consecutive victories heading into Catalunya. Lando Norris is expected to bounce back at a high-downforce circuit that suits the McLaren after his Monaco DNF, while Lewis Hamilton's recent surge to P2 in the championship and his historical success in Spain make him a top contender."
       },
       "predicted_at": "2026-06-08T02:12:49.231813Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Catalunya",
+        "circuit": "Catalunya",
+        "country": "Spain",
+        "date_start": "2026-06-14T13:00:00+00:00",
+        "meeting_key": 1287
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "Lewis Hamilton",
+          "3rd": "Max Verstappen"
+        },
+        "reason": "Kimi Antonelli is currently dominating the 2026 season with five consecutive wins and a massive championship lead. Lewis Hamilton has found strong form with Ferrari, securing multiple P2 finishes recently. Max Verstappen remains the primary challenger for the top spots and historically performs well at the high-downforce Catalunya circuit."
+      },
+      "predicted_at": "2026-06-09T01:50:48.103714Z"
     }
   ]
 }

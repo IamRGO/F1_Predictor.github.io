@@ -10,32 +10,14 @@
     "prediction": {
       "podium": {
         "1st": "Andrea Kimi Antonelli",
-        "2nd": "Max Verstappen",
-        "3rd": "Lewis Hamilton"
+        "2nd": "Lewis Hamilton",
+        "3rd": "Max Verstappen"
       },
-      "reason": "Andrea Kimi Antonelli is in dominant form for Mercedes, leading the championship by 66 points after a masterclass in Monaco. Max Verstappen is expected to bounce back at the aero-dependent Catalunya circuit after a power unit failure in Monaco, while Lewis Hamilton has moved into P2 in the standings following consecutive podiums for Ferrari."
+      "reason": "Kimi Antonelli is the clear form driver of 2026, leading the championship by 66 points after a dominant Monaco win. Lewis Hamilton has moved into P2 in the standings following strong performances in Canada and Monaco, while Max Verstappen remains the most consistent podium threat despite McLaren's recent 'reality check' and Mercedes' current pace advantage."
     },
-    "predicted_at": "2026-06-10T02:01:27.567687Z"
+    "predicted_at": "2026-06-11T02:12:10.172454Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Miami",
-        "circuit": "Miami",
-        "country": "United States",
-        "date_start": "2026-05-03T20:00:00+00:00",
-        "meeting_key": 1284
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Andrea Kimi Antonelli",
-          "2nd": "George Russell",
-          "3rd": "Lando Norris"
-        },
-        "reason": "Mercedes has emerged as the dominant force in the 2026 regulations, with championship leader Kimi Antonelli coming off wins in China and Japan. George Russell provides consistent team performance for a Mercedes 1-2, while McLaren's improved pace and Norris's historical success in Miami make him the strongest contender to round out the podium."
-      },
-      "predicted_at": "2026-04-20T01:19:08.841940Z"
-    },
     {
       "next_race": {
         "race_name": "Miami",
@@ -917,6 +899,24 @@
         "reason": "Andrea Kimi Antonelli is in dominant form for Mercedes, leading the championship by 66 points after a masterclass in Monaco. Max Verstappen is expected to bounce back at the aero-dependent Catalunya circuit after a power unit failure in Monaco, while Lewis Hamilton has moved into P2 in the standings following consecutive podiums for Ferrari."
       },
       "predicted_at": "2026-06-10T02:01:27.567687Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Catalunya",
+        "circuit": "Catalunya",
+        "country": "Spain",
+        "date_start": "2026-06-14T13:00:00+00:00",
+        "meeting_key": 1287
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "Lewis Hamilton",
+          "3rd": "Max Verstappen"
+        },
+        "reason": "Kimi Antonelli is the clear form driver of 2026, leading the championship by 66 points after a dominant Monaco win. Lewis Hamilton has moved into P2 in the standings following strong performances in Canada and Monaco, while Max Verstappen remains the most consistent podium threat despite McLaren's recent 'reality check' and Mercedes' current pace advantage."
+      },
+      "predicted_at": "2026-06-11T02:12:10.172454Z"
     }
   ]
 }

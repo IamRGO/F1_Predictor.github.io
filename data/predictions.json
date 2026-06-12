@@ -10,32 +10,14 @@
     "prediction": {
       "podium": {
         "1st": "Andrea Kimi Antonelli",
-        "2nd": "Lewis Hamilton",
+        "2nd": "Lando Norris",
         "3rd": "Max Verstappen"
       },
-      "reason": "Kimi Antonelli is the clear form driver of 2026, leading the championship by 66 points after a dominant Monaco win. Lewis Hamilton has moved into P2 in the standings following strong performances in Canada and Monaco, while Max Verstappen remains the most consistent podium threat despite McLaren's recent 'reality check' and Mercedes' current pace advantage."
+      "reason": "Andrea Kimi Antonelli enters Barcelona on a dominant five-race winning streak, making him the clear favorite. Lando Norris remains the most consistent challenger with a strong historical record at Catalunya (2nd in 2025), while Max Verstappen holds the strongest engine on the grid and a high podium frequency despite Red Bull's cautious outlook."
     },
-    "predicted_at": "2026-06-11T02:12:10.172454Z"
+    "predicted_at": "2026-06-12T02:08:08.194624Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Miami",
-        "circuit": "Miami",
-        "country": "United States",
-        "date_start": "2026-05-03T20:00:00+00:00",
-        "meeting_key": 1284
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Lando Norris",
-          "2nd": "Andrea Kimi Antonelli",
-          "3rd": "Max Verstappen"
-        },
-        "reason": "Norris is the most recent winner in Australia and McLaren has a strong historical record in Miami. Championship leader Antonelli represents the early dominance of the 2026 Mercedes, while Verstappen remains a consistent podium finisher despite the new regulation challenges."
-      },
-      "predicted_at": "2026-04-21T01:16:44.608693Z"
-    },
     {
       "next_race": {
         "race_name": "Miami",
@@ -917,6 +899,24 @@
         "reason": "Kimi Antonelli is the clear form driver of 2026, leading the championship by 66 points after a dominant Monaco win. Lewis Hamilton has moved into P2 in the standings following strong performances in Canada and Monaco, while Max Verstappen remains the most consistent podium threat despite McLaren's recent 'reality check' and Mercedes' current pace advantage."
       },
       "predicted_at": "2026-06-11T02:12:10.172454Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Catalunya",
+        "circuit": "Catalunya",
+        "country": "Spain",
+        "date_start": "2026-06-14T13:00:00+00:00",
+        "meeting_key": 1287
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "Lando Norris",
+          "3rd": "Max Verstappen"
+        },
+        "reason": "Andrea Kimi Antonelli enters Barcelona on a dominant five-race winning streak, making him the clear favorite. Lando Norris remains the most consistent challenger with a strong historical record at Catalunya (2nd in 2025), while Max Verstappen holds the strongest engine on the grid and a high podium frequency despite Red Bull's cautious outlook."
+      },
+      "predicted_at": "2026-06-12T02:08:08.194624Z"
     }
   ]
 }

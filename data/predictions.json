@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Andrea Kimi Antonelli",
-        "2nd": "Lando Norris",
-        "3rd": "Max Verstappen"
+        "1st": "Lando Norris",
+        "2nd": "George Russell",
+        "3rd": "Oscar Piastri"
       },
-      "reason": "Andrea Kimi Antonelli enters Barcelona on a dominant five-race winning streak, making him the clear favorite. Lando Norris remains the most consistent challenger with a strong historical record at Catalunya (2nd in 2025), while Max Verstappen holds the strongest engine on the grid and a high podium frequency despite Red Bull's cautious outlook."
+      "reason": "Lando Norris topped FP2 and shows strong pace as the reigning champion, while George Russell dominated FP1 and remains the lead Mercedes threat. Oscar Piastri was consistently in the top three during practice, whereas Red Bull and Ferrari reported performance gaps and technical issues on Friday."
     },
-    "predicted_at": "2026-06-12T02:08:08.194624Z"
+    "predicted_at": "2026-06-13T02:01:40.540708Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Miami",
-        "circuit": "Miami",
-        "country": "United States",
-        "date_start": "2026-05-03T20:00:00+00:00",
-        "meeting_key": 1284
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Andrea Kimi Antonelli",
-          "2nd": "George Russell",
-          "3rd": "Lando Norris"
-        },
-        "reason": "Mercedes has dominated the start of the 2026 season with three consecutive wins, and championship leader Andrea Kimi Antonelli is in peak form following victories in Japan and China. While Mercedes holds the technical advantage, McLaren has a strong historical record in Miami, making Lando Norris the most likely candidate to challenge the Mercedes duo for a podium spot as Red Bull continues to struggle with the new regulations."
-      },
-      "predicted_at": "2026-04-22T01:15:30.286377Z"
-    },
     {
       "next_race": {
         "race_name": "Miami",
@@ -917,6 +899,24 @@
         "reason": "Andrea Kimi Antonelli enters Barcelona on a dominant five-race winning streak, making him the clear favorite. Lando Norris remains the most consistent challenger with a strong historical record at Catalunya (2nd in 2025), while Max Verstappen holds the strongest engine on the grid and a high podium frequency despite Red Bull's cautious outlook."
       },
       "predicted_at": "2026-06-12T02:08:08.194624Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Catalunya",
+        "circuit": "Catalunya",
+        "country": "Spain",
+        "date_start": "2026-06-14T13:00:00+00:00",
+        "meeting_key": 1287
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Lando Norris",
+          "2nd": "George Russell",
+          "3rd": "Oscar Piastri"
+        },
+        "reason": "Lando Norris topped FP2 and shows strong pace as the reigning champion, while George Russell dominated FP1 and remains the lead Mercedes threat. Oscar Piastri was consistently in the top three during practice, whereas Red Bull and Ferrari reported performance gaps and technical issues on Friday."
+      },
+      "predicted_at": "2026-06-13T02:01:40.540708Z"
     }
   ]
 }

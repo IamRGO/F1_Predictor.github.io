@@ -1,41 +1,23 @@
 {
   "latest": {
     "next_race": {
-      "race_name": "Catalunya",
-      "circuit": "Catalunya",
-      "country": "Spain",
-      "date_start": "2026-06-14T13:00:00+00:00",
-      "meeting_key": 1287
+      "race_name": "Spielberg",
+      "circuit": "Spielberg",
+      "country": "Austria",
+      "date_start": "2026-06-28T13:00:00+00:00",
+      "meeting_key": 1288
     },
     "prediction": {
       "podium": {
         "1st": "George Russell",
-        "2nd": "Lewis Hamilton",
-        "3rd": "Andrea Kimi Antonelli"
+        "2nd": "Andrea Kimi Antonelli",
+        "3rd": "Lewis Hamilton"
       },
-      "reason": "George Russell starts from pole with Mercedes showing resurgent pace. Lewis Hamilton starts P2 in a heavily upgraded Ferrari, while championship leader Andrea Kimi Antonelli starts P3, on a circuit where qualifying position is historically decisive and overtaking is difficult."
+      "reason": "Mercedes is currently the dominant force in 2026 with Russell and Antonelli battling for the title, as evidenced by Russell's pole and Antonelli's championship lead. Ferrari has surged into contention following Hamilton's win in Barcelona, while McLaren and Red Bull admit their 2026 packages are currently lagging behind the lead pair."
     },
-    "predicted_at": "2026-06-14T02:11:30.856785Z"
+    "predicted_at": "2026-06-15T02:15:30.580165Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Miami",
-        "circuit": "Miami",
-        "country": "United States",
-        "date_start": "2026-05-03T20:00:00+00:00",
-        "meeting_key": 1284
-      },
-      "prediction": {
-        "podium": {
-          "1st": "George Russell",
-          "2nd": "Lando Norris",
-          "3rd": "Andrea Kimi Antonelli"
-        },
-        "reason": "Mercedes has emerged as the dominant force under the 2026 regulations with Russell leading the championship and Antonelli coming off a win in Japan. While McLaren is introducing a 'completely new car' to bridge the gap, Mercedes' current form remains the benchmark, though Norris's historical success in Miami should see him challenge for the top spot."
-      },
-      "predicted_at": "2026-04-25T01:13:45.512632Z"
-    },
     {
       "next_race": {
         "race_name": "Miami",
@@ -917,6 +899,24 @@
         "reason": "George Russell starts from pole with Mercedes showing resurgent pace. Lewis Hamilton starts P2 in a heavily upgraded Ferrari, while championship leader Andrea Kimi Antonelli starts P3, on a circuit where qualifying position is historically decisive and overtaking is difficult."
       },
       "predicted_at": "2026-06-14T02:11:30.856785Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Spielberg",
+        "circuit": "Spielberg",
+        "country": "Austria",
+        "date_start": "2026-06-28T13:00:00+00:00",
+        "meeting_key": 1288
+      },
+      "prediction": {
+        "podium": {
+          "1st": "George Russell",
+          "2nd": "Andrea Kimi Antonelli",
+          "3rd": "Lewis Hamilton"
+        },
+        "reason": "Mercedes is currently the dominant force in 2026 with Russell and Antonelli battling for the title, as evidenced by Russell's pole and Antonelli's championship lead. Ferrari has surged into contention following Hamilton's win in Barcelona, while McLaren and Red Bull admit their 2026 packages are currently lagging behind the lead pair."
+      },
+      "predicted_at": "2026-06-15T02:15:30.580165Z"
     }
   ]
 }

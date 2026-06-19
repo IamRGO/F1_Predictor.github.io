@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Kimi Antonelli",
-        "2nd": "George Russell",
-        "3rd": "Lewis Hamilton"
+        "1st": "Andrea Kimi Antonelli",
+        "2nd": "Lewis Hamilton",
+        "3rd": "Lando Norris"
       },
-      "reason": "Mercedes currently has the fastest car with Russell on pole and Antonelli leading the championship prior to his Barcelona DNF. Antonelli is poised for a bounce-back win at the power-sensitive Spielberg circuit, while Hamilton's recent victory for Ferrari signals that the Italian team has overtaken McLaren as the primary challenger to Mercedes dominance."
+      "reason": "Championship leader Antonelli is favored to bounce back after his Barcelona DNF, while Hamilton carries significant momentum from his maiden Ferrari victory. Norris, the 2025 Spielberg winner, remains the most consistent challenger to the Mercedes and Ferrari frontrunners."
     },
-    "predicted_at": "2026-06-16T02:30:29.519974Z"
+    "predicted_at": "2026-06-19T02:40:58.660141Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Miami",
-        "circuit": "Miami",
-        "country": "United States",
-        "date_start": "2026-05-03T20:00:00+00:00",
-        "meeting_key": 1284
-      },
-      "prediction": {
-        "podium": {
-          "1st": "George Russell",
-          "2nd": "Oscar Piastri",
-          "3rd": "Lando Norris"
-        },
-        "reason": "George Russell enters Miami as the 2026 title favorite with Mercedes showing dominant form. While McLaren is introducing a 'completely new car' to bridge the gap, their historical strength at the Miami circuit suggests Piastri and Norris will secure the remaining podium spots ahead of a struggling Verstappen."
-      },
-      "predicted_at": "2026-04-27T01:23:05.991223Z"
-    },
     {
       "next_race": {
         "race_name": "Miami",
@@ -917,6 +899,24 @@
         "reason": "Mercedes currently has the fastest car with Russell on pole and Antonelli leading the championship prior to his Barcelona DNF. Antonelli is poised for a bounce-back win at the power-sensitive Spielberg circuit, while Hamilton's recent victory for Ferrari signals that the Italian team has overtaken McLaren as the primary challenger to Mercedes dominance."
       },
       "predicted_at": "2026-06-16T02:30:29.519974Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Spielberg",
+        "circuit": "Spielberg",
+        "country": "Austria",
+        "date_start": "2026-06-28T13:00:00+00:00",
+        "meeting_key": 1288
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "Lewis Hamilton",
+          "3rd": "Lando Norris"
+        },
+        "reason": "Championship leader Antonelli is favored to bounce back after his Barcelona DNF, while Hamilton carries significant momentum from his maiden Ferrari victory. Norris, the 2025 Spielberg winner, remains the most consistent challenger to the Mercedes and Ferrari frontrunners."
+      },
+      "predicted_at": "2026-06-19T02:40:58.660141Z"
     }
   ]
 }

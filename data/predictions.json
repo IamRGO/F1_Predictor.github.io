@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Andrea Kimi Antonelli",
+        "1st": "Lando Norris",
         "2nd": "Lewis Hamilton",
-        "3rd": "Lando Norris"
+        "3rd": "Max Verstappen"
       },
-      "reason": "Championship leader Antonelli is favored to bounce back after his Barcelona DNF, while Hamilton carries significant momentum from his maiden Ferrari victory. Norris, the 2025 Spielberg winner, remains the most consistent challenger to the Mercedes and Ferrari frontrunners."
+      "reason": "Norris won the 2025 Austrian Grand Prix and remains a dominant force at the Spielberg circuit. Hamilton carries significant momentum after his breakthrough victory for Ferrari in Spain, while Verstappen remains a constant podium threat at Red Bull's home race despite the tightening championship battle between McLaren, Ferrari, and Mercedes."
     },
-    "predicted_at": "2026-06-19T02:40:58.660141Z"
+    "predicted_at": "2026-06-20T02:02:18.098151Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Miami",
-        "circuit": "Miami",
-        "country": "United States",
-        "date_start": "2026-05-03T20:00:00+00:00",
-        "meeting_key": 1284
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Kimi Antonelli",
-          "2nd": "George Russell",
-          "3rd": "Lando Norris"
-        },
-        "reason": "Mercedes has emerged as the dominant team in the 2026 regulation shift, with championship leader Kimi Antonelli and George Russell consistently finishing at the front. McLaren's introduction of a 'completely new car' for the Miami GP is expected to help Lando Norris reclaim a podium spot at a track where he has historically performed well."
-      },
-      "predicted_at": "2026-04-28T01:29:23.690190Z"
-    },
     {
       "next_race": {
         "race_name": "Miami",
@@ -917,6 +899,24 @@
         "reason": "Championship leader Antonelli is favored to bounce back after his Barcelona DNF, while Hamilton carries significant momentum from his maiden Ferrari victory. Norris, the 2025 Spielberg winner, remains the most consistent challenger to the Mercedes and Ferrari frontrunners."
       },
       "predicted_at": "2026-06-19T02:40:58.660141Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Spielberg",
+        "circuit": "Spielberg",
+        "country": "Austria",
+        "date_start": "2026-06-28T13:00:00+00:00",
+        "meeting_key": 1288
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Lando Norris",
+          "2nd": "Lewis Hamilton",
+          "3rd": "Max Verstappen"
+        },
+        "reason": "Norris won the 2025 Austrian Grand Prix and remains a dominant force at the Spielberg circuit. Hamilton carries significant momentum after his breakthrough victory for Ferrari in Spain, while Verstappen remains a constant podium threat at Red Bull's home race despite the tightening championship battle between McLaren, Ferrari, and Mercedes."
+      },
+      "predicted_at": "2026-06-20T02:02:18.098151Z"
     }
   ]
 }

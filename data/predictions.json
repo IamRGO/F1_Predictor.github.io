@@ -10,32 +10,14 @@
     "prediction": {
       "podium": {
         "1st": "Lando Norris",
-        "2nd": "Lewis Hamilton",
-        "3rd": "George Russell"
+        "2nd": "Max Verstappen",
+        "3rd": "Lewis Hamilton"
       },
-      "reason": "Lando Norris is the defending winner in Spielberg and historically excels at this track, making him the favorite. Lewis Hamilton enters with high momentum following his first Ferrari victory in Barcelona, while George Russell remains a consistent frontrunner in the Mercedes championship-leading package, benefiting from the team's strong 2026 form."
+      "reason": "Lando Norris won the 2025 Austrian Grand Prix and historically excels at the Red Bull Ring. Max Verstappen is a perennial favorite at Red Bull's home circuit, while Lewis Hamilton enters with high momentum following his first victory for Ferrari at the preceding Spanish Grand Prix."
     },
-    "predicted_at": "2026-06-23T01:56:09.275510Z"
+    "predicted_at": "2026-06-25T01:59:17.577890Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Miami",
-        "circuit": "Miami",
-        "country": "United States",
-        "date_start": "2026-05-03T20:00:00+00:00",
-        "meeting_key": 1284
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Lando Norris",
-          "2nd": "Andrea Kimi Antonelli",
-          "3rd": "Charles Leclerc"
-        },
-        "reason": "Lando Norris broke Mercedes' 2026 pole streak with a dominant Sprint Qualifying performance fueled by effective McLaren upgrades. Championship leader Kimi Antonelli remains the strongest Mercedes threat starting from the front row, while Charles Leclerc's practice-topping pace and Ferrari's upgrades suggest they have overtaken a struggling Red Bull and George Russell this weekend."
-      },
-      "predicted_at": "2026-05-02T01:24:40.414464Z"
-    },
     {
       "next_race": {
         "race_name": "Miami",
@@ -917,6 +899,24 @@
         "reason": "Lando Norris is the defending winner in Spielberg and historically excels at this track, making him the favorite. Lewis Hamilton enters with high momentum following his first Ferrari victory in Barcelona, while George Russell remains a consistent frontrunner in the Mercedes championship-leading package, benefiting from the team's strong 2026 form."
       },
       "predicted_at": "2026-06-23T01:56:09.275510Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Spielberg",
+        "circuit": "Spielberg",
+        "country": "Austria",
+        "date_start": "2026-06-28T13:00:00+00:00",
+        "meeting_key": 1288
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Lando Norris",
+          "2nd": "Max Verstappen",
+          "3rd": "Lewis Hamilton"
+        },
+        "reason": "Lando Norris won the 2025 Austrian Grand Prix and historically excels at the Red Bull Ring. Max Verstappen is a perennial favorite at Red Bull's home circuit, while Lewis Hamilton enters with high momentum following his first victory for Ferrari at the preceding Spanish Grand Prix."
+      },
+      "predicted_at": "2026-06-25T01:59:17.577890Z"
     }
   ]
 }

@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Lando Norris",
+        "1st": "Lewis Hamilton",
         "2nd": "Max Verstappen",
-        "3rd": "Lewis Hamilton"
+        "3rd": "George Russell"
       },
-      "reason": "Lando Norris won the 2025 Austrian Grand Prix and historically excels at the Red Bull Ring. Max Verstappen is a perennial favorite at Red Bull's home circuit, while Lewis Hamilton enters with high momentum following his first victory for Ferrari at the preceding Spanish Grand Prix."
+      "reason": "Hamilton enters with momentum from his first Ferrari victory in Barcelona and a significant power unit upgrade for the Austrian altitude. Verstappen is expected to challenge strongly with Red Bull's home-race upgrade package, while Russell remains a consistent front-runner for the pace-setting Mercedes team in the 2026 title fight."
     },
-    "predicted_at": "2026-06-25T01:59:17.577890Z"
+    "predicted_at": "2026-06-26T02:00:42.733310Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Miami",
-        "circuit": "Miami",
-        "country": "United States",
-        "date_start": "2026-05-03T20:00:00+00:00",
-        "meeting_key": 1284
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Andrea Kimi Antonelli",
-          "2nd": "Max Verstappen",
-          "3rd": "Lando Norris"
-        },
-        "reason": "Championship leader Antonelli starts from pole and looks to convert his qualifying pace into a win. Verstappen starts P2 and has shown resurgent form, while Norris, despite a difficult qualifying, demonstrated the field's best race pace by dominantly winning the Sprint earlier in the weekend."
-      },
-      "predicted_at": "2026-05-03T01:28:26.891215Z"
-    },
     {
       "next_race": {
         "race_name": "Montreal",
@@ -917,6 +899,24 @@
         "reason": "Lando Norris won the 2025 Austrian Grand Prix and historically excels at the Red Bull Ring. Max Verstappen is a perennial favorite at Red Bull's home circuit, while Lewis Hamilton enters with high momentum following his first victory for Ferrari at the preceding Spanish Grand Prix."
       },
       "predicted_at": "2026-06-25T01:59:17.577890Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Spielberg",
+        "circuit": "Spielberg",
+        "country": "Austria",
+        "date_start": "2026-06-28T13:00:00+00:00",
+        "meeting_key": 1288
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Lewis Hamilton",
+          "2nd": "Max Verstappen",
+          "3rd": "George Russell"
+        },
+        "reason": "Hamilton enters with momentum from his first Ferrari victory in Barcelona and a significant power unit upgrade for the Austrian altitude. Verstappen is expected to challenge strongly with Red Bull's home-race upgrade package, while Russell remains a consistent front-runner for the pace-setting Mercedes team in the 2026 title fight."
+      },
+      "predicted_at": "2026-06-26T02:00:42.733310Z"
     }
   ]
 }

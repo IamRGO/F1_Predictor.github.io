@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Lewis Hamilton",
-        "2nd": "Max Verstappen",
-        "3rd": "George Russell"
+        "1st": "Andrea Kimi Antonelli",
+        "2nd": "Oscar Piastri",
+        "3rd": "Max Verstappen"
       },
-      "reason": "Hamilton enters with momentum from his first Ferrari victory in Barcelona and a significant power unit upgrade for the Austrian altitude. Verstappen is expected to challenge strongly with Red Bull's home-race upgrade package, while Russell remains a consistent front-runner for the pace-setting Mercedes team in the 2026 title fight."
+      "reason": "Andrea Kimi Antonelli dominated Friday by sweeping both practice sessions for Mercedes, who appear to have a pace advantage in Spielberg. Piastri was the closest challenger in FP2, and Verstappen is expected to remain a podium threat at Red Bull's home track following the introduction of a significant aerodynamic upgrade package."
     },
-    "predicted_at": "2026-06-26T02:00:42.733310Z"
+    "predicted_at": "2026-06-27T01:54:41.994583Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Montreal",
-        "circuit": "Montreal",
-        "country": "Canada",
-        "date_start": "2026-05-24T20:00:00+00:00",
-        "meeting_key": 1285
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Kimi Antonelli",
-          "2nd": "George Russell",
-          "3rd": "Lando Norris"
-        },
-        "reason": "Mercedes is currently dominating the 2026 season with Kimi Antonelli on a three-race winning streak from pole. George Russell won in Montreal in 2025 and remains a top contender, while Lando Norris and McLaren are consistently the closest challengers to the Mercedes pair."
-      },
-      "predicted_at": "2026-05-04T01:27:03.042573Z"
-    },
     {
       "next_race": {
         "race_name": "Montreal",
@@ -917,6 +899,24 @@
         "reason": "Hamilton enters with momentum from his first Ferrari victory in Barcelona and a significant power unit upgrade for the Austrian altitude. Verstappen is expected to challenge strongly with Red Bull's home-race upgrade package, while Russell remains a consistent front-runner for the pace-setting Mercedes team in the 2026 title fight."
       },
       "predicted_at": "2026-06-26T02:00:42.733310Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Spielberg",
+        "circuit": "Spielberg",
+        "country": "Austria",
+        "date_start": "2026-06-28T13:00:00+00:00",
+        "meeting_key": 1288
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "Oscar Piastri",
+          "3rd": "Max Verstappen"
+        },
+        "reason": "Andrea Kimi Antonelli dominated Friday by sweeping both practice sessions for Mercedes, who appear to have a pace advantage in Spielberg. Piastri was the closest challenger in FP2, and Verstappen is expected to remain a podium threat at Red Bull's home track following the introduction of a significant aerodynamic upgrade package."
+      },
+      "predicted_at": "2026-06-27T01:54:41.994583Z"
     }
   ]
 }

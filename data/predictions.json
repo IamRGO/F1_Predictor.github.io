@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Andrea Kimi Antonelli",
-        "2nd": "Oscar Piastri",
-        "3rd": "Max Verstappen"
+        "1st": "George Russell",
+        "2nd": "Charles Leclerc",
+        "3rd": "Andrea Kimi Antonelli"
       },
-      "reason": "Andrea Kimi Antonelli dominated Friday by sweeping both practice sessions for Mercedes, who appear to have a pace advantage in Spielberg. Piastri was the closest challenger in FP2, and Verstappen is expected to remain a podium threat at Red Bull's home track following the introduction of a significant aerodynamic upgrade package."
+      "reason": "George Russell starts on pole with Mercedes showing dominant pace throughout the weekend, having topped multiple practice sessions. Charles Leclerc starts alongside him in P2, while Andrea Kimi Antonelli, who was the fastest driver in all Friday practice sessions, is expected to recover from a Q3 mistake to secure a podium finish given the superior Mercedes car performance and Max Verstappen's car handling issues and qualifying crash."
     },
-    "predicted_at": "2026-06-27T01:54:41.994583Z"
+    "predicted_at": "2026-06-28T02:04:43.434489Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Montreal",
-        "circuit": "Montreal",
-        "country": "Canada",
-        "date_start": "2026-05-24T20:00:00+00:00",
-        "meeting_key": 1285
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Andrea Kimi Antonelli",
-          "2nd": "Lando Norris",
-          "3rd": "Max Verstappen"
-        },
-        "reason": "Andrea Kimi Antonelli is in dominant form with three consecutive victories and the championship lead heading into Montreal, a track where Mercedes won last year. Lando Norris remains the most consistent challenger to the lead, while Max Verstappen, despite a recent spin in Miami, showed 'revived' pace by qualifying on the front row and is expected to bounce back to the podium."
-      },
-      "predicted_at": "2026-05-05T01:27:07.854950Z"
-    },
     {
       "next_race": {
         "race_name": "Montreal",
@@ -917,6 +899,24 @@
         "reason": "Andrea Kimi Antonelli dominated Friday by sweeping both practice sessions for Mercedes, who appear to have a pace advantage in Spielberg. Piastri was the closest challenger in FP2, and Verstappen is expected to remain a podium threat at Red Bull's home track following the introduction of a significant aerodynamic upgrade package."
       },
       "predicted_at": "2026-06-27T01:54:41.994583Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Spielberg",
+        "circuit": "Spielberg",
+        "country": "Austria",
+        "date_start": "2026-06-28T13:00:00+00:00",
+        "meeting_key": 1288
+      },
+      "prediction": {
+        "podium": {
+          "1st": "George Russell",
+          "2nd": "Charles Leclerc",
+          "3rd": "Andrea Kimi Antonelli"
+        },
+        "reason": "George Russell starts on pole with Mercedes showing dominant pace throughout the weekend, having topped multiple practice sessions. Charles Leclerc starts alongside him in P2, while Andrea Kimi Antonelli, who was the fastest driver in all Friday practice sessions, is expected to recover from a Q3 mistake to secure a podium finish given the superior Mercedes car performance and Max Verstappen's car handling issues and qualifying crash."
+      },
+      "predicted_at": "2026-06-28T02:04:43.434489Z"
     }
   ]
 }

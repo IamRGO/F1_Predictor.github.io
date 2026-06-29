@@ -1,41 +1,23 @@
 {
   "latest": {
     "next_race": {
-      "race_name": "Spielberg",
-      "circuit": "Spielberg",
-      "country": "Austria",
-      "date_start": "2026-06-28T13:00:00+00:00",
-      "meeting_key": 1288
+      "race_name": "Silverstone",
+      "circuit": "Silverstone",
+      "country": "United Kingdom",
+      "date_start": "2026-07-05T14:00:00+00:00",
+      "meeting_key": 1289
     },
     "prediction": {
       "podium": {
         "1st": "George Russell",
-        "2nd": "Charles Leclerc",
-        "3rd": "Andrea Kimi Antonelli"
+        "2nd": "Kimi Antonelli",
+        "3rd": "Max Verstappen"
       },
-      "reason": "George Russell starts on pole with Mercedes showing dominant pace throughout the weekend, having topped multiple practice sessions. Charles Leclerc starts alongside him in P2, while Andrea Kimi Antonelli, who was the fastest driver in all Friday practice sessions, is expected to recover from a Q3 mistake to secure a podium finish given the superior Mercedes car performance and Max Verstappen's car handling issues and qualifying crash."
+      "reason": "Mercedes has regained its status as the team to beat, with Russell coming off a win in Austria and Antonelli leading the 2026 championship. Silverstone's high-speed layout perfectly suits the current Mercedes W17, while Verstappen's recent Red Bull upgrades have successfully returned him to the front of the pack, as evidenced by his second-place finish at the Red Bull Ring."
     },
-    "predicted_at": "2026-06-28T02:04:43.434489Z"
+    "predicted_at": "2026-06-29T02:05:20.040442Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Montreal",
-        "circuit": "Montreal",
-        "country": "Canada",
-        "date_start": "2026-05-24T20:00:00+00:00",
-        "meeting_key": 1285
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Andrea Kimi Antonelli",
-          "2nd": "Lando Norris",
-          "3rd": "George Russell"
-        },
-        "reason": "Andrea Kimi Antonelli is the clear form driver with three consecutive wins and the championship lead. Lando Norris has been his most consistent challenger throughout the 2026 season. George Russell is predicted to round out the podium, seeking redemption after a poor Miami weekend at a circuit where he secured victory in 2025."
-      },
-      "predicted_at": "2026-05-06T01:25:04.635352Z"
-    },
     {
       "next_race": {
         "race_name": "Montreal",
@@ -917,6 +899,24 @@
         "reason": "George Russell starts on pole with Mercedes showing dominant pace throughout the weekend, having topped multiple practice sessions. Charles Leclerc starts alongside him in P2, while Andrea Kimi Antonelli, who was the fastest driver in all Friday practice sessions, is expected to recover from a Q3 mistake to secure a podium finish given the superior Mercedes car performance and Max Verstappen's car handling issues and qualifying crash."
       },
       "predicted_at": "2026-06-28T02:04:43.434489Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Silverstone",
+        "circuit": "Silverstone",
+        "country": "United Kingdom",
+        "date_start": "2026-07-05T14:00:00+00:00",
+        "meeting_key": 1289
+      },
+      "prediction": {
+        "podium": {
+          "1st": "George Russell",
+          "2nd": "Kimi Antonelli",
+          "3rd": "Max Verstappen"
+        },
+        "reason": "Mercedes has regained its status as the team to beat, with Russell coming off a win in Austria and Antonelli leading the 2026 championship. Silverstone's high-speed layout perfectly suits the current Mercedes W17, while Verstappen's recent Red Bull upgrades have successfully returned him to the front of the pack, as evidenced by his second-place finish at the Red Bull Ring."
+      },
+      "predicted_at": "2026-06-29T02:05:20.040442Z"
     }
   ]
 }

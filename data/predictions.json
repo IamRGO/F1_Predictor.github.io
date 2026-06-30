@@ -10,32 +10,14 @@
     "prediction": {
       "podium": {
         "1st": "George Russell",
-        "2nd": "Kimi Antonelli",
-        "3rd": "Max Verstappen"
+        "2nd": "Max Verstappen",
+        "3rd": "Andrea Kimi Antonelli"
       },
-      "reason": "Mercedes has regained its status as the team to beat, with Russell coming off a win in Austria and Antonelli leading the 2026 championship. Silverstone's high-speed layout perfectly suits the current Mercedes W17, while Verstappen's recent Red Bull upgrades have successfully returned him to the front of the pack, as evidenced by his second-place finish at the Red Bull Ring."
+      "reason": "George Russell carries significant momentum into his home race after a victory in Austria. Mercedes currently possesses the most competitive package, with Antonelli consistently finishing on the podium. Max Verstappen returns to the front row following a successful upgrade package that has restored Red Bull's race-winning potential."
     },
-    "predicted_at": "2026-06-29T02:05:20.040442Z"
+    "predicted_at": "2026-06-30T01:59:40.788406Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Montreal",
-        "circuit": "Montreal",
-        "country": "Canada",
-        "date_start": "2026-05-24T20:00:00+00:00",
-        "meeting_key": 1285
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Andrea Kimi Antonelli",
-          "2nd": "Max Verstappen",
-          "3rd": "Lando Norris"
-        },
-        "reason": "Andrea Kimi Antonelli enters Montreal on a three-race winning streak and previously secured a podium here in 2025. Max Verstappen is expected to bounce back following Red Bull's 'transformative' RB22 upgrades and a recovery drive in Miami, while Lando Norris maintains his consistent podium form for McLaren."
-      },
-      "predicted_at": "2026-05-07T01:30:20.552498Z"
-    },
     {
       "next_race": {
         "race_name": "Montreal",
@@ -917,6 +899,24 @@
         "reason": "Mercedes has regained its status as the team to beat, with Russell coming off a win in Austria and Antonelli leading the 2026 championship. Silverstone's high-speed layout perfectly suits the current Mercedes W17, while Verstappen's recent Red Bull upgrades have successfully returned him to the front of the pack, as evidenced by his second-place finish at the Red Bull Ring."
       },
       "predicted_at": "2026-06-29T02:05:20.040442Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Silverstone",
+        "circuit": "Silverstone",
+        "country": "United Kingdom",
+        "date_start": "2026-07-05T14:00:00+00:00",
+        "meeting_key": 1289
+      },
+      "prediction": {
+        "podium": {
+          "1st": "George Russell",
+          "2nd": "Max Verstappen",
+          "3rd": "Andrea Kimi Antonelli"
+        },
+        "reason": "George Russell carries significant momentum into his home race after a victory in Austria. Mercedes currently possesses the most competitive package, with Antonelli consistently finishing on the podium. Max Verstappen returns to the front row following a successful upgrade package that has restored Red Bull's race-winning potential."
+      },
+      "predicted_at": "2026-06-30T01:59:40.788406Z"
     }
   ]
 }

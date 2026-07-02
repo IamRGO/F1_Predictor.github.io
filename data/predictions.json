@@ -10,32 +10,14 @@
     "prediction": {
       "podium": {
         "1st": "George Russell",
-        "2nd": "Max Verstappen",
-        "3rd": "Andrea Kimi Antonelli"
+        "2nd": "Lando Norris",
+        "3rd": "Max Verstappen"
       },
-      "reason": "George Russell carries significant momentum into his home race after a victory in Austria. Mercedes currently possesses the most competitive package, with Antonelli consistently finishing on the podium. Max Verstappen returns to the front row following a successful upgrade package that has restored Red Bull's race-winning potential."
+      "reason": "George Russell enters his home race with significant momentum following his victory in Austria and Mercedes' resurgence in the 2026 championship battle. Lando Norris, the defending 2025 Silverstone winner, remains a dominant force at high-speed circuits, while Max Verstappen's consistency ensures a podium finish despite Red Bull's recent struggles with car balance and consistency."
     },
-    "predicted_at": "2026-06-30T01:59:40.788406Z"
+    "predicted_at": "2026-07-02T01:58:49.736957Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Montreal",
-        "circuit": "Montreal",
-        "country": "Canada",
-        "date_start": "2026-05-24T20:00:00+00:00",
-        "meeting_key": 1285
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Andrea Kimi Antonelli",
-          "2nd": "Max Verstappen",
-          "3rd": "Lando Norris"
-        },
-        "reason": "Andrea Kimi Antonelli is currently dominating the 2026 season, leading the championship and coming off a commanding win in Miami. Max Verstappen remains the primary threat following 'transformative' upgrades to the Red Bull RB22, while Lando Norris continues his consistent podium streak for McLaren, having finished 2nd in the most recent round."
-      },
-      "predicted_at": "2026-05-08T01:46:34.501943Z"
-    },
     {
       "next_race": {
         "race_name": "Montreal",
@@ -917,6 +899,24 @@
         "reason": "George Russell carries significant momentum into his home race after a victory in Austria. Mercedes currently possesses the most competitive package, with Antonelli consistently finishing on the podium. Max Verstappen returns to the front row following a successful upgrade package that has restored Red Bull's race-winning potential."
       },
       "predicted_at": "2026-06-30T01:59:40.788406Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Silverstone",
+        "circuit": "Silverstone",
+        "country": "United Kingdom",
+        "date_start": "2026-07-05T14:00:00+00:00",
+        "meeting_key": 1289
+      },
+      "prediction": {
+        "podium": {
+          "1st": "George Russell",
+          "2nd": "Lando Norris",
+          "3rd": "Max Verstappen"
+        },
+        "reason": "George Russell enters his home race with significant momentum following his victory in Austria and Mercedes' resurgence in the 2026 championship battle. Lando Norris, the defending 2025 Silverstone winner, remains a dominant force at high-speed circuits, while Max Verstappen's consistency ensures a podium finish despite Red Bull's recent struggles with car balance and consistency."
+      },
+      "predicted_at": "2026-07-02T01:58:49.736957Z"
     }
   ]
 }

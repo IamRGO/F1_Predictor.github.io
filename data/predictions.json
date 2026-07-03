@@ -13,29 +13,11 @@
         "2nd": "Lando Norris",
         "3rd": "Max Verstappen"
       },
-      "reason": "George Russell enters his home race with significant momentum following his victory in Austria and Mercedes' resurgence in the 2026 championship battle. Lando Norris, the defending 2025 Silverstone winner, remains a dominant force at high-speed circuits, while Max Verstappen's consistency ensures a podium finish despite Red Bull's recent struggles with car balance and consistency."
+      "reason": "George Russell enters his home Grand Prix with significant momentum following a victory in Austria and a strong Mercedes performance. Lando Norris, the defending 2025 champion and previous Silverstone winner, remains a primary threat, while Max Verstappen and Red Bull are showing a reported 'upturn in form' that positions them back on the podium."
     },
-    "predicted_at": "2026-07-02T01:58:49.736957Z"
+    "predicted_at": "2026-07-03T01:28:40.150427Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Montreal",
-        "circuit": "Montreal",
-        "country": "Canada",
-        "date_start": "2026-05-24T20:00:00+00:00",
-        "meeting_key": 1285
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Andrea Kimi Antonelli",
-          "2nd": "Max Verstappen",
-          "3rd": "Lando Norris"
-        },
-        "reason": "Kimi Antonelli carries significant momentum into Montreal following a dominant pole-to-win performance in Miami. Mercedes historically performs well at this circuit, having won here in 2025. Red Bull's transformative RB22 upgrades have improved their pace to challenge for the top spots, while 2025 World Champion Lando Norris remains the most consistent performer for McLaren."
-      },
-      "predicted_at": "2026-05-09T01:30:24.920210Z"
-    },
     {
       "next_race": {
         "race_name": "Montreal",
@@ -917,6 +899,24 @@
         "reason": "George Russell enters his home race with significant momentum following his victory in Austria and Mercedes' resurgence in the 2026 championship battle. Lando Norris, the defending 2025 Silverstone winner, remains a dominant force at high-speed circuits, while Max Verstappen's consistency ensures a podium finish despite Red Bull's recent struggles with car balance and consistency."
       },
       "predicted_at": "2026-07-02T01:58:49.736957Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Silverstone",
+        "circuit": "Silverstone",
+        "country": "United Kingdom",
+        "date_start": "2026-07-05T14:00:00+00:00",
+        "meeting_key": 1289
+      },
+      "prediction": {
+        "podium": {
+          "1st": "George Russell",
+          "2nd": "Lando Norris",
+          "3rd": "Max Verstappen"
+        },
+        "reason": "George Russell enters his home Grand Prix with significant momentum following a victory in Austria and a strong Mercedes performance. Lando Norris, the defending 2025 champion and previous Silverstone winner, remains a primary threat, while Max Verstappen and Red Bull are showing a reported 'upturn in form' that positions them back on the podium."
+      },
+      "predicted_at": "2026-07-03T01:28:40.150427Z"
     }
   ]
 }

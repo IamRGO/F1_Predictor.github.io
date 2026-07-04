@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "George Russell",
-        "2nd": "Lando Norris",
+        "1st": "Lewis Hamilton",
+        "2nd": "Andrea Kimi Antonelli",
         "3rd": "Max Verstappen"
       },
-      "reason": "George Russell enters his home Grand Prix with significant momentum following a victory in Austria and a strong Mercedes performance. Lando Norris, the defending 2025 champion and previous Silverstone winner, remains a primary threat, while Max Verstappen and Red Bull are showing a reported 'upturn in form' that positions them back on the podium."
+      "reason": "Lewis Hamilton secured Sprint pole at his home race following a major Ferrari performance step, while Mercedes' Kimi Antonelli closely follows in second. Max Verstappen remains a consistent podium threat despite admitting to fine margins in car performance."
     },
-    "predicted_at": "2026-07-03T01:28:40.150427Z"
+    "predicted_at": "2026-07-04T01:28:50.774687Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Montreal",
-        "circuit": "Montreal",
-        "country": "Canada",
-        "date_start": "2026-05-24T20:00:00+00:00",
-        "meeting_key": 1285
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Andrea Kimi Antonelli",
-          "2nd": "George Russell",
-          "3rd": "Max Verstappen"
-        },
-        "reason": "Kimi Antonelli is currently dominant, having won three consecutive races (China, Japan, and Miami) under the 2026 regulations. George Russell is the defending winner at Montreal (2025), and Max Verstappen remains a consistent podium finisher who took second place at this circuit last year."
-      },
-      "predicted_at": "2026-05-10T01:43:23.408567Z"
-    },
     {
       "next_race": {
         "race_name": "Montreal",
@@ -917,6 +899,24 @@
         "reason": "George Russell enters his home Grand Prix with significant momentum following a victory in Austria and a strong Mercedes performance. Lando Norris, the defending 2025 champion and previous Silverstone winner, remains a primary threat, while Max Verstappen and Red Bull are showing a reported 'upturn in form' that positions them back on the podium."
       },
       "predicted_at": "2026-07-03T01:28:40.150427Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Silverstone",
+        "circuit": "Silverstone",
+        "country": "United Kingdom",
+        "date_start": "2026-07-05T14:00:00+00:00",
+        "meeting_key": 1289
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Lewis Hamilton",
+          "2nd": "Andrea Kimi Antonelli",
+          "3rd": "Max Verstappen"
+        },
+        "reason": "Lewis Hamilton secured Sprint pole at his home race following a major Ferrari performance step, while Mercedes' Kimi Antonelli closely follows in second. Max Verstappen remains a consistent podium threat despite admitting to fine margins in car performance."
+      },
+      "predicted_at": "2026-07-04T01:28:50.774687Z"
     }
   ]
 }

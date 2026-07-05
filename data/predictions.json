@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Lewis Hamilton",
-        "2nd": "Andrea Kimi Antonelli",
-        "3rd": "Max Verstappen"
+        "1st": "Andrea Kimi Antonelli",
+        "2nd": "Charles Leclerc",
+        "3rd": "Lewis Hamilton"
       },
-      "reason": "Lewis Hamilton secured Sprint pole at his home race following a major Ferrari performance step, while Mercedes' Kimi Antonelli closely follows in second. Max Verstappen remains a consistent podium threat despite admitting to fine margins in car performance."
+      "reason": "Kimi Antonelli is the form driver of the weekend, having won the Sprint and secured pole position for Mercedes. Ferrari has shown significant improvement at Silverstone, with Leclerc and Hamilton qualifying second and third respectively. Conversely, 2025 frontrunners Max Verstappen and Lando Norris are struggling with technical issues and a lack of pace, making a podium for the top three qualifiers highly likely."
     },
-    "predicted_at": "2026-07-04T01:28:50.774687Z"
+    "predicted_at": "2026-07-05T01:44:25.910272Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Montreal",
-        "circuit": "Montreal",
-        "country": "Canada",
-        "date_start": "2026-05-24T20:00:00+00:00",
-        "meeting_key": 1285
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Andrea Kimi Antonelli",
-          "2nd": "Max Verstappen",
-          "3rd": "Lando Norris"
-        },
-        "reason": "Andrea Kimi Antonelli is currently dominant in the 2026 season, entering Montreal on a three-race winning streak (Japan, China, Miami). While George Russell won this event in 2025, current news suggests he is struggling to match his rookie teammate's pace. Max Verstappen remains the most consistent challenger to the Mercedes' early-2026 regulation dominance, and 2025 World Champion Lando Norris continues to lead a competitive McLaren effort on high-speed circuits."
-      },
-      "predicted_at": "2026-05-11T01:50:42.728599Z"
-    },
     {
       "next_race": {
         "race_name": "Montreal",
@@ -917,6 +899,24 @@
         "reason": "Lewis Hamilton secured Sprint pole at his home race following a major Ferrari performance step, while Mercedes' Kimi Antonelli closely follows in second. Max Verstappen remains a consistent podium threat despite admitting to fine margins in car performance."
       },
       "predicted_at": "2026-07-04T01:28:50.774687Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Silverstone",
+        "circuit": "Silverstone",
+        "country": "United Kingdom",
+        "date_start": "2026-07-05T14:00:00+00:00",
+        "meeting_key": 1289
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "Charles Leclerc",
+          "3rd": "Lewis Hamilton"
+        },
+        "reason": "Kimi Antonelli is the form driver of the weekend, having won the Sprint and secured pole position for Mercedes. Ferrari has shown significant improvement at Silverstone, with Leclerc and Hamilton qualifying second and third respectively. Conversely, 2025 frontrunners Max Verstappen and Lando Norris are struggling with technical issues and a lack of pace, making a podium for the top three qualifiers highly likely."
+      },
+      "predicted_at": "2026-07-05T01:44:25.910272Z"
     }
   ]
 }

@@ -1,41 +1,23 @@
 {
   "latest": {
     "next_race": {
-      "race_name": "Silverstone",
-      "circuit": "Silverstone",
-      "country": "United Kingdom",
-      "date_start": "2026-07-05T14:00:00+00:00",
-      "meeting_key": 1289
+      "race_name": "Spa-Francorchamps",
+      "circuit": "Spa-Francorchamps",
+      "country": "Belgium",
+      "date_start": "2026-07-19T13:00:00+00:00",
+      "meeting_key": 1290
     },
     "prediction": {
       "podium": {
-        "1st": "Andrea Kimi Antonelli",
+        "1st": "Kimi Antonelli",
         "2nd": "Charles Leclerc",
-        "3rd": "Lewis Hamilton"
+        "3rd": "Lando Norris"
       },
-      "reason": "Kimi Antonelli is the form driver of the weekend, having won the Sprint and secured pole position for Mercedes. Ferrari has shown significant improvement at Silverstone, with Leclerc and Hamilton qualifying second and third respectively. Conversely, 2025 frontrunners Max Verstappen and Lando Norris are struggling with technical issues and a lack of pace, making a podium for the top three qualifiers highly likely."
+      "reason": "Championship leader Antonelli has dominant pace with five poles this season and high top speed, making him the favorite for Spa if reliability holds. Leclerc carries momentum from his Silverstone win and improved Ferrari form, while Norris remains a top contender with the straight-line speed necessary for the Belgian circuits long sectors, especially as Verstappen struggles with recurring technical failures."
     },
-    "predicted_at": "2026-07-05T01:44:25.910272Z"
+    "predicted_at": "2026-07-06T01:49:55.274976Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Montreal",
-        "circuit": "Montreal",
-        "country": "Canada",
-        "date_start": "2026-05-24T20:00:00+00:00",
-        "meeting_key": 1285
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Andrea Kimi Antonelli",
-          "2nd": "Max Verstappen",
-          "3rd": "Lando Norris"
-        },
-        "reason": "Andrea Kimi Antonelli is currently the form driver of 2026 with three consecutive wins in China, Japan, and Miami. Mercedes has historical success at the Montreal circuit, having won the 2025 race with George Russell. Max Verstappen remains a consistent podium threat despite Red Bull's internal transitions, and Lando Norris is expected to lead McLaren's resurgence following their improved performance in Miami."
-      },
-      "predicted_at": "2026-05-12T01:45:55.486779Z"
-    },
     {
       "next_race": {
         "race_name": "Montreal",
@@ -917,6 +899,24 @@
         "reason": "Kimi Antonelli is the form driver of the weekend, having won the Sprint and secured pole position for Mercedes. Ferrari has shown significant improvement at Silverstone, with Leclerc and Hamilton qualifying second and third respectively. Conversely, 2025 frontrunners Max Verstappen and Lando Norris are struggling with technical issues and a lack of pace, making a podium for the top three qualifiers highly likely."
       },
       "predicted_at": "2026-07-05T01:44:25.910272Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Spa-Francorchamps",
+        "circuit": "Spa-Francorchamps",
+        "country": "Belgium",
+        "date_start": "2026-07-19T13:00:00+00:00",
+        "meeting_key": 1290
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Kimi Antonelli",
+          "2nd": "Charles Leclerc",
+          "3rd": "Lando Norris"
+        },
+        "reason": "Championship leader Antonelli has dominant pace with five poles this season and high top speed, making him the favorite for Spa if reliability holds. Leclerc carries momentum from his Silverstone win and improved Ferrari form, while Norris remains a top contender with the straight-line speed necessary for the Belgian circuits long sectors, especially as Verstappen struggles with recurring technical failures."
+      },
+      "predicted_at": "2026-07-06T01:49:55.274976Z"
     }
   ]
 }

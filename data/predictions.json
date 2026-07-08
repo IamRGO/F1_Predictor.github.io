@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Andrea Kimi Antonelli",
-        "2nd": "Charles Leclerc",
-        "3rd": "Oscar Piastri"
+        "1st": "Charles Leclerc",
+        "2nd": "Oscar Piastri",
+        "3rd": "Andrea Kimi Antonelli"
       },
-      "reason": "Championship leader Antonelli is the clear pace setter with five poles this season and will look to bounce back from a mechanical DNF at Silverstone. Leclerc carries momentum from his British GP victory as Ferrari regains form, while Piastri is favored for the final podium spot due to McLaren's documented top-speed advantage, which is crucial for the long straights of Spa-Francorchamps."
+      "reason": "Leclerc is in peak form following his victory at Silverstone and Ferrari's successful upgrade path. Piastri has a dominant historical record at Spa-Francorchamps, and Antonelli, the current championship leader, is poised to bounce back after securing pole position in the previous round despite a DNF."
     },
-    "predicted_at": "2026-07-07T01:47:17.368050Z"
+    "predicted_at": "2026-07-08T01:20:00.919884Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Montreal",
-        "circuit": "Montreal",
-        "country": "Canada",
-        "date_start": "2026-05-24T20:00:00+00:00",
-        "meeting_key": 1285
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Andrea Kimi Antonelli",
-          "2nd": "Lando Norris",
-          "3rd": "Max Verstappen"
-        },
-        "reason": "Andrea Kimi Antonelli is the form driver of 2026, recording the best start to a season for a Mercedes driver in a decade and overshadowing teammate George Russell, who won here in 2025. Defending champion Norris and four-time champion Verstappen remain the most consistent challengers at power-sensitive circuits like Montreal."
-      },
-      "predicted_at": "2026-05-14T01:53:30.512644Z"
-    },
     {
       "next_race": {
         "race_name": "Montreal",
@@ -917,6 +899,24 @@
         "reason": "Championship leader Antonelli is the clear pace setter with five poles this season and will look to bounce back from a mechanical DNF at Silverstone. Leclerc carries momentum from his British GP victory as Ferrari regains form, while Piastri is favored for the final podium spot due to McLaren's documented top-speed advantage, which is crucial for the long straights of Spa-Francorchamps."
       },
       "predicted_at": "2026-07-07T01:47:17.368050Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Spa-Francorchamps",
+        "circuit": "Spa-Francorchamps",
+        "country": "Belgium",
+        "date_start": "2026-07-19T13:00:00+00:00",
+        "meeting_key": 1290
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Charles Leclerc",
+          "2nd": "Oscar Piastri",
+          "3rd": "Andrea Kimi Antonelli"
+        },
+        "reason": "Leclerc is in peak form following his victory at Silverstone and Ferrari's successful upgrade path. Piastri has a dominant historical record at Spa-Francorchamps, and Antonelli, the current championship leader, is poised to bounce back after securing pole position in the previous round despite a DNF."
+      },
+      "predicted_at": "2026-07-08T01:20:00.919884Z"
     }
   ]
 }

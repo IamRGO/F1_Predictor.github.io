@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Charles Leclerc",
-        "2nd": "Oscar Piastri",
-        "3rd": "Andrea Kimi Antonelli"
+        "1st": "Oscar Piastri",
+        "2nd": "Lando Norris",
+        "3rd": "Charles Leclerc"
       },
-      "reason": "Leclerc is in peak form following his victory at Silverstone and Ferrari's successful upgrade path. Piastri has a dominant historical record at Spa-Francorchamps, and Antonelli, the current championship leader, is poised to bounce back after securing pole position in the previous round despite a DNF."
+      "reason": "Oscar Piastri demonstrated exceptional performance at Spa-Francorchamps in 2025 with multiple podiums and a victory. McLaren remains the most consistent team at the front, and with Max Verstappen currently on a nine-race winless streak plagued by reliability and safety concerns, the Woking-based team is the favorite. Charles Leclerc is included following his recent win at Silverstone, showing that Ferrari has regained the momentum to challenge for the top spots."
     },
-    "predicted_at": "2026-07-08T01:20:00.919884Z"
+    "predicted_at": "2026-07-11T01:19:00.584171Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Montreal",
-        "circuit": "Montreal",
-        "country": "Canada",
-        "date_start": "2026-05-24T20:00:00+00:00",
-        "meeting_key": 1285
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Max Verstappen",
-          "2nd": "Lando Norris",
-          "3rd": "Oscar Piastri"
-        },
-        "reason": "Verstappen remains the benchmark as a four-time champion, while the McLaren duo of Norris (the reigning champion) and Piastri continue the dominant form shown throughout late 2025 and early 2026. Despite Russell winning here in 2025, recent news indicates Mercedes is struggling with internal rivalry and inconsistent performance."
-      },
-      "predicted_at": "2026-05-16T01:43:58.067425Z"
-    },
     {
       "next_race": {
         "race_name": "Montreal",
@@ -917,6 +899,24 @@
         "reason": "Leclerc is in peak form following his victory at Silverstone and Ferrari's successful upgrade path. Piastri has a dominant historical record at Spa-Francorchamps, and Antonelli, the current championship leader, is poised to bounce back after securing pole position in the previous round despite a DNF."
       },
       "predicted_at": "2026-07-08T01:20:00.919884Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Spa-Francorchamps",
+        "circuit": "Spa-Francorchamps",
+        "country": "Belgium",
+        "date_start": "2026-07-19T13:00:00+00:00",
+        "meeting_key": 1290
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Oscar Piastri",
+          "2nd": "Lando Norris",
+          "3rd": "Charles Leclerc"
+        },
+        "reason": "Oscar Piastri demonstrated exceptional performance at Spa-Francorchamps in 2025 with multiple podiums and a victory. McLaren remains the most consistent team at the front, and with Max Verstappen currently on a nine-race winless streak plagued by reliability and safety concerns, the Woking-based team is the favorite. Charles Leclerc is included following his recent win at Silverstone, showing that Ferrari has regained the momentum to challenge for the top spots."
+      },
+      "predicted_at": "2026-07-11T01:19:00.584171Z"
     }
   ]
 }

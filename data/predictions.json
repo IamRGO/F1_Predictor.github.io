@@ -10,32 +10,14 @@
     "prediction": {
       "podium": {
         "1st": "Oscar Piastri",
-        "2nd": "Charles Leclerc",
-        "3rd": "Lando Norris"
+        "2nd": "Lando Norris",
+        "3rd": "Charles Leclerc"
       },
-      "reason": "Piastri has a strong track record at Spa-Francorchamps and McLaren remains the most consistent car. Leclerc carries momentum from his recent victory at Silverstone, while Verstappen and Red Bull are currently struggling with a nine-race winless streak and significant reliability issues."
+      "reason": "McLaren has historically dominated Spa-Francorchamps in recent seasons, with Piastri showing exceptional form at this track. Leclerc carries significant momentum from his victory at Silverstone, while Max Verstappen and Red Bull are currently facing a nine-race winless streak and severe reliability concerns."
     },
-    "predicted_at": "2026-07-12T01:20:44.757538Z"
+    "predicted_at": "2026-07-13T01:21:49.228137Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Montreal",
-        "circuit": "Montreal",
-        "country": "Canada",
-        "date_start": "2026-05-24T20:00:00+00:00",
-        "meeting_key": 1285
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Max Verstappen",
-          "2nd": "Lando Norris",
-          "3rd": "Oscar Piastri"
-        },
-        "reason": "Max Verstappen enters Montreal with significant momentum after winning the final three races of the 2025 season. While George Russell won in Canada last year, recent 2026 news indicates he has struggled with performance and mindset, making the highly consistent McLaren duo of Norris and Piastri the strongest contenders to challenge Verstappen for the top spots."
-      },
-      "predicted_at": "2026-05-18T01:58:17.626143Z"
-    },
     {
       "next_race": {
         "race_name": "Montreal",
@@ -917,6 +899,24 @@
         "reason": "Piastri has a strong track record at Spa-Francorchamps and McLaren remains the most consistent car. Leclerc carries momentum from his recent victory at Silverstone, while Verstappen and Red Bull are currently struggling with a nine-race winless streak and significant reliability issues."
       },
       "predicted_at": "2026-07-12T01:20:44.757538Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Spa-Francorchamps",
+        "circuit": "Spa-Francorchamps",
+        "country": "Belgium",
+        "date_start": "2026-07-19T13:00:00+00:00",
+        "meeting_key": 1290
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Oscar Piastri",
+          "2nd": "Lando Norris",
+          "3rd": "Charles Leclerc"
+        },
+        "reason": "McLaren has historically dominated Spa-Francorchamps in recent seasons, with Piastri showing exceptional form at this track. Leclerc carries significant momentum from his victory at Silverstone, while Max Verstappen and Red Bull are currently facing a nine-race winless streak and severe reliability concerns."
+      },
+      "predicted_at": "2026-07-13T01:21:49.228137Z"
     }
   ]
 }

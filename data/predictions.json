@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Andrea Kimi Antonelli",
+        "1st": "Lando Norris",
         "2nd": "Oscar Piastri",
-        "3rd": "Lando Norris"
+        "3rd": "Andrea Kimi Antonelli"
       },
-      "reason": "Mercedes enters Spa as the 2026 title favorite, and Antonelli is poised to bounce back after a 5-race winning streak was interrupted by recent DNFs. McLaren remains the most consistent team on the grid, with Piastri having a stellar historical record at Spa and Norris maintaining his record-breaking form, while Verstappen is hampered by recurring 'super-dangerous' rear wing failures."
+      "reason": "McLaren is introducing a new low-drag rear wing specifically for Spa's high-speed sectors, where they were already strong in 2025. Max Verstappen and Red Bull are currently struggling with 'super-dangerous' rear wing reliability issues, while Kimi Antonelli has emerged as the lead Mercedes driver, consistently outperforming Russell in the 2026 season standings."
     },
-    "predicted_at": "2026-07-15T01:08:14.045827Z"
+    "predicted_at": "2026-07-16T01:17:29.661576Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Montreal",
-        "circuit": "Montreal",
-        "country": "Canada",
-        "date_start": "2026-05-24T20:00:00+00:00",
-        "meeting_key": 1285
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Max Verstappen",
-          "2nd": "Lando Norris",
-          "3rd": "George Russell"
-        },
-        "reason": "Verstappen remains the dominant force heading into Montreal, while reigning champion Norris continues his consistent form. Russell is a strong contender to round out the podium, having won this race in 2025 and with Mercedes introducing a significant upgrade package."
-      },
-      "predicted_at": "2026-05-20T01:57:30.438959Z"
-    },
     {
       "next_race": {
         "race_name": "Montreal",
@@ -917,6 +899,24 @@
         "reason": "Mercedes enters Spa as the 2026 title favorite, and Antonelli is poised to bounce back after a 5-race winning streak was interrupted by recent DNFs. McLaren remains the most consistent team on the grid, with Piastri having a stellar historical record at Spa and Norris maintaining his record-breaking form, while Verstappen is hampered by recurring 'super-dangerous' rear wing failures."
       },
       "predicted_at": "2026-07-15T01:08:14.045827Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Spa-Francorchamps",
+        "circuit": "Spa-Francorchamps",
+        "country": "Belgium",
+        "date_start": "2026-07-19T13:00:00+00:00",
+        "meeting_key": 1290
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Lando Norris",
+          "2nd": "Oscar Piastri",
+          "3rd": "Andrea Kimi Antonelli"
+        },
+        "reason": "McLaren is introducing a new low-drag rear wing specifically for Spa's high-speed sectors, where they were already strong in 2025. Max Verstappen and Red Bull are currently struggling with 'super-dangerous' rear wing reliability issues, while Kimi Antonelli has emerged as the lead Mercedes driver, consistently outperforming Russell in the 2026 season standings."
+      },
+      "predicted_at": "2026-07-16T01:17:29.661576Z"
     }
   ]
 }

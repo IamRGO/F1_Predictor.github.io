@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Oscar Piastri",
-        "2nd": "Andrea Kimi Antonelli",
-        "3rd": "Max Verstappen"
+        "1st": "Andrea Kimi Antonelli",
+        "2nd": "Max Verstappen",
+        "3rd": "Oscar Piastri"
       },
-      "reason": "With reigning champion Lando Norris serving a 10-place grid penalty, Oscar Piastri is the clear favorite to lead McLaren's updated package to victory. Andrea Kimi Antonelli is currently the form driver at Mercedes in the title battle, while Max Verstappen's historical dominance at Spa makes him a near-certainty for the podium despite Red Bull's recent stability issues and wing changes."
+      "reason": "Kimi Antonelli topped FP2 and Mercedes showed significant pace improvements, making him the favorite for his first Spa win. Max Verstappen remains a specialist at this track and showed consistency in practice. Oscar Piastri is the primary McLaren contender for the podium given Lando Norris faces a 10-place grid penalty for a power unit update."
     },
-    "predicted_at": "2026-07-17T01:21:07.632056Z"
+    "predicted_at": "2026-07-18T01:13:23.212619Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Montreal",
-        "circuit": "Montreal",
-        "country": "Canada",
-        "date_start": "2026-05-24T20:00:00+00:00",
-        "meeting_key": 1285
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Andrea Kimi Antonelli",
-          "2nd": "George Russell",
-          "3rd": "Max Verstappen"
-        },
-        "reason": "Mercedes historically performs well at the Circuit Gilles-Villeneuve, having secured 1st and 3rd places here in 2025. With a significant upgrade package being introduced and Kimi Antonelli currently leading the drivers' standings, the team is favored to dominate. Max Verstappen is predicted to round out the podium as McLaren traditionally found this circuit to be one of their weaker tracks in previous seasons."
-      },
-      "predicted_at": "2026-05-22T01:58:05.743766Z"
-    },
     {
       "next_race": {
         "race_name": "Montreal",
@@ -917,6 +899,24 @@
         "reason": "With reigning champion Lando Norris serving a 10-place grid penalty, Oscar Piastri is the clear favorite to lead McLaren's updated package to victory. Andrea Kimi Antonelli is currently the form driver at Mercedes in the title battle, while Max Verstappen's historical dominance at Spa makes him a near-certainty for the podium despite Red Bull's recent stability issues and wing changes."
       },
       "predicted_at": "2026-07-17T01:21:07.632056Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Spa-Francorchamps",
+        "circuit": "Spa-Francorchamps",
+        "country": "Belgium",
+        "date_start": "2026-07-19T13:00:00+00:00",
+        "meeting_key": 1290
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "Max Verstappen",
+          "3rd": "Oscar Piastri"
+        },
+        "reason": "Kimi Antonelli topped FP2 and Mercedes showed significant pace improvements, making him the favorite for his first Spa win. Max Verstappen remains a specialist at this track and showed consistency in practice. Oscar Piastri is the primary McLaren contender for the podium given Lando Norris faces a 10-place grid penalty for a power unit update."
+      },
+      "predicted_at": "2026-07-18T01:13:23.212619Z"
     }
   ]
 }

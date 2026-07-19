@@ -11,31 +11,13 @@
       "podium": {
         "1st": "Andrea Kimi Antonelli",
         "2nd": "Max Verstappen",
-        "3rd": "Oscar Piastri"
+        "3rd": "Charles Leclerc"
       },
-      "reason": "Kimi Antonelli topped FP2 and Mercedes showed significant pace improvements, making him the favorite for his first Spa win. Max Verstappen remains a specialist at this track and showed consistency in practice. Oscar Piastri is the primary McLaren contender for the podium given Lando Norris faces a 10-place grid penalty for a power unit update."
+      "reason": "Kimi Antonelli is in dominant form, securing his sixth pole of the season and showing superior pace throughout practice. Max Verstappen starts on the front row and remains a Spa specialist, though he relied on a tow to qualify second. While George Russell starts third due to Lando Norris's 10-place grid penalty, Russell's admitted straight-line speed issues at a high-speed track like Spa make him vulnerable to Charles Leclerc, who starts fourth and has expressed strong confidence in Ferrari's podium potential."
     },
-    "predicted_at": "2026-07-18T01:13:23.212619Z"
+    "predicted_at": "2026-07-19T01:18:29.663556Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Montreal",
-        "circuit": "Montreal",
-        "country": "Canada",
-        "date_start": "2026-05-24T20:00:00+00:00",
-        "meeting_key": 1285
-      },
-      "prediction": {
-        "podium": {
-          "1st": "George Russell",
-          "2nd": "Andrea Kimi Antonelli",
-          "3rd": "Lando Norris"
-        },
-        "reason": "Mercedes has dominated the weekend so far with a front-row lockout in Sprint Qualifying and a 1-2 in practice. Russell won this race in 2025, and Norris remains the most consistent challenger while Red Bull struggles with significant ride and bouncing issues on the Montreal curbs."
-      },
-      "predicted_at": "2026-05-23T01:48:51.000297Z"
-    },
     {
       "next_race": {
         "race_name": "Montreal",
@@ -917,6 +899,24 @@
         "reason": "Kimi Antonelli topped FP2 and Mercedes showed significant pace improvements, making him the favorite for his first Spa win. Max Verstappen remains a specialist at this track and showed consistency in practice. Oscar Piastri is the primary McLaren contender for the podium given Lando Norris faces a 10-place grid penalty for a power unit update."
       },
       "predicted_at": "2026-07-18T01:13:23.212619Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Spa-Francorchamps",
+        "circuit": "Spa-Francorchamps",
+        "country": "Belgium",
+        "date_start": "2026-07-19T13:00:00+00:00",
+        "meeting_key": 1290
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "Max Verstappen",
+          "3rd": "Charles Leclerc"
+        },
+        "reason": "Kimi Antonelli is in dominant form, securing his sixth pole of the season and showing superior pace throughout practice. Max Verstappen starts on the front row and remains a Spa specialist, though he relied on a tow to qualify second. While George Russell starts third due to Lando Norris's 10-place grid penalty, Russell's admitted straight-line speed issues at a high-speed track like Spa make him vulnerable to Charles Leclerc, who starts fourth and has expressed strong confidence in Ferrari's podium potential."
+      },
+      "predicted_at": "2026-07-19T01:18:29.663556Z"
     }
   ]
 }

@@ -1,41 +1,23 @@
 {
   "latest": {
     "next_race": {
-      "race_name": "Spa-Francorchamps",
-      "circuit": "Spa-Francorchamps",
-      "country": "Belgium",
-      "date_start": "2026-07-19T13:00:00+00:00",
-      "meeting_key": 1290
+      "race_name": "Hungaroring",
+      "circuit": "Hungaroring",
+      "country": "Hungary",
+      "date_start": "2026-07-26T13:00:00+00:00",
+      "meeting_key": 1291
     },
     "prediction": {
       "podium": {
         "1st": "Andrea Kimi Antonelli",
-        "2nd": "Max Verstappen",
-        "3rd": "Charles Leclerc"
+        "2nd": "Lando Norris",
+        "3rd": "Max Verstappen"
       },
-      "reason": "Kimi Antonelli is in dominant form, securing his sixth pole of the season and showing superior pace throughout practice. Max Verstappen starts on the front row and remains a Spa specialist, though he relied on a tow to qualify second. While George Russell starts third due to Lando Norris's 10-place grid penalty, Russell's admitted straight-line speed issues at a high-speed track like Spa make him vulnerable to Charles Leclerc, who starts fourth and has expressed strong confidence in Ferrari's podium potential."
+      "reason": "Kimi Antonelli is in peak form with six wins in 2026 and a significant championship lead. Lando Norris won at the Hungaroring in 2025 and showed strong qualifying pace in Belgium, while Verstappen remains a consistent podium threat despite recent technical setbacks."
     },
-    "predicted_at": "2026-07-19T01:18:29.663556Z"
+    "predicted_at": "2026-07-21T01:18:20.827041Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Montreal",
-        "circuit": "Montreal",
-        "country": "Canada",
-        "date_start": "2026-05-24T20:00:00+00:00",
-        "meeting_key": 1285
-      },
-      "prediction": {
-        "podium": {
-          "1st": "George Russell",
-          "2nd": "Andrea Kimi Antonelli",
-          "3rd": "Lando Norris"
-        },
-        "reason": "Mercedes has dominated the weekend, locking out the front row for both the Sprint and the Grand Prix. George Russell won the Sprint and took pole position, demonstrating superior pace. While internal tensions between Russell and rookie team-mate Andrea Kimi Antonelli are high, their current car advantage makes a Mercedes 1-2 likely, with Lando Norris poised in 3rd to capitalize on any errors."
-      },
-      "predicted_at": "2026-05-24T01:55:18.001763Z"
-    },
     {
       "next_race": {
         "race_name": "Monte Carlo",
@@ -917,6 +899,24 @@
         "reason": "Kimi Antonelli is in dominant form, securing his sixth pole of the season and showing superior pace throughout practice. Max Verstappen starts on the front row and remains a Spa specialist, though he relied on a tow to qualify second. While George Russell starts third due to Lando Norris's 10-place grid penalty, Russell's admitted straight-line speed issues at a high-speed track like Spa make him vulnerable to Charles Leclerc, who starts fourth and has expressed strong confidence in Ferrari's podium potential."
       },
       "predicted_at": "2026-07-19T01:18:29.663556Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Hungaroring",
+        "circuit": "Hungaroring",
+        "country": "Hungary",
+        "date_start": "2026-07-26T13:00:00+00:00",
+        "meeting_key": 1291
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "Lando Norris",
+          "3rd": "Max Verstappen"
+        },
+        "reason": "Kimi Antonelli is in peak form with six wins in 2026 and a significant championship lead. Lando Norris won at the Hungaroring in 2025 and showed strong qualifying pace in Belgium, while Verstappen remains a consistent podium threat despite recent technical setbacks."
+      },
+      "predicted_at": "2026-07-21T01:18:20.827041Z"
     }
   ]
 }

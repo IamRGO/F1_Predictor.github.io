@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Andrea Kimi Antonelli",
-        "2nd": "Lando Norris",
-        "3rd": "Oscar Piastri"
+        "1st": "Lando Norris",
+        "2nd": "Oscar Piastri",
+        "3rd": "Andrea Kimi Antonelli"
       },
-      "reason": "Andrea Kimi Antonelli is currently the dominant driver of 2026 with six wins and a formidable Mercedes package. McLaren, who secured a 1-2 finish at the Hungaroring in 2025, are introducing significant upgrades this weekend, making Lando Norris and Oscar Piastri the primary challengers on this high-downforce circuit."
+      "reason": "McLaren is introducing a significant upgrade package at the Hungaroring, a track where they achieved a 1-2 finish in 2025. Lando Norris and Oscar Piastri remain the most consistent performers in high-downforce conditions. Andrea Kimi Antonelli, the current championship leader, is in peak form following his victory at the Belgian Grand Prix and is expected to beat the Red Bulls and Ferraris to the final podium spot."
     },
-    "predicted_at": "2026-07-22T01:16:57.461955Z"
+    "predicted_at": "2026-07-23T01:25:05.670998Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Monte Carlo",
-        "circuit": "Monte Carlo",
-        "country": "Monaco",
-        "date_start": "2026-06-07T13:00:00+00:00",
-        "meeting_key": 1286
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Kimi Antonelli",
-          "2nd": "Charles Leclerc",
-          "3rd": "George Russell"
-        },
-        "reason": "Kimi Antonelli is the dominant driver of 2026 with four wins, including the most recent race in Canada. Mercedes currently has the fastest car in qualifying trim, which is critical for Monaco. Leclerc is a perennial pole-threat at his home circuit and remains highly competitive, while Russell's strong Saturday pace should secure him a top-three start on a track where track position is everything."
-      },
-      "predicted_at": "2026-05-26T01:53:44.669828Z"
-    },
     {
       "next_race": {
         "race_name": "Monte Carlo",
@@ -917,6 +899,24 @@
         "reason": "Andrea Kimi Antonelli is currently the dominant driver of 2026 with six wins and a formidable Mercedes package. McLaren, who secured a 1-2 finish at the Hungaroring in 2025, are introducing significant upgrades this weekend, making Lando Norris and Oscar Piastri the primary challengers on this high-downforce circuit."
       },
       "predicted_at": "2026-07-22T01:16:57.461955Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Hungaroring",
+        "circuit": "Hungaroring",
+        "country": "Hungary",
+        "date_start": "2026-07-26T13:00:00+00:00",
+        "meeting_key": 1291
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Lando Norris",
+          "2nd": "Oscar Piastri",
+          "3rd": "Andrea Kimi Antonelli"
+        },
+        "reason": "McLaren is introducing a significant upgrade package at the Hungaroring, a track where they achieved a 1-2 finish in 2025. Lando Norris and Oscar Piastri remain the most consistent performers in high-downforce conditions. Andrea Kimi Antonelli, the current championship leader, is in peak form following his victory at the Belgian Grand Prix and is expected to beat the Red Bulls and Ferraris to the final podium spot."
+      },
+      "predicted_at": "2026-07-23T01:25:05.670998Z"
     }
   ]
 }

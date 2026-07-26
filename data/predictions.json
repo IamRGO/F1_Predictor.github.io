@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Lewis Hamilton",
-        "2nd": "Charles Leclerc",
-        "3rd": "Lando Norris"
+        "1st": "Lando Norris",
+        "2nd": "Oscar Piastri",
+        "3rd": "Max Verstappen"
       },
-      "reason": "Ferrari showed dominant pace in Friday practice, securing a 1-2 in FP2 with Hamilton leading Leclerc. Hamilton is a specialist at the Hungaroring with a record eight wins, and while Lando Norris is the defending 2025 winner, Ferrari currently holds the technical edge over McLaren and a struggling Mercedes."
+      "reason": "Lando Norris starts from pole position with McLaren showing dominant form at the Hungaroring. Oscar Piastri benefits from Lewis Hamilton's grid penalty to likely start on the front row, while Max Verstappen's consistent podium record and the 'damage limitation' outlook for the penalised Ferrari and Mercedes drivers favor him for third."
     },
-    "predicted_at": "2026-07-25T01:21:23.391706Z"
+    "predicted_at": "2026-07-26T01:24:18.201664Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Monte Carlo",
-        "circuit": "Monte Carlo",
-        "country": "Monaco",
-        "date_start": "2026-06-07T13:00:00+00:00",
-        "meeting_key": 1286
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Andrea Kimi Antonelli",
-          "2nd": "Charles Leclerc",
-          "3rd": "George Russell"
-        },
-        "reason": "Kimi Antonelli is the form driver of 2026, entering Monaco with momentum from his Canadian GP victory and a 'winning habit.' Local favorite Charles Leclerc historically excels in Monte Carlo qualifying, and George Russell is expected to bounce back from his Canada retirement to secure a podium for the dominant Mercedes team."
-      },
-      "predicted_at": "2026-05-29T01:55:34.769951Z"
-    },
     {
       "next_race": {
         "race_name": "Monte Carlo",
@@ -917,6 +899,24 @@
         "reason": "Ferrari showed dominant pace in Friday practice, securing a 1-2 in FP2 with Hamilton leading Leclerc. Hamilton is a specialist at the Hungaroring with a record eight wins, and while Lando Norris is the defending 2025 winner, Ferrari currently holds the technical edge over McLaren and a struggling Mercedes."
       },
       "predicted_at": "2026-07-25T01:21:23.391706Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Hungaroring",
+        "circuit": "Hungaroring",
+        "country": "Hungary",
+        "date_start": "2026-07-26T13:00:00+00:00",
+        "meeting_key": 1291
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Lando Norris",
+          "2nd": "Oscar Piastri",
+          "3rd": "Max Verstappen"
+        },
+        "reason": "Lando Norris starts from pole position with McLaren showing dominant form at the Hungaroring. Oscar Piastri benefits from Lewis Hamilton's grid penalty to likely start on the front row, while Max Verstappen's consistent podium record and the 'damage limitation' outlook for the penalised Ferrari and Mercedes drivers favor him for third."
+      },
+      "predicted_at": "2026-07-26T01:24:18.201664Z"
     }
   ]
 }

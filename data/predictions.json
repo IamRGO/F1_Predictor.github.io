@@ -13,29 +13,11 @@
         "2nd": "Max Verstappen",
         "3rd": "Oscar Piastri"
       },
-      "reason": "McLaren currently holds a decisive race pace advantage following a dominant performance in Hungary. Norris is in peak form, while Verstappen consistently overperforms despite Red Bull's reported car struggles and will be highly motivated at his home race. Piastri, a previous winner at Zandvoort in 2025, is expected to secure the final podium spot assuming McLaren's reliability issues are resolved."
+      "reason": "McLaren has established a decisive pace advantage following their dominant win in Hungary, with reigning champion Norris in top form. Verstappen remains the strongest challenger at his home race despite Red Bull's reported car struggles, while Piastri's history as a previous Zandvoort winner and McLaren's current performance favor a double podium for the team."
     },
-    "predicted_at": "2026-07-28T01:16:30.029196Z"
+    "predicted_at": "2026-07-29T01:18:25.275275Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Monte Carlo",
-        "circuit": "Monte Carlo",
-        "country": "Monaco",
-        "date_start": "2026-06-07T13:00:00+00:00",
-        "meeting_key": 1286
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Kimi Antonelli",
-          "2nd": "Lando Norris",
-          "3rd": "Charles Leclerc"
-        },
-        "reason": "Kimi Antonelli is the form driver of 2026, recently extending his championship lead with a win in Canada and showing a 'winning habit' that has put his rivals on the back foot. Lando Norris, the reigning champion and 2025 Monaco winner, remains highly consistent on street circuits. Charles Leclerc is favored for a podium on home soil as Ferrari has 'moved mountains' to improve their car's performance, as evidenced by their strong showing in Canada."
-      },
-      "predicted_at": "2026-06-01T02:11:46.378075Z"
-    },
     {
       "next_race": {
         "race_name": "Monte Carlo",
@@ -917,6 +899,24 @@
         "reason": "McLaren currently holds a decisive race pace advantage following a dominant performance in Hungary. Norris is in peak form, while Verstappen consistently overperforms despite Red Bull's reported car struggles and will be highly motivated at his home race. Piastri, a previous winner at Zandvoort in 2025, is expected to secure the final podium spot assuming McLaren's reliability issues are resolved."
       },
       "predicted_at": "2026-07-28T01:16:30.029196Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Zandvoort",
+        "circuit": "Zandvoort",
+        "country": "Netherlands",
+        "date_start": "2026-08-23T13:00:00+00:00",
+        "meeting_key": 1292
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Lando Norris",
+          "2nd": "Max Verstappen",
+          "3rd": "Oscar Piastri"
+        },
+        "reason": "McLaren has established a decisive pace advantage following their dominant win in Hungary, with reigning champion Norris in top form. Verstappen remains the strongest challenger at his home race despite Red Bull's reported car struggles, while Piastri's history as a previous Zandvoort winner and McLaren's current performance favor a double podium for the team."
+      },
+      "predicted_at": "2026-07-29T01:18:25.275275Z"
     }
   ]
 }

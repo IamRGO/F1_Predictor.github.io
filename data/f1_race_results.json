@@ -13377,6 +13377,15 @@
       "results": []
     },
     {
+      "session_key": 11731,
+      "meeting_key": 1308,
+      "circuit_name": "Kuala Lumpur",
+      "race_name": "Bahrain Grand Prix",
+      "results": {
+        "detail": "No results found."
+      }
+    },
+    {
       "session_key": 11383,
       "meeting_key": 1296,
       "circuit_name": "Singapore",

@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Lando Norris",
-        "2nd": "Max Verstappen",
-        "3rd": "Oscar Piastri"
+        "1st": "Max Verstappen",
+        "2nd": "Lando Norris",
+        "3rd": "Andrea Kimi Antonelli"
       },
-      "reason": "McLaren currently possesses a decisive race pace advantage, as evidenced by Norris's dominant victory in Hungary just before the summer break. While Verstappen continues to struggle with his car's balance, his history of 'over-performing' and the significant home-track advantage at Zandvoort make him the primary challenger. Piastri, who won the 2025 Dutch Grand Prix, completes the podium given McLaren's technical superiority on high-downforce circuits."
+      "reason": "Verstappen historically dominates his home race and managed a P2 in Hungary despite car struggles. Norris enters with momentum from his Hungarian GP victory and a highly competitive McLaren. Antonelli is the form driver for Mercedes, which is currently cited as having the grid's most competitive car, following his win in Belgium."
     },
-    "predicted_at": "2026-07-30T01:11:41.796771Z"
+    "predicted_at": "2026-07-31T01:24:29.017860Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Monte Carlo",
-        "circuit": "Monte Carlo",
-        "country": "Monaco",
-        "date_start": "2026-06-07T13:00:00+00:00",
-        "meeting_key": 1286
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Charles Leclerc",
-          "2nd": "Lando Norris",
-          "3rd": "Andrea Kimi Antonelli"
-        },
-        "reason": "Ferrari's low-speed mechanical grip is predicted to be the class of the field, making home favorite Leclerc the top choice for pole and victory. Norris, the 2025 winner, will be highly motivated by McLaren's 1000th GP milestone, while championship leader Antonelli's consistent 2026 form makes him a near-certainty for the podium."
-      },
-      "predicted_at": "2026-06-03T02:30:18.821775Z"
-    },
     {
       "next_race": {
         "race_name": "Monte Carlo",
@@ -917,6 +899,24 @@
         "reason": "McLaren currently possesses a decisive race pace advantage, as evidenced by Norris's dominant victory in Hungary just before the summer break. While Verstappen continues to struggle with his car's balance, his history of 'over-performing' and the significant home-track advantage at Zandvoort make him the primary challenger. Piastri, who won the 2025 Dutch Grand Prix, completes the podium given McLaren's technical superiority on high-downforce circuits."
       },
       "predicted_at": "2026-07-30T01:11:41.796771Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Zandvoort",
+        "circuit": "Zandvoort",
+        "country": "Netherlands",
+        "date_start": "2026-08-23T13:00:00+00:00",
+        "meeting_key": 1292
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Max Verstappen",
+          "2nd": "Lando Norris",
+          "3rd": "Andrea Kimi Antonelli"
+        },
+        "reason": "Verstappen historically dominates his home race and managed a P2 in Hungary despite car struggles. Norris enters with momentum from his Hungarian GP victory and a highly competitive McLaren. Antonelli is the form driver for Mercedes, which is currently cited as having the grid's most competitive car, following his win in Belgium."
+      },
+      "predicted_at": "2026-07-31T01:24:29.017860Z"
     }
   ]
 }

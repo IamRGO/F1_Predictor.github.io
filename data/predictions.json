@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Max Verstappen",
-        "2nd": "Lando Norris",
-        "3rd": "Andrea Kimi Antonelli"
+        "1st": "Andrea Kimi ANTONELLI",
+        "2nd": "Max VERSTAPPEN",
+        "3rd": "Lando NORRIS"
       },
-      "reason": "Verstappen historically dominates his home race and managed a P2 in Hungary despite car struggles. Norris enters with momentum from his Hungarian GP victory and a highly competitive McLaren. Antonelli is the form driver for Mercedes, which is currently cited as having the grid's most competitive car, following his win in Belgium."
+      "reason": "Mercedes currently holds the most competitive car on the grid according to mid-2026 reports, with Antonelli already securing multiple wins including a record-breaking five-race streak. Verstappen remains the dominant force at his home circuit in Zandvoort, while Norris enters the second half of the season with momentum from his recent victory in Hungary."
     },
-    "predicted_at": "2026-07-31T01:24:29.017860Z"
+    "predicted_at": "2026-08-01T01:26:04.090824Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Monte Carlo",
-        "circuit": "Monte Carlo",
-        "country": "Monaco",
-        "date_start": "2026-06-07T13:00:00+00:00",
-        "meeting_key": 1286
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Charles Leclerc",
-          "2nd": "Lando Norris",
-          "3rd": "Andrea Kimi Antonelli"
-        },
-        "reason": "Lando Norris has publicly identified Ferrari as the favorite for pole due to their low-speed cornering strength, making hometown hero Leclerc the primary contender. McLaren's 1000th GP milestone provides extra motivation for defending winner Norris, while Antonelli's current lead in the 2026 championship battle against Russell indicates the Mercedes is the car to beat for the final podium spot."
-      },
-      "predicted_at": "2026-06-04T02:27:02.917804Z"
-    },
     {
       "next_race": {
         "race_name": "Monte Carlo",
@@ -917,6 +899,24 @@
         "reason": "Verstappen historically dominates his home race and managed a P2 in Hungary despite car struggles. Norris enters with momentum from his Hungarian GP victory and a highly competitive McLaren. Antonelli is the form driver for Mercedes, which is currently cited as having the grid's most competitive car, following his win in Belgium."
       },
       "predicted_at": "2026-07-31T01:24:29.017860Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Zandvoort",
+        "circuit": "Zandvoort",
+        "country": "Netherlands",
+        "date_start": "2026-08-23T13:00:00+00:00",
+        "meeting_key": 1292
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi ANTONELLI",
+          "2nd": "Max VERSTAPPEN",
+          "3rd": "Lando NORRIS"
+        },
+        "reason": "Mercedes currently holds the most competitive car on the grid according to mid-2026 reports, with Antonelli already securing multiple wins including a record-breaking five-race streak. Verstappen remains the dominant force at his home circuit in Zandvoort, while Norris enters the second half of the season with momentum from his recent victory in Hungary."
+      },
+      "predicted_at": "2026-08-01T01:26:04.090824Z"
     }
   ]
 }

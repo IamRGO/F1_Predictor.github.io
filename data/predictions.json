@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Lando Norris",
+        "1st": "Andrea Kimi Antonelli",
         "2nd": "Max Verstappen",
-        "3rd": "Andrea Kimi Antonelli"
+        "3rd": "Lando Norris"
       },
-      "reason": "Lando Norris enters the second half of the season with significant momentum following his win in Hungary and his peak form as the 2025 champion. Max Verstappen is consistently on the podium and holds a massive home-track advantage at Zandvoort. Andrea Kimi Antonelli has been the breakout star of the 2026 season with a five-race winning streak and a recent victory in Belgium, benefiting from a Mercedes car described as the most competitive on the grid."
+      "reason": "Mercedes has the most competitive car on the grid in 2026, and Kimi Antonelli enters Zandvoort in elite form following a five-race winning streak and a victory at the Belgian Grand Prix. Max Verstappen is expected to secure a podium at his home race despite Red Bull's relative performance dip, while Lando Norris remains a top contender after winning the Hungarian Grand Prix and expressing high confidence in his current driving level."
     },
-    "predicted_at": "2026-08-02T01:23:27.410670Z"
+    "predicted_at": "2026-08-03T01:24:14.429122Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Monte Carlo",
-        "circuit": "Monte Carlo",
-        "country": "Monaco",
-        "date_start": "2026-06-07T13:00:00+00:00",
-        "meeting_key": 1286
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Lewis Hamilton",
-          "2nd": "Charles Leclerc",
-          "3rd": "Max Verstappen"
-        },
-        "reason": "Ferrari dominated Friday practice with Hamilton and Leclerc looking significantly faster than the field. Given Monaco's reliance on qualifying and track position, and Lando Norris's reliability issues in FP2, a Ferrari front-row lockout is likely, with Hamilton carrying more momentum into the race."
-      },
-      "predicted_at": "2026-06-06T01:53:19.074201Z"
-    },
     {
       "next_race": {
         "race_name": "Monte Carlo",
@@ -917,6 +899,24 @@
         "reason": "Lando Norris enters the second half of the season with significant momentum following his win in Hungary and his peak form as the 2025 champion. Max Verstappen is consistently on the podium and holds a massive home-track advantage at Zandvoort. Andrea Kimi Antonelli has been the breakout star of the 2026 season with a five-race winning streak and a recent victory in Belgium, benefiting from a Mercedes car described as the most competitive on the grid."
       },
       "predicted_at": "2026-08-02T01:23:27.410670Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Zandvoort",
+        "circuit": "Zandvoort",
+        "country": "Netherlands",
+        "date_start": "2026-08-23T13:00:00+00:00",
+        "meeting_key": 1292
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "Max Verstappen",
+          "3rd": "Lando Norris"
+        },
+        "reason": "Mercedes has the most competitive car on the grid in 2026, and Kimi Antonelli enters Zandvoort in elite form following a five-race winning streak and a victory at the Belgian Grand Prix. Max Verstappen is expected to secure a podium at his home race despite Red Bull's relative performance dip, while Lando Norris remains a top contender after winning the Hungarian Grand Prix and expressing high confidence in his current driving level."
+      },
+      "predicted_at": "2026-08-03T01:24:14.429122Z"
     }
   ]
 }

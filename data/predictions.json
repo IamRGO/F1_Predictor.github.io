@@ -13,29 +13,11 @@
         "2nd": "Max Verstappen",
         "3rd": "Lando Norris"
       },
-      "reason": "Mercedes has the most competitive car on the grid in 2026, and Kimi Antonelli enters Zandvoort in elite form following a five-race winning streak and a victory at the Belgian Grand Prix. Max Verstappen is expected to secure a podium at his home race despite Red Bull's relative performance dip, while Lando Norris remains a top contender after winning the Hungarian Grand Prix and expressing high confidence in his current driving level."
+      "reason": "Kimi Antonelli leads the championship with a 50-point gap and Mercedes currently possesses the most competitive car on the grid. Max Verstappen remains a dominant force at his home race in Zandvoort, while Lando Norris enters the second half of the season with momentum following his recent victory in the Hungarian Grand Prix."
     },
-    "predicted_at": "2026-08-03T01:24:14.429122Z"
+    "predicted_at": "2026-08-04T01:15:03.272283Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Monte Carlo",
-        "circuit": "Monte Carlo",
-        "country": "Monaco",
-        "date_start": "2026-06-07T13:00:00+00:00",
-        "meeting_key": 1286
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Andrea Kimi Antonelli",
-          "2nd": "Max Verstappen",
-          "3rd": "Lewis Hamilton"
-        },
-        "reason": "Track position is paramount in Monaco; Antonelli starts on pole after a record-breaking qualifying performance. Verstappen and Hamilton occupy the remaining top starting spots on a circuit where overtaking is notoriously difficult and McLaren drivers have admitted to struggling for pace."
-      },
-      "predicted_at": "2026-06-07T02:07:45.255519Z"
-    },
     {
       "next_race": {
         "race_name": "Catalunya",
@@ -917,6 +899,24 @@
         "reason": "Mercedes has the most competitive car on the grid in 2026, and Kimi Antonelli enters Zandvoort in elite form following a five-race winning streak and a victory at the Belgian Grand Prix. Max Verstappen is expected to secure a podium at his home race despite Red Bull's relative performance dip, while Lando Norris remains a top contender after winning the Hungarian Grand Prix and expressing high confidence in his current driving level."
       },
       "predicted_at": "2026-08-03T01:24:14.429122Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Zandvoort",
+        "circuit": "Zandvoort",
+        "country": "Netherlands",
+        "date_start": "2026-08-23T13:00:00+00:00",
+        "meeting_key": 1292
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "Max Verstappen",
+          "3rd": "Lando Norris"
+        },
+        "reason": "Kimi Antonelli leads the championship with a 50-point gap and Mercedes currently possesses the most competitive car on the grid. Max Verstappen remains a dominant force at his home race in Zandvoort, while Lando Norris enters the second half of the season with momentum following his recent victory in the Hungarian Grand Prix."
+      },
+      "predicted_at": "2026-08-04T01:15:03.272283Z"
     }
   ]
 }

@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Andrea Kimi ANTONELLI",
-        "2nd": "Max VERSTAPPEN",
-        "3rd": "Lando NORRIS"
+        "1st": "Andrea Kimi Antonelli",
+        "2nd": "Max Verstappen",
+        "3rd": "Lando Norris"
       },
-      "reason": "Mercedes currently possesses the most competitive car on the 2026 grid, with championship leader Antonelli entering Zandvoort with momentum after his Belgian Grand Prix victory. Verstappen is historically dominant at his home circuit and remains a consistent podium finisher, while Norris and McLaren have shown significant improvement, evidenced by their recent victory in Hungary."
+      "reason": "Kimi Antonelli enters the second half of 2026 with a commanding 50-point championship lead and superior Mercedes pace. Max Verstappen is consistently strong at his home circuit in Zandvoort, and Lando Norris carries significant momentum following his win at the Hungarian Grand Prix just before the summer break."
     },
-    "predicted_at": "2026-08-05T01:17:34.969317Z"
+    "predicted_at": "2026-08-08T00:39:44.303511Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Catalunya",
-        "circuit": "Catalunya",
-        "country": "Spain",
-        "date_start": "2026-06-14T13:00:00+00:00",
-        "meeting_key": 1287
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Andrea Kimi Antonelli",
-          "2nd": "Lewis Hamilton",
-          "3rd": "Max Verstappen"
-        },
-        "reason": "Kimi Antonelli is currently dominating the 2026 season with five consecutive wins and a massive championship lead. Lewis Hamilton has found strong form with Ferrari, securing multiple P2 finishes recently. Max Verstappen remains the primary challenger for the top spots and historically performs well at the high-downforce Catalunya circuit."
-      },
-      "predicted_at": "2026-06-09T01:50:48.103714Z"
-    },
     {
       "next_race": {
         "race_name": "Catalunya",
@@ -917,6 +899,24 @@
         "reason": "Mercedes currently possesses the most competitive car on the 2026 grid, with championship leader Antonelli entering Zandvoort with momentum after his Belgian Grand Prix victory. Verstappen is historically dominant at his home circuit and remains a consistent podium finisher, while Norris and McLaren have shown significant improvement, evidenced by their recent victory in Hungary."
       },
       "predicted_at": "2026-08-05T01:17:34.969317Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Zandvoort",
+        "circuit": "Zandvoort",
+        "country": "Netherlands",
+        "date_start": "2026-08-23T13:00:00+00:00",
+        "meeting_key": 1292
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "Max Verstappen",
+          "3rd": "Lando Norris"
+        },
+        "reason": "Kimi Antonelli enters the second half of 2026 with a commanding 50-point championship lead and superior Mercedes pace. Max Verstappen is consistently strong at his home circuit in Zandvoort, and Lando Norris carries significant momentum following his win at the Hungarian Grand Prix just before the summer break."
+      },
+      "predicted_at": "2026-08-08T00:39:44.303511Z"
     }
   ]
 }

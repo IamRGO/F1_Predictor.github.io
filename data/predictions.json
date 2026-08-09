@@ -13,29 +13,11 @@
         "2nd": "Max Verstappen",
         "3rd": "Lando Norris"
       },
-      "reason": "Kimi Antonelli enters the second half of 2026 with a commanding 50-point championship lead and superior Mercedes pace. Max Verstappen is consistently strong at his home circuit in Zandvoort, and Lando Norris carries significant momentum following his win at the Hungarian Grand Prix just before the summer break."
+      "reason": "Antonelli leads the championship by 50 points and Mercedes enters the second half as the form team. Verstappen is expected to excel at his home race to break his 2026 winless streak, while Norris maintains his momentum following a victory in Hungary before the summer break."
     },
-    "predicted_at": "2026-08-08T00:39:44.303511Z"
+    "predicted_at": "2026-08-09T00:42:15.712711Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Catalunya",
-        "circuit": "Catalunya",
-        "country": "Spain",
-        "date_start": "2026-06-14T13:00:00+00:00",
-        "meeting_key": 1287
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Andrea Kimi Antonelli",
-          "2nd": "Max Verstappen",
-          "3rd": "Lewis Hamilton"
-        },
-        "reason": "Andrea Kimi Antonelli is in dominant form for Mercedes, leading the championship by 66 points after a masterclass in Monaco. Max Verstappen is expected to bounce back at the aero-dependent Catalunya circuit after a power unit failure in Monaco, while Lewis Hamilton has moved into P2 in the standings following consecutive podiums for Ferrari."
-      },
-      "predicted_at": "2026-06-10T02:01:27.567687Z"
-    },
     {
       "next_race": {
         "race_name": "Catalunya",
@@ -917,6 +899,24 @@
         "reason": "Kimi Antonelli enters the second half of 2026 with a commanding 50-point championship lead and superior Mercedes pace. Max Verstappen is consistently strong at his home circuit in Zandvoort, and Lando Norris carries significant momentum following his win at the Hungarian Grand Prix just before the summer break."
       },
       "predicted_at": "2026-08-08T00:39:44.303511Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Zandvoort",
+        "circuit": "Zandvoort",
+        "country": "Netherlands",
+        "date_start": "2026-08-23T13:00:00+00:00",
+        "meeting_key": 1292
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "Max Verstappen",
+          "3rd": "Lando Norris"
+        },
+        "reason": "Antonelli leads the championship by 50 points and Mercedes enters the second half as the form team. Verstappen is expected to excel at his home race to break his 2026 winless streak, while Norris maintains his momentum following a victory in Hungary before the summer break."
+      },
+      "predicted_at": "2026-08-09T00:42:15.712711Z"
     }
   ]
 }

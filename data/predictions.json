@@ -10,32 +10,14 @@
     "prediction": {
       "podium": {
         "1st": "Andrea Kimi Antonelli",
-        "2nd": "Lando Norris",
-        "3rd": "Max Verstappen"
+        "2nd": "Max Verstappen",
+        "3rd": "Lewis Hamilton"
       },
-      "reason": "Andrea Kimi Antonelli currently leads the Drivers' Championship by 50 points in a dominant Mercedes. Lando Norris enters the second half of the season with momentum following his recent win in Hungary. Although Max Verstappen is yet to win a Grand Prix in 2026, he is expected to secure a podium finish at his home race in Zandvoort where he has historically excelled."
+      "reason": "Mercedes enters the second half of 2026 as the dominant force with Kimi Antonelli leading the championship by 50 points. While Verstappen is exceptionally strong at his home race in Zandvoort, the current Mercedes performance advantage suggests an Antonelli victory, with Hamilton rounding out the podium as Ferrari remains the most consistent challenger to the Silver Arrows."
     },
-    "predicted_at": "2026-08-11T00:44:29.094103Z"
+    "predicted_at": "2026-08-12T00:51:33.509886Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Catalunya",
-        "circuit": "Catalunya",
-        "country": "Spain",
-        "date_start": "2026-06-14T13:00:00+00:00",
-        "meeting_key": 1287
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Lando Norris",
-          "2nd": "George Russell",
-          "3rd": "Oscar Piastri"
-        },
-        "reason": "Lando Norris topped FP2 and shows strong pace as the reigning champion, while George Russell dominated FP1 and remains the lead Mercedes threat. Oscar Piastri was consistently in the top three during practice, whereas Red Bull and Ferrari reported performance gaps and technical issues on Friday."
-      },
-      "predicted_at": "2026-06-13T02:01:40.540708Z"
-    },
     {
       "next_race": {
         "race_name": "Catalunya",
@@ -917,6 +899,24 @@
         "reason": "Andrea Kimi Antonelli currently leads the Drivers' Championship by 50 points in a dominant Mercedes. Lando Norris enters the second half of the season with momentum following his recent win in Hungary. Although Max Verstappen is yet to win a Grand Prix in 2026, he is expected to secure a podium finish at his home race in Zandvoort where he has historically excelled."
       },
       "predicted_at": "2026-08-11T00:44:29.094103Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Zandvoort",
+        "circuit": "Zandvoort",
+        "country": "Netherlands",
+        "date_start": "2026-08-23T13:00:00+00:00",
+        "meeting_key": 1292
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "Max Verstappen",
+          "3rd": "Lewis Hamilton"
+        },
+        "reason": "Mercedes enters the second half of 2026 as the dominant force with Kimi Antonelli leading the championship by 50 points. While Verstappen is exceptionally strong at his home race in Zandvoort, the current Mercedes performance advantage suggests an Antonelli victory, with Hamilton rounding out the podium as Ferrari remains the most consistent challenger to the Silver Arrows."
+      },
+      "predicted_at": "2026-08-12T00:51:33.509886Z"
     }
   ]
 }

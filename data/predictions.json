@@ -10,32 +10,14 @@
     "prediction": {
       "podium": {
         "1st": "Max Verstappen",
-        "2nd": "Lando Norris",
+        "2nd": "Andrea Kimi Antonelli",
         "3rd": "Oscar Piastri"
       },
-      "reason": "Max Verstappen is the favorite for his home race at Zandvoort, especially as Red Bull looks to reclaim dominance after the summer break. McLaren remains the most consistent threat, with Norris and Piastri frequently appearing on the podium throughout 2025 and 2026, and Piastri being the defending winner of this Grand Prix."
+      "reason": "Verstappen is the home favorite and historically dominant at Zandvoort. Antonelli is the standout performer of 2026, having a 'dream season' in a Mercedes car that Ferrari is currently struggling to catch. Piastri, the winner of the 2025 Dutch Grand Prix, remains a strong technical contender on this circuit."
     },
-    "predicted_at": "2026-08-14T00:52:04.117292Z"
+    "predicted_at": "2026-08-15T00:29:12.343590Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Spielberg",
-        "circuit": "Spielberg",
-        "country": "Austria",
-        "date_start": "2026-06-28T13:00:00+00:00",
-        "meeting_key": 1288
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Kimi Antonelli",
-          "2nd": "George Russell",
-          "3rd": "Lewis Hamilton"
-        },
-        "reason": "Mercedes currently has the fastest car with Russell on pole and Antonelli leading the championship prior to his Barcelona DNF. Antonelli is poised for a bounce-back win at the power-sensitive Spielberg circuit, while Hamilton's recent victory for Ferrari signals that the Italian team has overtaken McLaren as the primary challenger to Mercedes dominance."
-      },
-      "predicted_at": "2026-06-16T02:30:29.519974Z"
-    },
     {
       "next_race": {
         "race_name": "Spielberg",
@@ -917,6 +899,24 @@
         "reason": "Max Verstappen is the favorite for his home race at Zandvoort, especially as Red Bull looks to reclaim dominance after the summer break. McLaren remains the most consistent threat, with Norris and Piastri frequently appearing on the podium throughout 2025 and 2026, and Piastri being the defending winner of this Grand Prix."
       },
       "predicted_at": "2026-08-14T00:52:04.117292Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Zandvoort",
+        "circuit": "Zandvoort",
+        "country": "Netherlands",
+        "date_start": "2026-08-23T13:00:00+00:00",
+        "meeting_key": 1292
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Max Verstappen",
+          "2nd": "Andrea Kimi Antonelli",
+          "3rd": "Oscar Piastri"
+        },
+        "reason": "Verstappen is the home favorite and historically dominant at Zandvoort. Antonelli is the standout performer of 2026, having a 'dream season' in a Mercedes car that Ferrari is currently struggling to catch. Piastri, the winner of the 2025 Dutch Grand Prix, remains a strong technical contender on this circuit."
+      },
+      "predicted_at": "2026-08-15T00:29:12.343590Z"
     }
   ]
 }

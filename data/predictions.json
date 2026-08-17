@@ -10,32 +10,14 @@
     "prediction": {
       "podium": {
         "1st": "Andrea Kimi Antonelli",
-        "2nd": "Max Verstappen",
-        "3rd": "George Russell"
+        "2nd": "Charles Leclerc",
+        "3rd": "Max Verstappen"
       },
-      "reason": "Andrea Kimi Antonelli is the dominant championship leader in 2026 according to recent news. Max Verstappen, while no longer in the fastest car, historically excels at his home race in Zandvoort. Mercedes is currently the team to beat, making a double podium for them with Russell highly probable."
+      "reason": "In the 2026 season, Mercedes has emerged as the dominant force with championship leader Andrea Kimi Antonelli consistently winning. Ferrari is currently the closest challenger, and team principal Vasseur has promised power unit upgrades for Zandvoort. Despite Red Bull's drop to fourth in the Constructors' standings, Verstappen remains a podium favorite at his home circuit where he has a strong historical record."
     },
-    "predicted_at": "2026-08-16T00:30:07.870136Z"
+    "predicted_at": "2026-08-17T00:28:51.891659Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Spielberg",
-        "circuit": "Spielberg",
-        "country": "Austria",
-        "date_start": "2026-06-28T13:00:00+00:00",
-        "meeting_key": 1288
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Lando Norris",
-          "2nd": "Lewis Hamilton",
-          "3rd": "Max Verstappen"
-        },
-        "reason": "Norris won the 2025 Austrian Grand Prix and remains a dominant force at the Spielberg circuit. Hamilton carries significant momentum after his breakthrough victory for Ferrari in Spain, while Verstappen remains a constant podium threat at Red Bull's home race despite the tightening championship battle between McLaren, Ferrari, and Mercedes."
-      },
-      "predicted_at": "2026-06-20T02:02:18.098151Z"
-    },
     {
       "next_race": {
         "race_name": "Spielberg",
@@ -917,6 +899,24 @@
         "reason": "Andrea Kimi Antonelli is the dominant championship leader in 2026 according to recent news. Max Verstappen, while no longer in the fastest car, historically excels at his home race in Zandvoort. Mercedes is currently the team to beat, making a double podium for them with Russell highly probable."
       },
       "predicted_at": "2026-08-16T00:30:07.870136Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Zandvoort",
+        "circuit": "Zandvoort",
+        "country": "Netherlands",
+        "date_start": "2026-08-23T13:00:00+00:00",
+        "meeting_key": 1292
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "Charles Leclerc",
+          "3rd": "Max Verstappen"
+        },
+        "reason": "In the 2026 season, Mercedes has emerged as the dominant force with championship leader Andrea Kimi Antonelli consistently winning. Ferrari is currently the closest challenger, and team principal Vasseur has promised power unit upgrades for Zandvoort. Despite Red Bull's drop to fourth in the Constructors' standings, Verstappen remains a podium favorite at his home circuit where he has a strong historical record."
+      },
+      "predicted_at": "2026-08-17T00:28:51.891659Z"
     }
   ]
 }

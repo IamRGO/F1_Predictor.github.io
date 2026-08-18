@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Andrea Kimi Antonelli",
-        "2nd": "Charles Leclerc",
-        "3rd": "Max Verstappen"
+        "1st": "Lando Norris",
+        "2nd": "Max Verstappen",
+        "3rd": "Oscar Piastri"
       },
-      "reason": "In the 2026 season, Mercedes has emerged as the dominant force with championship leader Andrea Kimi Antonelli consistently winning. Ferrari is currently the closest challenger, and team principal Vasseur has promised power unit upgrades for Zandvoort. Despite Red Bull's drop to fourth in the Constructors' standings, Verstappen remains a podium favorite at his home circuit where he has a strong historical record."
+      "reason": "McLaren enters the second half of 2026 with a major development push that Team Principal Andrea Stella believes will return them to dominance. While Red Bull has struggled in 2026 (sitting 4th in the standings), Verstappen's home-field advantage and historical performance at Zandvoort make him a lock for the podium. Norris is favored for the win given his high volume of victories in the latter half of 2025 and McLaren's current trajectory, while Piastri (the 2025 Zandvoort winner) remains a consistent top-three threat."
     },
-    "predicted_at": "2026-08-17T00:28:51.891659Z"
+    "predicted_at": "2026-08-18T00:28:14.476702Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Spielberg",
-        "circuit": "Spielberg",
-        "country": "Austria",
-        "date_start": "2026-06-28T13:00:00+00:00",
-        "meeting_key": 1288
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Lando Norris",
-          "2nd": "Lewis Hamilton",
-          "3rd": "George Russell"
-        },
-        "reason": "Lando Norris is the defending winner at Spielberg and historically excels at this circuit. Lewis Hamilton enters with high momentum following his breakthrough victory for Ferrari in Spain, while George Russell remains a primary title contender in the 2026 regulations era."
-      },
-      "predicted_at": "2026-06-21T02:14:14.989916Z"
-    },
     {
       "next_race": {
         "race_name": "Spielberg",
@@ -917,6 +899,24 @@
         "reason": "In the 2026 season, Mercedes has emerged as the dominant force with championship leader Andrea Kimi Antonelli consistently winning. Ferrari is currently the closest challenger, and team principal Vasseur has promised power unit upgrades for Zandvoort. Despite Red Bull's drop to fourth in the Constructors' standings, Verstappen remains a podium favorite at his home circuit where he has a strong historical record."
       },
       "predicted_at": "2026-08-17T00:28:51.891659Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Zandvoort",
+        "circuit": "Zandvoort",
+        "country": "Netherlands",
+        "date_start": "2026-08-23T13:00:00+00:00",
+        "meeting_key": 1292
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Lando Norris",
+          "2nd": "Max Verstappen",
+          "3rd": "Oscar Piastri"
+        },
+        "reason": "McLaren enters the second half of 2026 with a major development push that Team Principal Andrea Stella believes will return them to dominance. While Red Bull has struggled in 2026 (sitting 4th in the standings), Verstappen's home-field advantage and historical performance at Zandvoort make him a lock for the podium. Norris is favored for the win given his high volume of victories in the latter half of 2025 and McLaren's current trajectory, while Piastri (the 2025 Zandvoort winner) remains a consistent top-three threat."
+      },
+      "predicted_at": "2026-08-18T00:28:14.476702Z"
     }
   ]
 }

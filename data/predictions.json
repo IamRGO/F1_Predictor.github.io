@@ -10,32 +10,14 @@
     "prediction": {
       "podium": {
         "1st": "Max Verstappen",
-        "2nd": "Oscar Piastri",
+        "2nd": "Lando Norris",
         "3rd": "Andrea Kimi Antonelli"
       },
-      "reason": "Verstappen is a home favorite and ended the 2025 season dominantly. Piastri won at Zandvoort last year and McLaren's development remains strong, while Antonelli enters the weekend as the 2026 championship leader with high momentum."
+      "reason": "Max Verstappen is the favorite at his home race following his 2030 contract extension and strong historical performance at Zandvoort. Lando Norris enters with momentum after winning the previous race in Hungary, while championship leader Andrea Kimi Antonelli is expected to continue his consistent podium form."
     },
-    "predicted_at": "2026-08-20T00:28:49.891869Z"
+    "predicted_at": "2026-08-21T00:31:35.853151Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Spielberg",
-        "circuit": "Spielberg",
-        "country": "Austria",
-        "date_start": "2026-06-28T13:00:00+00:00",
-        "meeting_key": 1288
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Lando Norris",
-          "2nd": "Lewis Hamilton",
-          "3rd": "George Russell"
-        },
-        "reason": "Lando Norris is the defending winner in Spielberg and historically excels at this track, making him the favorite. Lewis Hamilton enters with high momentum following his first Ferrari victory in Barcelona, while George Russell remains a consistent frontrunner in the Mercedes championship-leading package, benefiting from the team's strong 2026 form."
-      },
-      "predicted_at": "2026-06-23T01:56:09.275510Z"
-    },
     {
       "next_race": {
         "race_name": "Spielberg",
@@ -917,6 +899,24 @@
         "reason": "Verstappen is a home favorite and ended the 2025 season dominantly. Piastri won at Zandvoort last year and McLaren's development remains strong, while Antonelli enters the weekend as the 2026 championship leader with high momentum."
       },
       "predicted_at": "2026-08-20T00:28:49.891869Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Zandvoort",
+        "circuit": "Zandvoort",
+        "country": "Netherlands",
+        "date_start": "2026-08-23T13:00:00+00:00",
+        "meeting_key": 1292
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Max Verstappen",
+          "2nd": "Lando Norris",
+          "3rd": "Andrea Kimi Antonelli"
+        },
+        "reason": "Max Verstappen is the favorite at his home race following his 2030 contract extension and strong historical performance at Zandvoort. Lando Norris enters with momentum after winning the previous race in Hungary, while championship leader Andrea Kimi Antonelli is expected to continue his consistent podium form."
+      },
+      "predicted_at": "2026-08-21T00:31:35.853151Z"
     }
   ]
 }

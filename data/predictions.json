@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Max Verstappen",
+        "1st": "George Russell",
         "2nd": "Lando Norris",
-        "3rd": "Andrea Kimi Antonelli"
+        "3rd": "Charles Leclerc"
       },
-      "reason": "Max Verstappen is the favorite at his home race following his 2030 contract extension and strong historical performance at Zandvoort. Lando Norris enters with momentum after winning the previous race in Hungary, while championship leader Andrea Kimi Antonelli is expected to continue his consistent podium form."
+      "reason": "George Russell starts on pole position at Zandvoort, a circuit where track position is critical. While championship leader Kimi Antonelli showed the fastest raw pace in practice, his P5 start and floor damage in qualifying give the advantage to the top three starters. Lando Norris remains the most consistent podium finisher in 2025/26, and Charles Leclerc's high confidence following his 'best lap of the year' makes him the favorite to hold the final podium spot over a struggling Max Verstappen."
     },
-    "predicted_at": "2026-08-21T00:31:35.853151Z"
+    "predicted_at": "2026-08-22T00:28:50.265008Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Spielberg",
-        "circuit": "Spielberg",
-        "country": "Austria",
-        "date_start": "2026-06-28T13:00:00+00:00",
-        "meeting_key": 1288
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Lando Norris",
-          "2nd": "Max Verstappen",
-          "3rd": "Lewis Hamilton"
-        },
-        "reason": "Lando Norris won the 2025 Austrian Grand Prix and historically excels at the Red Bull Ring. Max Verstappen is a perennial favorite at Red Bull's home circuit, while Lewis Hamilton enters with high momentum following his first victory for Ferrari at the preceding Spanish Grand Prix."
-      },
-      "predicted_at": "2026-06-25T01:59:17.577890Z"
-    },
     {
       "next_race": {
         "race_name": "Spielberg",
@@ -917,6 +899,24 @@
         "reason": "Max Verstappen is the favorite at his home race following his 2030 contract extension and strong historical performance at Zandvoort. Lando Norris enters with momentum after winning the previous race in Hungary, while championship leader Andrea Kimi Antonelli is expected to continue his consistent podium form."
       },
       "predicted_at": "2026-08-21T00:31:35.853151Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Zandvoort",
+        "circuit": "Zandvoort",
+        "country": "Netherlands",
+        "date_start": "2026-08-23T13:00:00+00:00",
+        "meeting_key": 1292
+      },
+      "prediction": {
+        "podium": {
+          "1st": "George Russell",
+          "2nd": "Lando Norris",
+          "3rd": "Charles Leclerc"
+        },
+        "reason": "George Russell starts on pole position at Zandvoort, a circuit where track position is critical. While championship leader Kimi Antonelli showed the fastest raw pace in practice, his P5 start and floor damage in qualifying give the advantage to the top three starters. Lando Norris remains the most consistent podium finisher in 2025/26, and Charles Leclerc's high confidence following his 'best lap of the year' makes him the favorite to hold the final podium spot over a struggling Max Verstappen."
+      },
+      "predicted_at": "2026-08-22T00:28:50.265008Z"
     }
   ]
 }

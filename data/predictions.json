@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "George Russell",
-        "2nd": "Lando Norris",
-        "3rd": "Charles Leclerc"
+        "1st": "Lando Norris",
+        "2nd": "George Russell",
+        "3rd": "Oscar Piastri"
       },
-      "reason": "George Russell starts on pole position at Zandvoort, a circuit where track position is critical. While championship leader Kimi Antonelli showed the fastest raw pace in practice, his P5 start and floor damage in qualifying give the advantage to the top three starters. Lando Norris remains the most consistent podium finisher in 2025/26, and Charles Leclerc's high confidence following his 'best lap of the year' makes him the favorite to hold the final podium spot over a struggling Max Verstappen."
+      "reason": "Lando Norris secured pole position and is in peak form following a win in Hungary. George Russell won the Sprint race from pole and starts P2, demonstrating strong Mercedes race pace. Oscar Piastri, the 2025 Zandvoort winner, remains highly competitive in the superior McLaren, while home-favorite Max Verstappen faces a difficult race starting from 7th."
     },
-    "predicted_at": "2026-08-22T00:28:50.265008Z"
+    "predicted_at": "2026-08-23T00:31:21.043344Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Spielberg",
-        "circuit": "Spielberg",
-        "country": "Austria",
-        "date_start": "2026-06-28T13:00:00+00:00",
-        "meeting_key": 1288
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Lewis Hamilton",
-          "2nd": "Max Verstappen",
-          "3rd": "George Russell"
-        },
-        "reason": "Hamilton enters with momentum from his first Ferrari victory in Barcelona and a significant power unit upgrade for the Austrian altitude. Verstappen is expected to challenge strongly with Red Bull's home-race upgrade package, while Russell remains a consistent front-runner for the pace-setting Mercedes team in the 2026 title fight."
-      },
-      "predicted_at": "2026-06-26T02:00:42.733310Z"
-    },
     {
       "next_race": {
         "race_name": "Spielberg",
@@ -917,6 +899,24 @@
         "reason": "George Russell starts on pole position at Zandvoort, a circuit where track position is critical. While championship leader Kimi Antonelli showed the fastest raw pace in practice, his P5 start and floor damage in qualifying give the advantage to the top three starters. Lando Norris remains the most consistent podium finisher in 2025/26, and Charles Leclerc's high confidence following his 'best lap of the year' makes him the favorite to hold the final podium spot over a struggling Max Verstappen."
       },
       "predicted_at": "2026-08-22T00:28:50.265008Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Zandvoort",
+        "circuit": "Zandvoort",
+        "country": "Netherlands",
+        "date_start": "2026-08-23T13:00:00+00:00",
+        "meeting_key": 1292
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Lando Norris",
+          "2nd": "George Russell",
+          "3rd": "Oscar Piastri"
+        },
+        "reason": "Lando Norris secured pole position and is in peak form following a win in Hungary. George Russell won the Sprint race from pole and starts P2, demonstrating strong Mercedes race pace. Oscar Piastri, the 2025 Zandvoort winner, remains highly competitive in the superior McLaren, while home-favorite Max Verstappen faces a difficult race starting from 7th."
+      },
+      "predicted_at": "2026-08-23T00:31:21.043344Z"
     }
   ]
 }

@@ -1,41 +1,23 @@
 {
   "latest": {
     "next_race": {
-      "race_name": "Zandvoort",
-      "circuit": "Zandvoort",
-      "country": "Netherlands",
-      "date_start": "2026-08-23T13:00:00+00:00",
-      "meeting_key": 1292
+      "race_name": "Monza",
+      "circuit": "Monza",
+      "country": "Italy",
+      "date_start": "2026-09-06T13:00:00+00:00",
+      "meeting_key": 1293
     },
     "prediction": {
       "podium": {
         "1st": "Lando Norris",
-        "2nd": "George Russell",
-        "3rd": "Oscar Piastri"
+        "2nd": "Max Verstappen",
+        "3rd": "George Russell"
       },
-      "reason": "Lando Norris secured pole position and is in peak form following a win in Hungary. George Russell won the Sprint race from pole and starts P2, demonstrating strong Mercedes race pace. Oscar Piastri, the 2025 Zandvoort winner, remains highly competitive in the superior McLaren, while home-favorite Max Verstappen faces a difficult race starting from 7th."
+      "reason": "Lando Norris enters Monza with significant momentum following back-to-back wins in Hungary and Zandvoort. While Max Verstappen is coming off a major crash, he is a Monza specialist and Red Bull's aerodynamic efficiency traditionally excels at the 'Temple of Speed.' George Russell is selected for third after showing superior pace in the Zandvoort sprint and qualifying, narrowly missing the podium in the previous race due to Mercedes team dynamics."
     },
-    "predicted_at": "2026-08-23T00:31:21.043344Z"
+    "predicted_at": "2026-08-24T00:30:15.237407Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Spielberg",
-        "circuit": "Spielberg",
-        "country": "Austria",
-        "date_start": "2026-06-28T13:00:00+00:00",
-        "meeting_key": 1288
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Andrea Kimi Antonelli",
-          "2nd": "Oscar Piastri",
-          "3rd": "Max Verstappen"
-        },
-        "reason": "Andrea Kimi Antonelli dominated Friday by sweeping both practice sessions for Mercedes, who appear to have a pace advantage in Spielberg. Piastri was the closest challenger in FP2, and Verstappen is expected to remain a podium threat at Red Bull's home track following the introduction of a significant aerodynamic upgrade package."
-      },
-      "predicted_at": "2026-06-27T01:54:41.994583Z"
-    },
     {
       "next_race": {
         "race_name": "Spielberg",
@@ -917,6 +899,24 @@
         "reason": "Lando Norris secured pole position and is in peak form following a win in Hungary. George Russell won the Sprint race from pole and starts P2, demonstrating strong Mercedes race pace. Oscar Piastri, the 2025 Zandvoort winner, remains highly competitive in the superior McLaren, while home-favorite Max Verstappen faces a difficult race starting from 7th."
       },
       "predicted_at": "2026-08-23T00:31:21.043344Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Monza",
+        "circuit": "Monza",
+        "country": "Italy",
+        "date_start": "2026-09-06T13:00:00+00:00",
+        "meeting_key": 1293
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Lando Norris",
+          "2nd": "Max Verstappen",
+          "3rd": "George Russell"
+        },
+        "reason": "Lando Norris enters Monza with significant momentum following back-to-back wins in Hungary and Zandvoort. While Max Verstappen is coming off a major crash, he is a Monza specialist and Red Bull's aerodynamic efficiency traditionally excels at the 'Temple of Speed.' George Russell is selected for third after showing superior pace in the Zandvoort sprint and qualifying, narrowly missing the podium in the previous race due to Mercedes team dynamics."
+      },
+      "predicted_at": "2026-08-24T00:30:15.237407Z"
     }
   ]
 }

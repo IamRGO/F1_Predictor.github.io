@@ -10,32 +10,14 @@
     "prediction": {
       "podium": {
         "1st": "Lando Norris",
-        "2nd": "Max Verstappen",
-        "3rd": "George Russell"
+        "2nd": "Kimi Antonelli",
+        "3rd": "Charles Leclerc"
       },
-      "reason": "Lando Norris enters Monza with significant momentum following back-to-back wins in Hungary and Zandvoort. While Max Verstappen is coming off a major crash, he is a Monza specialist and Red Bull's aerodynamic efficiency traditionally excels at the 'Temple of Speed.' George Russell is selected for third after showing superior pace in the Zandvoort sprint and qualifying, narrowly missing the podium in the previous race due to Mercedes team dynamics."
+      "reason": "Lando Norris is currently the form driver with back-to-back victories and a McLaren that has overcome Mercedes' early-season dominance. Championship leader Kimi Antonelli remains a consistent podium threat for Mercedes, while Ferrari showed strong race pace at Zandvoort, positioning Leclerc well for a podium at their home race in Monza."
     },
-    "predicted_at": "2026-08-24T00:30:15.237407Z"
+    "predicted_at": "2026-08-25T00:29:42.285952Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Spielberg",
-        "circuit": "Spielberg",
-        "country": "Austria",
-        "date_start": "2026-06-28T13:00:00+00:00",
-        "meeting_key": 1288
-      },
-      "prediction": {
-        "podium": {
-          "1st": "George Russell",
-          "2nd": "Charles Leclerc",
-          "3rd": "Andrea Kimi Antonelli"
-        },
-        "reason": "George Russell starts on pole with Mercedes showing dominant pace throughout the weekend, having topped multiple practice sessions. Charles Leclerc starts alongside him in P2, while Andrea Kimi Antonelli, who was the fastest driver in all Friday practice sessions, is expected to recover from a Q3 mistake to secure a podium finish given the superior Mercedes car performance and Max Verstappen's car handling issues and qualifying crash."
-      },
-      "predicted_at": "2026-06-28T02:04:43.434489Z"
-    },
     {
       "next_race": {
         "race_name": "Silverstone",
@@ -917,6 +899,24 @@
         "reason": "Lando Norris enters Monza with significant momentum following back-to-back wins in Hungary and Zandvoort. While Max Verstappen is coming off a major crash, he is a Monza specialist and Red Bull's aerodynamic efficiency traditionally excels at the 'Temple of Speed.' George Russell is selected for third after showing superior pace in the Zandvoort sprint and qualifying, narrowly missing the podium in the previous race due to Mercedes team dynamics."
       },
       "predicted_at": "2026-08-24T00:30:15.237407Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Monza",
+        "circuit": "Monza",
+        "country": "Italy",
+        "date_start": "2026-09-06T13:00:00+00:00",
+        "meeting_key": 1293
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Lando Norris",
+          "2nd": "Kimi Antonelli",
+          "3rd": "Charles Leclerc"
+        },
+        "reason": "Lando Norris is currently the form driver with back-to-back victories and a McLaren that has overcome Mercedes' early-season dominance. Championship leader Kimi Antonelli remains a consistent podium threat for Mercedes, while Ferrari showed strong race pace at Zandvoort, positioning Leclerc well for a podium at their home race in Monza."
+      },
+      "predicted_at": "2026-08-25T00:29:42.285952Z"
     }
   ]
 }

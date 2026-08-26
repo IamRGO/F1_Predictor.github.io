@@ -10,32 +10,14 @@
     "prediction": {
       "podium": {
         "1st": "Lando Norris",
-        "2nd": "Kimi Antonelli",
-        "3rd": "Charles Leclerc"
+        "2nd": "Andrea Kimi Antonelli",
+        "3rd": "Max Verstappen"
       },
-      "reason": "Lando Norris is currently the form driver with back-to-back victories and a McLaren that has overcome Mercedes' early-season dominance. Championship leader Kimi Antonelli remains a consistent podium threat for Mercedes, while Ferrari showed strong race pace at Zandvoort, positioning Leclerc well for a podium at their home race in Monza."
+      "reason": "Lando Norris is in peak form with back-to-back victories and poles, showing that McLaren currently has the pace to challenge for the title. Andrea Kimi Antonelli, the championship leader and home favorite, has been consistently on the podium and will be highly motivated at Monza. Max Verstappen, the 2025 Monza winner, is expected to recover from a difficult Zandvoort weekend to secure a podium on this high-speed circuit."
     },
-    "predicted_at": "2026-08-25T00:29:42.285952Z"
+    "predicted_at": "2026-08-26T00:30:46.157753Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Silverstone",
-        "circuit": "Silverstone",
-        "country": "United Kingdom",
-        "date_start": "2026-07-05T14:00:00+00:00",
-        "meeting_key": 1289
-      },
-      "prediction": {
-        "podium": {
-          "1st": "George Russell",
-          "2nd": "Kimi Antonelli",
-          "3rd": "Max Verstappen"
-        },
-        "reason": "Mercedes has regained its status as the team to beat, with Russell coming off a win in Austria and Antonelli leading the 2026 championship. Silverstone's high-speed layout perfectly suits the current Mercedes W17, while Verstappen's recent Red Bull upgrades have successfully returned him to the front of the pack, as evidenced by his second-place finish at the Red Bull Ring."
-      },
-      "predicted_at": "2026-06-29T02:05:20.040442Z"
-    },
     {
       "next_race": {
         "race_name": "Silverstone",
@@ -917,6 +899,24 @@
         "reason": "Lando Norris is currently the form driver with back-to-back victories and a McLaren that has overcome Mercedes' early-season dominance. Championship leader Kimi Antonelli remains a consistent podium threat for Mercedes, while Ferrari showed strong race pace at Zandvoort, positioning Leclerc well for a podium at their home race in Monza."
       },
       "predicted_at": "2026-08-25T00:29:42.285952Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Monza",
+        "circuit": "Monza",
+        "country": "Italy",
+        "date_start": "2026-09-06T13:00:00+00:00",
+        "meeting_key": 1293
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Lando Norris",
+          "2nd": "Andrea Kimi Antonelli",
+          "3rd": "Max Verstappen"
+        },
+        "reason": "Lando Norris is in peak form with back-to-back victories and poles, showing that McLaren currently has the pace to challenge for the title. Andrea Kimi Antonelli, the championship leader and home favorite, has been consistently on the podium and will be highly motivated at Monza. Max Verstappen, the 2025 Monza winner, is expected to recover from a difficult Zandvoort weekend to secure a podium on this high-speed circuit."
+      },
+      "predicted_at": "2026-08-26T00:30:46.157753Z"
     }
   ]
 }

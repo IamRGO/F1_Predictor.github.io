@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Lando Norris",
-        "2nd": "Max Verstappen",
-        "3rd": "Oscar Piastri"
+        "1st": "Max Verstappen",
+        "2nd": "Lando Norris",
+        "3rd": "Lewis Hamilton"
       },
-      "reason": "Lando Norris is in peak form with back-to-back wins, and McLaren currently possesses the fastest car on the grid. While Max Verstappen benefits from Red Bull's superior engine power at Monza, the grid penalty for championship leader Kimi Antonelli significantly hampers Mercedes' chances, allowing Oscar Piastri to secure another podium for the dominant McLaren team."
+      "reason": "Red Bull still possesses the most powerful engine on the grid, which is a decisive advantage at high-speed Monza. While Lando Norris is in peak form with back-to-back wins, the power advantage favors Verstappen. Lewis Hamilton is predicted to take third, benefiting from Ferrari's home-turf motivation and championship leader Kimi Antonelli's grid penalty."
     },
-    "predicted_at": "2026-08-28T07:16:38.470205Z"
+    "predicted_at": "2026-08-29T04:27:47.133421Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Silverstone",
-        "circuit": "Silverstone",
-        "country": "United Kingdom",
-        "date_start": "2026-07-05T14:00:00+00:00",
-        "meeting_key": 1289
-      },
-      "prediction": {
-        "podium": {
-          "1st": "George Russell",
-          "2nd": "Lando Norris",
-          "3rd": "Max Verstappen"
-        },
-        "reason": "George Russell enters his home Grand Prix with significant momentum following a victory in Austria and a strong Mercedes performance. Lando Norris, the defending 2025 champion and previous Silverstone winner, remains a primary threat, while Max Verstappen and Red Bull are showing a reported 'upturn in form' that positions them back on the podium."
-      },
-      "predicted_at": "2026-07-03T01:28:40.150427Z"
-    },
     {
       "next_race": {
         "race_name": "Silverstone",
@@ -917,6 +899,24 @@
         "reason": "Lando Norris is in peak form with back-to-back wins, and McLaren currently possesses the fastest car on the grid. While Max Verstappen benefits from Red Bull's superior engine power at Monza, the grid penalty for championship leader Kimi Antonelli significantly hampers Mercedes' chances, allowing Oscar Piastri to secure another podium for the dominant McLaren team."
       },
       "predicted_at": "2026-08-28T07:16:38.470205Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Monza",
+        "circuit": "Monza",
+        "country": "Italy",
+        "date_start": "2026-09-06T13:00:00+00:00",
+        "meeting_key": 1293
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Max Verstappen",
+          "2nd": "Lando Norris",
+          "3rd": "Lewis Hamilton"
+        },
+        "reason": "Red Bull still possesses the most powerful engine on the grid, which is a decisive advantage at high-speed Monza. While Lando Norris is in peak form with back-to-back wins, the power advantage favors Verstappen. Lewis Hamilton is predicted to take third, benefiting from Ferrari's home-turf motivation and championship leader Kimi Antonelli's grid penalty."
+      },
+      "predicted_at": "2026-08-29T04:27:47.133421Z"
     }
   ]
 }

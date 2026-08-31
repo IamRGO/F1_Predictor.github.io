@@ -13,29 +13,11 @@
         "2nd": "Max Verstappen",
         "3rd": "Oscar Piastri"
       },
-      "reason": "Lando Norris enters Monza with immense momentum following back-to-back victories and the confirmation of McLaren having the fastest car on the grid. While Max Verstappen's Red Bull still possesses the most powerful engine\u2014a critical advantage at the 'Temple of Speed'\u2014McLaren's overall package is currently superior. Oscar Piastri is likely to complete the podium as McLaren's dominance continues, especially with championship leader Kimi Antonelli facing a grid penalty."
+      "reason": "Lando Norris enters Monza with high momentum after back-to-back victories and his 2025 championship title. Although Red Bull retains the most powerful engine for this high-speed track, McLaren's current package is the most consistent, while championship leader Kimi Antonelli is hindered by a grid penalty."
     },
-    "predicted_at": "2026-08-30T01:56:22.225119Z"
+    "predicted_at": "2026-08-31T01:52:40.298990Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Silverstone",
-        "circuit": "Silverstone",
-        "country": "United Kingdom",
-        "date_start": "2026-07-05T14:00:00+00:00",
-        "meeting_key": 1289
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Andrea Kimi Antonelli",
-          "2nd": "Charles Leclerc",
-          "3rd": "Lewis Hamilton"
-        },
-        "reason": "Kimi Antonelli is the form driver of the weekend, having won the Sprint and secured pole position for Mercedes. Ferrari has shown significant improvement at Silverstone, with Leclerc and Hamilton qualifying second and third respectively. Conversely, 2025 frontrunners Max Verstappen and Lando Norris are struggling with technical issues and a lack of pace, making a podium for the top three qualifiers highly likely."
-      },
-      "predicted_at": "2026-07-05T01:44:25.910272Z"
-    },
     {
       "next_race": {
         "race_name": "Spa-Francorchamps",
@@ -917,6 +899,24 @@
         "reason": "Lando Norris enters Monza with immense momentum following back-to-back victories and the confirmation of McLaren having the fastest car on the grid. While Max Verstappen's Red Bull still possesses the most powerful engine\u2014a critical advantage at the 'Temple of Speed'\u2014McLaren's overall package is currently superior. Oscar Piastri is likely to complete the podium as McLaren's dominance continues, especially with championship leader Kimi Antonelli facing a grid penalty."
       },
       "predicted_at": "2026-08-30T01:56:22.225119Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Monza",
+        "circuit": "Monza",
+        "country": "Italy",
+        "date_start": "2026-09-06T13:00:00+00:00",
+        "meeting_key": 1293
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Lando Norris",
+          "2nd": "Max Verstappen",
+          "3rd": "Oscar Piastri"
+        },
+        "reason": "Lando Norris enters Monza with high momentum after back-to-back victories and his 2025 championship title. Although Red Bull retains the most powerful engine for this high-speed track, McLaren's current package is the most consistent, while championship leader Kimi Antonelli is hindered by a grid penalty."
+      },
+      "predicted_at": "2026-08-31T01:52:40.298990Z"
     }
   ]
 }

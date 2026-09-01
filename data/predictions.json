@@ -11,31 +11,13 @@
       "podium": {
         "1st": "Lando Norris",
         "2nd": "Max Verstappen",
-        "3rd": "Oscar Piastri"
+        "3rd": "Andrea Kimi Antonelli"
       },
-      "reason": "Lando Norris enters Monza with high momentum after back-to-back victories and his 2025 championship title. Although Red Bull retains the most powerful engine for this high-speed track, McLaren's current package is the most consistent, while championship leader Kimi Antonelli is hindered by a grid penalty."
+      "reason": "McLaren currently possesses the fastest car on the grid with Norris carrying momentum from his Dutch GP win. While Red Bull retains the most powerful engine for Monza's straights, home favorite and championship leader Antonelli is primed for a podium finish at his first Italian GP with Mercedes."
     },
-    "predicted_at": "2026-08-31T01:52:40.298990Z"
+    "predicted_at": "2026-09-01T02:14:23.847438Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Spa-Francorchamps",
-        "circuit": "Spa-Francorchamps",
-        "country": "Belgium",
-        "date_start": "2026-07-19T13:00:00+00:00",
-        "meeting_key": 1290
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Kimi Antonelli",
-          "2nd": "Charles Leclerc",
-          "3rd": "Lando Norris"
-        },
-        "reason": "Championship leader Antonelli has dominant pace with five poles this season and high top speed, making him the favorite for Spa if reliability holds. Leclerc carries momentum from his Silverstone win and improved Ferrari form, while Norris remains a top contender with the straight-line speed necessary for the Belgian circuits long sectors, especially as Verstappen struggles with recurring technical failures."
-      },
-      "predicted_at": "2026-07-06T01:49:55.274976Z"
-    },
     {
       "next_race": {
         "race_name": "Spa-Francorchamps",
@@ -917,6 +899,24 @@
         "reason": "Lando Norris enters Monza with high momentum after back-to-back victories and his 2025 championship title. Although Red Bull retains the most powerful engine for this high-speed track, McLaren's current package is the most consistent, while championship leader Kimi Antonelli is hindered by a grid penalty."
       },
       "predicted_at": "2026-08-31T01:52:40.298990Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Monza",
+        "circuit": "Monza",
+        "country": "Italy",
+        "date_start": "2026-09-06T13:00:00+00:00",
+        "meeting_key": 1293
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Lando Norris",
+          "2nd": "Max Verstappen",
+          "3rd": "Andrea Kimi Antonelli"
+        },
+        "reason": "McLaren currently possesses the fastest car on the grid with Norris carrying momentum from his Dutch GP win. While Red Bull retains the most powerful engine for Monza's straights, home favorite and championship leader Antonelli is primed for a podium finish at his first Italian GP with Mercedes."
+      },
+      "predicted_at": "2026-09-01T02:14:23.847438Z"
     }
   ]
 }

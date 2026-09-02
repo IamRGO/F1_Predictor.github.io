@@ -11,31 +11,13 @@
       "podium": {
         "1st": "Lando Norris",
         "2nd": "Max Verstappen",
-        "3rd": "Andrea Kimi Antonelli"
+        "3rd": "Oscar Piastri"
       },
-      "reason": "McLaren currently possesses the fastest car on the grid with Norris carrying momentum from his Dutch GP win. While Red Bull retains the most powerful engine for Monza's straights, home favorite and championship leader Antonelli is primed for a podium finish at his first Italian GP with Mercedes."
+      "reason": "Lando Norris is the form driver with back-to-back victories and a dominant McLaren car following recent upgrades. Max Verstappen remains a primary threat at Monza due to Red Bull's engine power advantage on high-speed circuits. Oscar Piastri is a consistent podium finisher for the high-performing McLaren team, while championship leader Kimi Antonelli is excluded from the prediction due to a confirmed back-of-the-grid engine penalty."
     },
-    "predicted_at": "2026-09-01T02:14:23.847438Z"
+    "predicted_at": "2026-09-02T01:37:05.869764Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Spa-Francorchamps",
-        "circuit": "Spa-Francorchamps",
-        "country": "Belgium",
-        "date_start": "2026-07-19T13:00:00+00:00",
-        "meeting_key": 1290
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Andrea Kimi Antonelli",
-          "2nd": "Charles Leclerc",
-          "3rd": "Oscar Piastri"
-        },
-        "reason": "Championship leader Antonelli is the clear pace setter with five poles this season and will look to bounce back from a mechanical DNF at Silverstone. Leclerc carries momentum from his British GP victory as Ferrari regains form, while Piastri is favored for the final podium spot due to McLaren's documented top-speed advantage, which is crucial for the long straights of Spa-Francorchamps."
-      },
-      "predicted_at": "2026-07-07T01:47:17.368050Z"
-    },
     {
       "next_race": {
         "race_name": "Spa-Francorchamps",
@@ -917,6 +899,24 @@
         "reason": "McLaren currently possesses the fastest car on the grid with Norris carrying momentum from his Dutch GP win. While Red Bull retains the most powerful engine for Monza's straights, home favorite and championship leader Antonelli is primed for a podium finish at his first Italian GP with Mercedes."
       },
       "predicted_at": "2026-09-01T02:14:23.847438Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Monza",
+        "circuit": "Monza",
+        "country": "Italy",
+        "date_start": "2026-09-06T13:00:00+00:00",
+        "meeting_key": 1293
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Lando Norris",
+          "2nd": "Max Verstappen",
+          "3rd": "Oscar Piastri"
+        },
+        "reason": "Lando Norris is the form driver with back-to-back victories and a dominant McLaren car following recent upgrades. Max Verstappen remains a primary threat at Monza due to Red Bull's engine power advantage on high-speed circuits. Oscar Piastri is a consistent podium finisher for the high-performing McLaren team, while championship leader Kimi Antonelli is excluded from the prediction due to a confirmed back-of-the-grid engine penalty."
+      },
+      "predicted_at": "2026-09-02T01:37:05.869764Z"
     }
   ]
 }

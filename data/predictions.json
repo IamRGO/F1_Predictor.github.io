@@ -11,31 +11,13 @@
       "podium": {
         "1st": "Lando Norris",
         "2nd": "Max Verstappen",
-        "3rd": "Oscar Piastri"
+        "3rd": "Charles Leclerc"
       },
-      "reason": "Lando Norris is the form driver with back-to-back victories and a dominant McLaren car following recent upgrades. Max Verstappen remains a primary threat at Monza due to Red Bull's engine power advantage on high-speed circuits. Oscar Piastri is a consistent podium finisher for the high-performing McLaren team, while championship leader Kimi Antonelli is excluded from the prediction due to a confirmed back-of-the-grid engine penalty."
+      "reason": "Defending champion Norris benefits from McLaren's Monza-specific 'H-Wing' and strong 2025 momentum. Verstappen remains a high-speed specialist who won here last year, while Leclerc is tipped for the podium due to Ferrari's home-race engine upgrade and Kimi Antonelli's grid penalty."
     },
-    "predicted_at": "2026-09-02T01:37:05.869764Z"
+    "predicted_at": "2026-09-03T01:41:15.709647Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Spa-Francorchamps",
-        "circuit": "Spa-Francorchamps",
-        "country": "Belgium",
-        "date_start": "2026-07-19T13:00:00+00:00",
-        "meeting_key": 1290
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Charles Leclerc",
-          "2nd": "Oscar Piastri",
-          "3rd": "Andrea Kimi Antonelli"
-        },
-        "reason": "Leclerc is in peak form following his victory at Silverstone and Ferrari's successful upgrade path. Piastri has a dominant historical record at Spa-Francorchamps, and Antonelli, the current championship leader, is poised to bounce back after securing pole position in the previous round despite a DNF."
-      },
-      "predicted_at": "2026-07-08T01:20:00.919884Z"
-    },
     {
       "next_race": {
         "race_name": "Spa-Francorchamps",
@@ -917,6 +899,24 @@
         "reason": "Lando Norris is the form driver with back-to-back victories and a dominant McLaren car following recent upgrades. Max Verstappen remains a primary threat at Monza due to Red Bull's engine power advantage on high-speed circuits. Oscar Piastri is a consistent podium finisher for the high-performing McLaren team, while championship leader Kimi Antonelli is excluded from the prediction due to a confirmed back-of-the-grid engine penalty."
       },
       "predicted_at": "2026-09-02T01:37:05.869764Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Monza",
+        "circuit": "Monza",
+        "country": "Italy",
+        "date_start": "2026-09-06T13:00:00+00:00",
+        "meeting_key": 1293
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Lando Norris",
+          "2nd": "Max Verstappen",
+          "3rd": "Charles Leclerc"
+        },
+        "reason": "Defending champion Norris benefits from McLaren's Monza-specific 'H-Wing' and strong 2025 momentum. Verstappen remains a high-speed specialist who won here last year, while Leclerc is tipped for the podium due to Ferrari's home-race engine upgrade and Kimi Antonelli's grid penalty."
+      },
+      "predicted_at": "2026-09-03T01:41:15.709647Z"
     }
   ]
 }

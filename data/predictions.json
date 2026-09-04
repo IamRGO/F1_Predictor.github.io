@@ -11,31 +11,13 @@
       "podium": {
         "1st": "Lando Norris",
         "2nd": "Max Verstappen",
-        "3rd": "Charles Leclerc"
+        "3rd": "Lewis Hamilton"
       },
-      "reason": "Defending champion Norris benefits from McLaren's Monza-specific 'H-Wing' and strong 2025 momentum. Verstappen remains a high-speed specialist who won here last year, while Leclerc is tipped for the podium due to Ferrari's home-race engine upgrade and Kimi Antonelli's grid penalty."
+      "reason": "Norris is in peak form seeking a victory hat-trick after winning the previous two rounds. Verstappen is motivated to recover from a recent DNF, while Hamilton is poised to benefit from Ferrari's Monza-specific power unit upgrade and the emotional boost of his first Italian GP in red."
     },
-    "predicted_at": "2026-09-03T01:41:15.709647Z"
+    "predicted_at": "2026-09-04T01:34:59.232067Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Spa-Francorchamps",
-        "circuit": "Spa-Francorchamps",
-        "country": "Belgium",
-        "date_start": "2026-07-19T13:00:00+00:00",
-        "meeting_key": 1290
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Oscar Piastri",
-          "2nd": "Lando Norris",
-          "3rd": "Charles Leclerc"
-        },
-        "reason": "Oscar Piastri demonstrated exceptional performance at Spa-Francorchamps in 2025 with multiple podiums and a victory. McLaren remains the most consistent team at the front, and with Max Verstappen currently on a nine-race winless streak plagued by reliability and safety concerns, the Woking-based team is the favorite. Charles Leclerc is included following his recent win at Silverstone, showing that Ferrari has regained the momentum to challenge for the top spots."
-      },
-      "predicted_at": "2026-07-11T01:19:00.584171Z"
-    },
     {
       "next_race": {
         "race_name": "Spa-Francorchamps",
@@ -917,6 +899,24 @@
         "reason": "Defending champion Norris benefits from McLaren's Monza-specific 'H-Wing' and strong 2025 momentum. Verstappen remains a high-speed specialist who won here last year, while Leclerc is tipped for the podium due to Ferrari's home-race engine upgrade and Kimi Antonelli's grid penalty."
       },
       "predicted_at": "2026-09-03T01:41:15.709647Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Monza",
+        "circuit": "Monza",
+        "country": "Italy",
+        "date_start": "2026-09-06T13:00:00+00:00",
+        "meeting_key": 1293
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Lando Norris",
+          "2nd": "Max Verstappen",
+          "3rd": "Lewis Hamilton"
+        },
+        "reason": "Norris is in peak form seeking a victory hat-trick after winning the previous two rounds. Verstappen is motivated to recover from a recent DNF, while Hamilton is poised to benefit from Ferrari's Monza-specific power unit upgrade and the emotional boost of his first Italian GP in red."
+      },
+      "predicted_at": "2026-09-04T01:34:59.232067Z"
     }
   ]
 }

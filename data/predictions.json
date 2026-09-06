@@ -9,33 +9,15 @@
     },
     "prediction": {
       "podium": {
-        "1st": "Lando Norris",
-        "2nd": "Max Verstappen",
-        "3rd": "Lewis Hamilton"
+        "1st": "George Russell",
+        "2nd": "Pierre Gasly",
+        "3rd": "Charles Leclerc"
       },
-      "reason": "Norris is in peak form seeking a victory hat-trick after winning the previous two rounds. Verstappen is motivated to recover from a recent DNF, while Hamilton is poised to benefit from Ferrari's Monza-specific power unit upgrade and the emotional boost of his first Italian GP in red."
+      "reason": "Pierre Gasly took a shock pole position, but George Russell showed dominant pace throughout practice and starts 2nd in a Mercedes that currently holds a power advantage over Ferrari. Gasly has a strong history at Monza and will likely hold onto a podium spot, while Leclerc, starting 4th, is promoted by Oscar Piastri's 3-place grid penalty and will be highly motivated at Ferrari's home race."
     },
-    "predicted_at": "2026-09-04T01:34:59.232067Z"
+    "predicted_at": "2026-09-06T01:30:43.069629Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Spa-Francorchamps",
-        "circuit": "Spa-Francorchamps",
-        "country": "Belgium",
-        "date_start": "2026-07-19T13:00:00+00:00",
-        "meeting_key": 1290
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Oscar Piastri",
-          "2nd": "Charles Leclerc",
-          "3rd": "Lando Norris"
-        },
-        "reason": "Piastri has a strong track record at Spa-Francorchamps and McLaren remains the most consistent car. Leclerc carries momentum from his recent victory at Silverstone, while Verstappen and Red Bull are currently struggling with a nine-race winless streak and significant reliability issues."
-      },
-      "predicted_at": "2026-07-12T01:20:44.757538Z"
-    },
     {
       "next_race": {
         "race_name": "Spa-Francorchamps",
@@ -917,6 +899,24 @@
         "reason": "Norris is in peak form seeking a victory hat-trick after winning the previous two rounds. Verstappen is motivated to recover from a recent DNF, while Hamilton is poised to benefit from Ferrari's Monza-specific power unit upgrade and the emotional boost of his first Italian GP in red."
       },
       "predicted_at": "2026-09-04T01:34:59.232067Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Monza",
+        "circuit": "Monza",
+        "country": "Italy",
+        "date_start": "2026-09-06T13:00:00+00:00",
+        "meeting_key": 1293
+      },
+      "prediction": {
+        "podium": {
+          "1st": "George Russell",
+          "2nd": "Pierre Gasly",
+          "3rd": "Charles Leclerc"
+        },
+        "reason": "Pierre Gasly took a shock pole position, but George Russell showed dominant pace throughout practice and starts 2nd in a Mercedes that currently holds a power advantage over Ferrari. Gasly has a strong history at Monza and will likely hold onto a podium spot, while Leclerc, starting 4th, is promoted by Oscar Piastri's 3-place grid penalty and will be highly motivated at Ferrari's home race."
+      },
+      "predicted_at": "2026-09-06T01:30:43.069629Z"
     }
   ]
 }

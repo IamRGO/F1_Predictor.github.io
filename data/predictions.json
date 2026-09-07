@@ -1,41 +1,23 @@
 {
   "latest": {
     "next_race": {
-      "race_name": "Monza",
-      "circuit": "Monza",
-      "country": "Italy",
-      "date_start": "2026-09-06T13:00:00+00:00",
-      "meeting_key": 1293
+      "race_name": "Madring",
+      "circuit": "Madring",
+      "country": "Spain",
+      "date_start": "2026-09-13T13:00:00+00:00",
+      "meeting_key": 1294
     },
     "prediction": {
       "podium": {
-        "1st": "George Russell",
-        "2nd": "Pierre Gasly",
-        "3rd": "Charles Leclerc"
+        "1st": "Andrea Kimi Antonelli",
+        "2nd": "George Russell",
+        "3rd": "Lando Norris"
       },
-      "reason": "Pierre Gasly took a shock pole position, but George Russell showed dominant pace throughout practice and starts 2nd in a Mercedes that currently holds a power advantage over Ferrari. Gasly has a strong history at Monza and will likely hold onto a podium spot, while Leclerc, starting 4th, is promoted by Oscar Piastri's 3-place grid penalty and will be highly motivated at Ferrari's home race."
+      "reason": "Andrea Kimi Antonelli is in world-class form, leading the championship by 66 points and coming off a legendary victory from P19 at Monza. Mercedes currently appears to have the fastest car on the grid, with George Russell consistently finishing in the top two. Lando Norris and McLaren remain the strongest challengers to Mercedes' dominance, especially on technical tracks like the new Madrid street circuit."
     },
-    "predicted_at": "2026-09-06T01:30:43.069629Z"
+    "predicted_at": "2026-09-07T01:29:10.357213Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Spa-Francorchamps",
-        "circuit": "Spa-Francorchamps",
-        "country": "Belgium",
-        "date_start": "2026-07-19T13:00:00+00:00",
-        "meeting_key": 1290
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Oscar Piastri",
-          "2nd": "Lando Norris",
-          "3rd": "Charles Leclerc"
-        },
-        "reason": "McLaren has historically dominated Spa-Francorchamps in recent seasons, with Piastri showing exceptional form at this track. Leclerc carries significant momentum from his victory at Silverstone, while Max Verstappen and Red Bull are currently facing a nine-race winless streak and severe reliability concerns."
-      },
-      "predicted_at": "2026-07-13T01:21:49.228137Z"
-    },
     {
       "next_race": {
         "race_name": "Spa-Francorchamps",
@@ -917,6 +899,24 @@
         "reason": "Pierre Gasly took a shock pole position, but George Russell showed dominant pace throughout practice and starts 2nd in a Mercedes that currently holds a power advantage over Ferrari. Gasly has a strong history at Monza and will likely hold onto a podium spot, while Leclerc, starting 4th, is promoted by Oscar Piastri's 3-place grid penalty and will be highly motivated at Ferrari's home race."
       },
       "predicted_at": "2026-09-06T01:30:43.069629Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Madring",
+        "circuit": "Madring",
+        "country": "Spain",
+        "date_start": "2026-09-13T13:00:00+00:00",
+        "meeting_key": 1294
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "George Russell",
+          "3rd": "Lando Norris"
+        },
+        "reason": "Andrea Kimi Antonelli is in world-class form, leading the championship by 66 points and coming off a legendary victory from P19 at Monza. Mercedes currently appears to have the fastest car on the grid, with George Russell consistently finishing in the top two. Lando Norris and McLaren remain the strongest challengers to Mercedes' dominance, especially on technical tracks like the new Madrid street circuit."
+      },
+      "predicted_at": "2026-09-07T01:29:10.357213Z"
     }
   ]
 }

@@ -11,31 +11,13 @@
       "podium": {
         "1st": "Andrea Kimi Antonelli",
         "2nd": "George Russell",
-        "3rd": "Lando Norris"
+        "3rd": "Max Verstappen"
       },
-      "reason": "Andrea Kimi Antonelli is in world-class form, leading the championship by 66 points and coming off a legendary victory from P19 at Monza. Mercedes currently appears to have the fastest car on the grid, with George Russell consistently finishing in the top two. Lando Norris and McLaren remain the strongest challengers to Mercedes' dominance, especially on technical tracks like the new Madrid street circuit."
+      "reason": "Mercedes is currently the dominant force following a 1-2 finish at Monza, with Kimi Antonelli leading the championship and showing 'generational talent' form. While Ferrari expects to bounce back, Leclerc is recovering from a heavy crash and Mercedes' technical advantage makes them favorites for the new Madrid circuit, with Verstappen consistently securing podiums as Red Bull improves."
     },
-    "predicted_at": "2026-09-07T01:29:10.357213Z"
+    "predicted_at": "2026-09-08T01:38:26.549069Z"
   },
   "history": [
-    {
-      "next_race": {
-        "race_name": "Spa-Francorchamps",
-        "circuit": "Spa-Francorchamps",
-        "country": "Belgium",
-        "date_start": "2026-07-19T13:00:00+00:00",
-        "meeting_key": 1290
-      },
-      "prediction": {
-        "podium": {
-          "1st": "Andrea Kimi Antonelli",
-          "2nd": "Oscar Piastri",
-          "3rd": "Lando Norris"
-        },
-        "reason": "Mercedes enters Spa as the 2026 title favorite, and Antonelli is poised to bounce back after a 5-race winning streak was interrupted by recent DNFs. McLaren remains the most consistent team on the grid, with Piastri having a stellar historical record at Spa and Norris maintaining his record-breaking form, while Verstappen is hampered by recurring 'super-dangerous' rear wing failures."
-      },
-      "predicted_at": "2026-07-15T01:08:14.045827Z"
-    },
     {
       "next_race": {
         "race_name": "Spa-Francorchamps",
@@ -917,6 +899,24 @@
         "reason": "Andrea Kimi Antonelli is in world-class form, leading the championship by 66 points and coming off a legendary victory from P19 at Monza. Mercedes currently appears to have the fastest car on the grid, with George Russell consistently finishing in the top two. Lando Norris and McLaren remain the strongest challengers to Mercedes' dominance, especially on technical tracks like the new Madrid street circuit."
       },
       "predicted_at": "2026-09-07T01:29:10.357213Z"
+    },
+    {
+      "next_race": {
+        "race_name": "Madring",
+        "circuit": "Madring",
+        "country": "Spain",
+        "date_start": "2026-09-13T13:00:00+00:00",
+        "meeting_key": 1294
+      },
+      "prediction": {
+        "podium": {
+          "1st": "Andrea Kimi Antonelli",
+          "2nd": "George Russell",
+          "3rd": "Max Verstappen"
+        },
+        "reason": "Mercedes is currently the dominant force following a 1-2 finish at Monza, with Kimi Antonelli leading the championship and showing 'generational talent' form. While Ferrari expects to bounce back, Leclerc is recovering from a heavy crash and Mercedes' technical advantage makes them favorites for the new Madrid circuit, with Verstappen consistently securing podiums as Red Bull improves."
+      },
+      "predicted_at": "2026-09-08T01:38:26.549069Z"
     }
   ]
 }
